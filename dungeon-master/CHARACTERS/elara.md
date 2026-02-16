@@ -10,8 +10,8 @@
     - **Bardic Inspiration:** Grant a d6 to ally rolls (3/day).
     - **Song of Rest:** Allies regain extra 1d6 HP during short rest.
     - **Jack of All Trades:** Add half proficiency to ability checks.
-    - **Spellcasting:** Vicious Mockery, Healing Word (Used), Thunderwave (Used), Faerie Fire. (3 Slots total).
+    - **Spellcasting:** Vicious Mockery, Healing Word, Thunderwave, Faerie Fire. (3/3 Slots available).
     - **Darkvision:** Can see in dim light.
-- **Location:** Old Keep - Great Hall (Throne)
-- **Inventory:** Leather Armor, Rapier, Lute, Dagger, Map of Crypts.
-- **Notes:** Recruited by Kriv to investigate the Old Keep.
+- **Location:** Oakhaven - Widow Miller's Cottage (Garden)
+- **Inventory:** Leather Armor, Rapier, Lute, Dagger, Map of Crypts, Pearl of Power, 67 Gold Pieces, 15 Silver Pieces.
+- **Notes:** Recruited by Kriv. Helped defeat the Necromancer Malakar. Finished fence repairs.

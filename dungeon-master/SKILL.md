@@ -27,3 +27,5 @@ breakdown: sample
 how to fix: sample
 
 5. **Saved data**: make sure to check for data and update the data in the **CAMPAIGNS** and **CHARACTERS** folders, also in the **dungeon-master** folder that this is in.
+
+6. **Organization**: Keep character files focused on stats, inventory, and active quests/conditions. Keep the storytelling in the campaign logs. Structure campaign logs with clear headers (Major Events, Minor Encounters, Bosses, Loot) and use bullet points for readability.
