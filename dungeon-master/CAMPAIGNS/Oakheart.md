@@ -61,7 +61,32 @@
 - **Combat:** Kriv intimidated the wolves (Frightened), then cleaved a boulder to drive them off. Wolves fled.
 - **Reunion:** Kriv returned to the cottage. Elara finished fence repairs. Widow Miller served a meal.
 - **Rumors:** Widow Miller mentioned a missing caravan and trouble in the High Pass. Suggested speaking to Garrick at the General Store.
+- **Departure:** Party thanked Widow Miller and headed to the General Store.
+- **Garrick:** Kriv intimidated Garrick (Roll: 15). Garrick offered quest: Investigate missing caravan in High Pass. Identified enemies as likely **Bugbears** (stealthy, strong, organized). Offered **Potion of Hill Giant Strength** for 50gp.
+- **Haggling:** Elara (with Kriv's help) persuaded Garrick to lower the potion price to 25gp (Roll: 22).
+- **Transaction:** Kriv bought the Potion of Hill Giant Strength for 25gp. Garrick provided directions to the High Pass (Raven's Drop).
+- **Thomas:** Garrick described the missing driver: Missing left pinky finger, wears a bright red scarf.
+- **Intel:** Garrick confirmed Bugbears use Morningstars/Javelins. Mentioned unnatural fog moving with them (possible magic).
+- **Preparation:** Kriv and Elara split up to shop and rest. Plan to meet at dawn for the High Pass.
+- **Level Up:** Party reached Level 3. Kriv swore the Oath of the Ancients.
+- **Mother Hemlock:** Kriv traded a Scroll of Ray of Enfeeblement and an Agate for 3 Potions of Healing.
+- **Intel:** Kriv asked about unnatural fog. Mother Hemlock offered **Sunfire Oil** (15gp) to cut through magical fog.
+- **Transaction:** Kriv bought Sunfire Oil (15gp). Learned about **Varrick**, a collector of dark artifacts in the capital (*The Obsidian Eye*).
+- **Lore:** Mother Hemlock warned about the High Pass. Mentioned "The Silent Watchers" (stone markers) that must be followed to stay on the path in the fog.
+- **Blacksmith:** Kriv visited Durin at The Anvil & Hammer. Plate armor is too expensive (1500gp). Offered sharpening (10gp) or polishing/repairs (5gp).
+- **Upgrades:** Kriv paid 15gp for armor polishing and weapon sharpening (+1 dmg on next hit).
+- **High Pass:** Party arrived at the entrance to Raven's Drop. Kriv prepared and lit a Sunfire Torch, then entered the fog.
+- **Ambush?:** Party heard a falling rock. Elara spotted a large silhouette on the cliffs above (Perception: 20).
+- **Combat Round 1:** Kriv handed the torch to Elara and readied his Greatsword. Two Bugbears ambushed the party. Elara was surprised and hit (14 dmg). Kriv was hit (11 dmg).
+- **Combat Round 2:** Kriv used Nature's Wrath to restrain Bugbear 1. Elara drank a potion (+9 HP). Bugbear 1 missed Kriv. Bugbear 2 knocked Elara unconscious (-16 dmg).
+- **Combat Round 3:** Kriv used Inspiration and Divine Smite on Bugbear 2 (23 dmg). Elara succeeded Death Save (1). Bugbear 1 broke free. Bugbear 2 hit Kriv (11 dmg).
+- **Combat Round 4:** Kriv took Dodge action. Elara succeeded Death Save (2). Bugbears missed Kriv (Disadvantage).
+- **Combat Round 5:** Kriv killed Bugbear 2. Elara rolled a Natural 20 on her Death Save, regaining 1 HP. Bugbear 1 missed Kriv.
+- **Combat Round 6:** Elara stood up, cast Vicious Mockery (3 dmg), and Healing Word on Kriv (+5 HP). Kriv hit Bugbear 1 (13 dmg).
+- **Combat Round 7:** Kriv killed Bugbear 1 (12 dmg). Combat resolved.
+- **Recovery:** Elara drank a potion (+8 HP). Kriv used Lay on Hands on himself (+10 HP). Party looted the Bugbears, finding 10gp, 15sp, a crude map to a cave, and Thomas's red scarf.
+- **Short Rest:** The party rested. Kriv regained 11 HP (full). Elara regained 9 HP. Kriv's Channel Divinity recharged.
 
 ### Current Status
-- **Location:** Oakhaven - Widow Miller's Cottage (Garden).
-- **State:** Roleplay.
+- **Location:** High Pass - Raven's Drop.
+- **State:** Victory / Recovery.
