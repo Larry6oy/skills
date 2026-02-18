@@ -4,20 +4,20 @@
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
 - **Level:** 3 (XP: 1150)
-- **Status:** Alive (HP: 28/28)
+- **Status:** Alive (HP: 11/28)
 - **Stats:** Strength +2, Charisma +1
 - **Abilities:**
-    - **Breath Weapon:** Lightning Line (Recharged)
+    - **Breath Weapon:** Lightning Line (Used)
     - **Resistance:** Lightning, Necrotic
     - **Divine Sense:** Detect Undead/Fiends (1/2 uses remaining)
     - **Divine Health:** Immune to disease.
     - **Sacred Oath:** Oath of the Ancients
-    - **Channel Divinity:** Nature's Wrath, Turn the Faithless (Recharged)
+    - **Channel Divinity:** Nature's Wrath (Used), Turn the Faithless
     - **Oath Spells:** Ensnaring Strike, Speak with Animals
     - **Lay on Hands:** 0 HP healing pool (Used)
     - **Inspiration:** Used
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** 2/3 Slots (Level 1)
+    - **Spellcasting:** 0/3 Slots (Level 1)
 - **Location:** High Pass - Raven's Drop
-- **Inventory:** Chainmail (Polished), Dark-Steel Greatsword +1, Longsword, Shield, Holy Symbol, 0 Copper Pieces, 15 Silver Pieces, 17 Gold Pieces, Ring of Necrotic Resistance (Equipped), Ring of Swimming, Baron's Signet Ring, Potion of Greater Healing, Necromancer's Spellbook, Silver Locket, Potion of Hill Giant Strength, Potion of Healing (2), Thomas's Scarf.
-- **Notes:** Defeated Bugbears. Took a short rest. Found Thomas's scarf and a map to a cave.
+- **Inventory:** Chainmail (Polished), Dark-Steel Greatsword +1, Longsword, Shield, Holy Symbol, 0 Copper Pieces, 15 Silver Pieces, 92 Gold Pieces, Ring of Necrotic Resistance (Equipped), Ring of Swimming, Baron's Signet Ring, Potion of Greater Healing, Necromancer's Spellbook, Silver Locket, Potion of Hill Giant Strength, Potion of Healing (3), Thomas's Scarf, Potion of Climbing, Scroll of Fog Cloud.
+- **Notes:** Combat won. Interrogated Grug. Looted cave. Recovered caravan.

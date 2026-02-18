@@ -86,6 +86,18 @@
 - **Combat Round 7:** Kriv killed Bugbear 1 (12 dmg). Combat resolved.
 - **Recovery:** Elara drank a potion (+8 HP). Kriv used Lay on Hands on himself (+10 HP). Party looted the Bugbears, finding 10gp, 15sp, a crude map to a cave, and Thomas's red scarf.
 - **Short Rest:** The party rested. Kriv regained 11 HP (full). Elara regained 9 HP. Kriv's Channel Divinity recharged.
+- **Intel:** Kriv cast *Speak with Animals*. A Mountain Goat confirmed the Bugbears took the caravan, horses, and people into the cave marked on the map.
+- **Scouting:** Kriv looted Javelins (4). Elara cast *Invisibility* on Kriv. Kriv scouted the cave: Found the caravan, Thomas + 2 prisoners, 3 Bugbears, 1 Bugbear Chief, and 1 Shaman.
+- **Infiltration:** Kriv threw a rock to distract the Bugbears (Success). While they investigated, Kriv unlocked the prisoner cage unseen.
+- **Ambush:** Kriv armed the prisoners. Surprise round: Prisoners killed the Shaman with javelins. Kriv Smited the Chief (23 dmg). Kriv roared to alert Elara.
+- **Combat Round 1:** Kriv used Breath Weapon (9 dmg). Chief hit Kriv (10 dmg). Elara arrived and cast Shatter (15 dmg). Prisoners retrieved weapons.
+- **Combat Round 2:** Kriv restrained Chief (Nature's Wrath). Prisoners killed Bugbear 1. Chief missed Kriv, then broke free. Bugbear 2 downed Guard 1. Bugbear 3 hit Kriv (10 dmg). Elara mocked Bugbear 3.
+- **Combat Round 3:** Kriv drank Greater Healing (+14 HP). Thomas revived Guard 1 (+7 HP). Guard 2 hit Bugbear 2 (5 dmg). Chief hit Kriv (11 dmg). Bugbear 3 hit Elara (9 dmg). Elara cast Thunderwave on Bugbear 3 (11 dmg).
+- **Combat Round 4:** Kriv killed Chief with Divine Smite (26 dmg). Prisoners hit Bugbear 3 (9 dmg). Elara killed Bugbear 2. Bugbear 3 missed Kriv.
+- **Resolution:** Kriv intimidated the last Bugbear. It surrendered and agreed to talk.
+- **Interrogation:** Grug confessed they were stealing supplies for the "Iron Legion" at Cragmaw Castle under King Grol. The Shaman created the fog.
+- **Loot:** Found 150gp, 2 Potions of Healing, Potion of Climbing, Scroll of Fog Cloud. Caravan supplies (Iron, Grain, Medicine) recovered.
+
 
 ### Current Status
 - **Location:** High Pass - Raven's Drop.
