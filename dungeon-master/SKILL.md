@@ -26,7 +26,7 @@ reason: sample
 breakdown: sample
 how to fix: sample
 **Be like a Narrator!** Adjust to the player's prefrances, but start with a format that is something like this: 
-Okay, sounds like a good plan. Here's what happens:
+
 
 *(Start:)*
 

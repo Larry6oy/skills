@@ -147,3 +147,11 @@
 - **Action:** Kriv has pushed open the door to Mother Hemlock's hut and asked if everything is okay.
 - **Action:** Kriv is inside Mother Hemlock's "Employees Only" area, observing the aftermath of Felix's potion-making mishap.
 - **Action:** Kriv is waiting outside Mother Hemlock's office.
+- **Action:** Kriv poked at the solidified jelly with his claw.
+- **Action:** Kriv is asking to cast lightning onto the jelly.
+- **Action:** Kriv casted lightning onto the jelly.
+- **Action:** Kriv ended the experiment with the jelly.
+- **Action:** Kriv paid Mother Hemlock for another lesson and left the hut with Felix.
+- **Action:** Kriv exits the hut with felix, meets Elara.
+- **Action:** Kriv explains the jelly to Elara and suggests sparring with the guards.
+- **Action:** Kriv, Elara, and Felix head towards the guard station to spar.

@@ -14,6 +14,6 @@
     - **Cutting Words:** Reaction to reduce enemy rolls.
     - **Spellcasting:** Vicious Mockery, Mage Hand, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter, Heat Metal. (4/4 Lvl 1, 3/3 Lvl 2).
     - **Darkvision:** Can see in dim light.
-- **Location:** Oakhaven - Mother Hemlock's Hut
+- **Location:** Oakhaven - Guard Station.
 - **Inventory:** Studded Leather Armor, Dagger of Venom, Silvered Rapier, Bag of Tricks (Gray) [2/3 Charges], Rapier, Lute, Dagger, Pearl of Power, Torches (4), Hempen Rope (50ft), 151 Gold Pieces, 30 Silver Pieces, Crude Map, Copy of Crypt Map, Potion of Healing. 
-- **Notes:** Watching over Felix at Mother Hemlock's.
+- **Notes:** Is watching felix spar.
