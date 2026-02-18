@@ -12,7 +12,7 @@
     - **Divine Sense:** Detect Undead/Fiends (2/2 uses remaining)
     - **Divine Health:** Immune to disease.
     - **Feat:** Heavy Armor Master (+1 Str, -3 dmg from non-magical B/P/S).
-    - **Sacred Oath:** Oath of the Ancients
+    - **Sacred Oath:** Oath of the Ancients (Level 3)
     - **Channel Divinity:** Nature's Wrath (Used), Turn the Faithless
     - **Oath Spells:** Ensnaring Strike, Speak with Animals
     - **Lay on Hands:** 0/20 HP healing pool (Used)

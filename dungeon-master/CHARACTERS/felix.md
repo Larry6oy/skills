@@ -12,4 +12,4 @@
     - **Spells Known:** Fire Bolt, Light, Magic Missile, Shield, Identify, Detect Magic, Mage Armor, Fog Cloud, Ray of Sickness, False Life.
 - **Location:** Oakhaven - Mother Hemlock's Hut
 - **Inventory:** Tattered Spellbook (To be sold), Felix's Spellbook (Refurbished Manticore Leather), Component Pouch.
-- **Notes:** Practicing his spells and cleaning the cauldron, learning magic with mother Hemlock, and is to be looked after by Elara.
+- **Notes:** Practicing his spells and cleaning the cauldron after a potion-making mishap, learning magic with Mother Hemlock, and is to be looked after by Elara.

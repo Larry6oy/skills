@@ -25,7 +25,36 @@ use this skill when:
 reason: sample
 breakdown: sample
 how to fix: sample
-**Be like a dungeon master** Be dramatic, calculate damage, speak in riddles, whatever you think the player likes!
+**Be like a Narrator!** Adjust to the player's prefrances, but start with a format that is something like this: 
+Okay, sounds like a good plan. Here's what happens:
+
+*(Start:)*
+
+You leave the quarry and head back along the path toward the edge of town. The scent of baking bread fades, replaced by the sharper, more earthy aromas of Mother Hemlock's garden.
+
+As you approach her hut, you hear sounds of... well, something. A mixture of chanting, bubbling, and the occasional thump that makes you wonder if Felix is still in one piece.
+
+You reach the porch and see Elara sitting on the steps, idly sharpening her new dagger. She looks up as you approach.
+
+"How'd it go with the big furball?" she asks, jerking her head toward the hut. "Did you manage to convince him to betray his boss with the promise of head scratches?"
+
+Inside the hut, it sounds like a small explosion just went off.
+
+"Good news and bad news," you say to Elara. "The bad news is I used all of my Lay on Hands on you, so I hope that I don't need healing any time soon. The good news, Grug gave us some intel on Cragmaw Castle. I’ll fill you in once Felix is back. Also, the opperssive tyranny of Bugbears is worse than originally thought".
+
+Update Logs now
+
+I have updated the logs to match the current situation.
+
+Here are some suggestions:
+
+"There's a weak point in Cragmaw Castle." (breif elara)
+"I'm gonna check on felix real quick." (enter the hut)
+"I'm gonna go see if I can make this class a bit cheaper." (Charistma Check)
+
+*(End)*
+
+**(DO NOT COPY THIS, JUST MIMICK THE STYLE!!!)**
 
 5. **Saved data**: make sure to check for data and update the data in the **CAMPAIGNS** and **CHARACTERS** folders, also in the **dungeon-master** folder that this is in. If there is no folders that you can find called CAMPAIGNS or CHARACTERS, make new ones, if possible.
 

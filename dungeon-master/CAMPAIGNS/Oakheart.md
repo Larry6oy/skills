@@ -143,3 +143,7 @@
     1. Train Felix.
     2. Interrogate Grug (Active).
     3. Clear the Old Keep Crypts (Gold/Loot).
+
+- **Action:** Kriv has pushed open the door to Mother Hemlock's hut and asked if everything is okay.
+- **Action:** Kriv is inside Mother Hemlock's "Employees Only" area, observing the aftermath of Felix's potion-making mishap.
+- **Action:** Kriv is waiting outside Mother Hemlock's office.
