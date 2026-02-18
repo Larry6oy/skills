@@ -117,6 +117,7 @@
 - **Location:** Oakhaven - The Golden Tankard.
 - **State:** Roleplay / Planning.
 
+
 ## Session 3
 ### Major Events
 - **Caravan Search:** Kriv inquired about transport. Found Silas, a wool merchant, offering passage to the capital in exchange for protection.
@@ -155,3 +156,4 @@
 - **Action:** Kriv exits the hut with felix, meets Elara.
 - **Action:** Kriv explains the jelly to Elara and suggests sparring with the guards.
 - **Action:** Kriv, Elara, and Felix head towards the guard station to spar.
+- **Event:** At the Guard Station for a spar.

@@ -56,6 +56,6 @@ Here are some suggestions:
 
 **(DO NOT COPY THIS, JUST MIMICK THE STYLE!!!)**
 
-5. **Saved data**: make sure to check for data and update the data in the **CAMPAIGNS** and **CHARACTERS** folders, also in the **dungeon-master** folder that this is in. If there is no folders that you can find called CAMPAIGNS or CHARACTERS, make new ones, if possible.
+5. ***Saved data* IMPORTANT!!**: make sure to check for data and update the data in the **CAMPAIGNS** and **CHARACTERS** folders, also in the **dungeon-master** folder that this is in. If there is no folders that you can find called CAMPAIGNS or CHARACTERS, make new ones, if possible.
 
 6. **Organization**: Keep character files focused on stats, inventory, and active quests/conditions. Keep the storytelling in the campaign logs. Structure campaign logs with clear headers (Major Events, Minor Encounters, Bosses, Loot) and use bullet points for readability.

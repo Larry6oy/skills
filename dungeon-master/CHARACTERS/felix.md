@@ -11,5 +11,5 @@
     - **Spellcasting:** 1/2 Slots (Level 1).
     - **Spells Known:** Fire Bolt, Light, Magic Missile, Shield, Identify, Detect Magic, Mage Armor, Fog Cloud, Ray of Sickness, False Life.
 - **Location:** Oakhaven - Guard Station
-- **Inventory:** Tattered Spellbook (To be sold), Felix's Spellbook (Refurbished Manticore Leather), Component Pouch, Collapsable Cauldron (lent by Mother Hemlock), Dagger (improvised).
-- **Notes:** Practicing his spells and cleaning the cauldron after a potion-making mishap, learning magic with Mother Hemlock. Is being watched over by Elara.
+- **Inventory:** Tattered Spellbook (To be sold), Felix's Spellbook (Refurbished Manticore Leather), Component Pouch, Collapsable Cauldron (lent by Mother Hemlock).
+- **Notes:** Watching Kriv and Elara spar with the guards, Baruk and Lyra. Cast mage armor.
