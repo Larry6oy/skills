@@ -3,21 +3,22 @@
 - **Name:** Kriv
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
-- **Level:** 3 (XP: 1825)
-- **Status:** Alive (HP: 28/28)
-- **Stats:** Strength +2, Charisma +1
+- **Level:** 4 (XP: 2858)
+- **Status:** Alive (HP: 36/36)
+- **Stats:** Strength +3, Charisma +1
 - **Abilities:**
-    - **Breath Weapon:** Lightning Line (Recharged)
+    - **Breath Weapon:** Lightning Line (Used)
     - **Resistance:** Lightning, Necrotic
-    - **Divine Sense:** Detect Undead/Fiends (1/2 uses remaining)
+    - **Divine Sense:** Detect Undead/Fiends (2/2 uses remaining)
     - **Divine Health:** Immune to disease.
+    - **Feat:** Heavy Armor Master (+1 Str, -3 dmg from non-magical B/P/S).
     - **Sacred Oath:** Oath of the Ancients
-    - **Channel Divinity:** Nature's Wrath, Turn the Faithless (Recharged)
+    - **Channel Divinity:** Nature's Wrath (Used), Turn the Faithless
     - **Oath Spells:** Ensnaring Strike, Speak with Animals
-    - **Lay on Hands:** 15 HP healing pool (Recharged)
+    - **Lay on Hands:** 0/20 HP healing pool (Used)
     - **Inspiration:** 1 use (Recharged)
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** 3/3 Slots (Level 1)
-- **Location:** Oakhaven - The Golden Tankard
-- **Inventory:** Splint Armor (Equipped), Chainmail (Polished), Dark-Steel Greatsword +1, Longsword, Shield, Holy Symbol, 0 Copper Pieces, 15 Silver Pieces, 37 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Baron's Signet Ring, Potion of Greater Healing, Necromancer's Spellbook, Silver Locket, Potion of Healing (3), Potion of Climbing, Scroll of Fog Cloud.
-- **Notes:** Long Rest taken. Planning trip to Capital. Gave Hill Giant Potion to Elara.
+    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (0/3 Slots Level 1)
+- **Location:** Oakhaven - Quarry
+- **Inventory:** Splint Armor (Equipped), Cloak of the Manticore (Equipped), Chainmail (Polished), Dark-Steel Greatsword +1, Returning Javelins (6), Longsword, Shield, Holy Symbol, 0 Copper Pieces, 13 Silver Pieces, 75 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Wax Mold of Baron's Signet, Silver Locket, Potion of Healing (3), Potion of Climbing, Holy Water (4), Potion of Acid Resistance.
+- **Notes:** Talking plans with Elara

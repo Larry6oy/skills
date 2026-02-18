@@ -115,4 +115,31 @@
 
 ### Current Status
 - **Location:** Oakhaven - The Golden Tankard.
-- **State:** Long Rest (End of Session).
+- **State:** Roleplay / Planning.
+
+## Session 3
+### Major Events
+- **Caravan Search:** Kriv inquired about transport. Found Silas, a wool merchant, offering passage to the capital in exchange for protection.
+- **Travel:** Escorted Silas's caravan to the Capital City of Aethelgard (4 days travel). No combat encounters.
+- **Arrival:** Arrived in Aethelgard. Received payment (10gp each).
+- **The Obsidian Eye:** Party located Varrick's shop in the Magic District.
+
+## End of Chapter
+- **Continued in:** `Capital.md`
+
+## Session 4: The Return
+- **Party:** Kriv (Lvl 4), Elara (Lvl 4), Felix (Lvl 1 Wizard Apprentice).
+- **Arrival:** Party returned from the Capital with supplies and a new apprentice.
+- **Widow Miller:** Visited Widow Miller. Introduced Felix. Ate blackberry pie.
+- **Mother Hemlock:** Visited Mother Hemlock. Relayed Varrick's greetings. Hemlock agreed to teach Felix brewing (under threat of polymorph).
+- **Party Split:** Kriv left Elara and Felix at the hut. Kriv bought a deluxe meal (1gp) and went to the Quarry.
+- **Interrogation:** Kriv fed Grug a deluxe meal to gain his trust. Grug revealed he prefers the quarry to King Grol's rule.
+- **Instructions given**: Kriv told Elara to rest up and recover as much as possible. He will keep watch while Elara sings at the campfire..
+- **Planning**: The party are to set up camp to be heavily defensible.
+
+- **Intel:** Grug revealed a secret entrance to Cragmaw Castle (canvas flap on the north wall) and mentioned a captive Owlbear that could be used as a distraction.
+- **Current Status:** Oakhaven - Quarry.
+- **Objectives:**
+    1. Train Felix.
+    2. Interrogate Grug (Active).
+    3. Clear the Old Keep Crypts (Gold/Loot).

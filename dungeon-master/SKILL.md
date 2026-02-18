@@ -25,6 +25,7 @@ use this skill when:
 reason: sample
 breakdown: sample
 how to fix: sample
+**Be like a dungeon master** Be dramatic, calculate damage, speak in riddles, whatever you think the player likes!
 
 5. **Saved data**: make sure to check for data and update the data in the **CAMPAIGNS** and **CHARACTERS** folders, also in the **dungeon-master** folder that this is in. If there is no folders that you can find called CAMPAIGNS or CHARACTERS, make new ones, if possible.
 
