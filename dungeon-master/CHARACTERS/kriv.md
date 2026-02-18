@@ -14,10 +14,10 @@
     - **Sacred Oath:** Oath of the Ancients
     - **Channel Divinity:** Nature's Wrath, Turn the Faithless (Recharged)
     - **Oath Spells:** Ensnaring Strike, Speak with Animals
-    - **Lay on Hands:** 0 HP healing pool (Used)
-    - **Inspiration:** Used
+    - **Lay on Hands:** 15 HP healing pool (Recharged)
+    - **Inspiration:** 1 use (Recharged)
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** 0/3 Slots (Level 1)
-- **Location:** Oakhaven - The Anvil & Hammer
-- **Inventory:** Chainmail (Polished), Dark-Steel Greatsword +1, Longsword, Shield, Holy Symbol, 0 Copper Pieces, 15 Silver Pieces, 237 Gold Pieces, Ring of Necrotic Resistance (Equipped), Ring of Swimming, Brooch of Shielding, Baron's Signet Ring, Potion of Greater Healing, Necromancer's Spellbook, Silver Locket, Potion of Hill Giant Strength, Potion of Healing (3), Potion of Climbing, Scroll of Fog Cloud.
-- **Notes:** Quest Complete. Sold loot to Durin.
+    - **Spellcasting:** 3/3 Slots (Level 1)
+- **Location:** Oakhaven - The Golden Tankard
+- **Inventory:** Splint Armor (Equipped), Chainmail (Polished), Dark-Steel Greatsword +1, Longsword, Shield, Holy Symbol, 0 Copper Pieces, 15 Silver Pieces, 37 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Baron's Signet Ring, Potion of Greater Healing, Necromancer's Spellbook, Silver Locket, Potion of Healing (3), Potion of Climbing, Scroll of Fog Cloud.
+- **Notes:** Long Rest taken. Planning trip to Capital. Gave Hill Giant Potion to Elara.

@@ -104,8 +104,15 @@
 - **Judgment:** Grug sentenced to hard labor at the quarry.
 - **Reward:** Garrick paid 200gp and gave a Brooch of Shielding. Offered 50gp for the Bugbear loot.
 - **Loot Sale:** Kriv split the reward with Elara (100gp each). The party went to Durin (Blacksmith) to sell the Bugbear loot. Elara haggled the price up to 90gp (45gp each).
+- **Shopping:** Elara bought the Silvered Rapier (130gp). Kriv put the Splint Armor on hold.
+- **Garrick's Special Stock:** Party returned to Garrick's to see his "exquisite" items (Bag of Holding, Periapt of Wound Closure, Wand of Magic Detection).
+- **Trade:** Elara haggled with Garrick. Traded Ring of Swimming, Sunfire Torch, and 100gp for the **Periapt of Wound Closure**.
+- **Loan:** Elara lent Kriv 100gp to help him buy armor.
+- **Purchase:** Kriv bought Splint Armor from Durin (200gp).
+- **Rest:** Party gathered at The Golden Tankard for dinner and a Long Rest. Kriv attuned to new magic items.
+- **Planning:** Kriv suggested traveling to the capital to sell the Necromancer's Spellbook. Gave Potion of Hill Giant Strength to Elara.
 
 
 ### Current Status
-- **Location:** Oakhaven - The Anvil & Hammer.
-- **State:** Roleplay / Transaction.
+- **Location:** Oakhaven - The Golden Tankard.
+- **State:** Long Rest (End of Session).
