@@ -3,21 +3,21 @@
 - **Name:** Kriv
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
-- **Level:** 3 (XP: 1150)
-- **Status:** Alive (HP: 11/28)
+- **Level:** 3 (XP: 1825)
+- **Status:** Alive (HP: 28/28)
 - **Stats:** Strength +2, Charisma +1
 - **Abilities:**
-    - **Breath Weapon:** Lightning Line (Used)
+    - **Breath Weapon:** Lightning Line (Recharged)
     - **Resistance:** Lightning, Necrotic
     - **Divine Sense:** Detect Undead/Fiends (1/2 uses remaining)
     - **Divine Health:** Immune to disease.
     - **Sacred Oath:** Oath of the Ancients
-    - **Channel Divinity:** Nature's Wrath (Used), Turn the Faithless
+    - **Channel Divinity:** Nature's Wrath, Turn the Faithless (Recharged)
     - **Oath Spells:** Ensnaring Strike, Speak with Animals
     - **Lay on Hands:** 0 HP healing pool (Used)
     - **Inspiration:** Used
     - **Divine Smite:** Unlock at Level 2
     - **Spellcasting:** 0/3 Slots (Level 1)
-- **Location:** High Pass - Raven's Drop
-- **Inventory:** Chainmail (Polished), Dark-Steel Greatsword +1, Longsword, Shield, Holy Symbol, 0 Copper Pieces, 15 Silver Pieces, 92 Gold Pieces, Ring of Necrotic Resistance (Equipped), Ring of Swimming, Baron's Signet Ring, Potion of Greater Healing, Necromancer's Spellbook, Silver Locket, Potion of Hill Giant Strength, Potion of Healing (3), Thomas's Scarf, Potion of Climbing, Scroll of Fog Cloud.
-- **Notes:** Combat won. Interrogated Grug. Looted cave. Recovered caravan.
+- **Location:** Oakhaven - The Anvil & Hammer
+- **Inventory:** Chainmail (Polished), Dark-Steel Greatsword +1, Longsword, Shield, Holy Symbol, 0 Copper Pieces, 15 Silver Pieces, 237 Gold Pieces, Ring of Necrotic Resistance (Equipped), Ring of Swimming, Brooch of Shielding, Baron's Signet Ring, Potion of Greater Healing, Necromancer's Spellbook, Silver Locket, Potion of Hill Giant Strength, Potion of Healing (3), Potion of Climbing, Scroll of Fog Cloud.
+- **Notes:** Quest Complete. Sold loot to Durin.

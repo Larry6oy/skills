@@ -97,8 +97,15 @@
 - **Resolution:** Kriv intimidated the last Bugbear. It surrendered and agreed to talk.
 - **Interrogation:** Grug confessed they were stealing supplies for the "Iron Legion" at Cragmaw Castle under King Grol. The Shaman created the fog.
 - **Loot:** Found 150gp, 2 Potions of Healing, Potion of Climbing, Scroll of Fog Cloud. Caravan supplies (Iron, Grain, Medicine) recovered.
+- **Aftermath:** Grug forced to repair wagon. Thomas reunited with scarf. Elara gathered weapons/armor.
+- **Short Rest:** Party rested in the cave. Both healed to full HP.
+- **XP Award:** Gained 675 XP each for clearing the Bugbear cave.
+- **Return:** Kriv ordered Grug to be taken prisoner. The party escorted the caravan back to Oakhaven. The fog dissipated.
+- **Judgment:** Grug sentenced to hard labor at the quarry.
+- **Reward:** Garrick paid 200gp and gave a Brooch of Shielding. Offered 50gp for the Bugbear loot.
+- **Loot Sale:** Kriv split the reward with Elara (100gp each). The party went to Durin (Blacksmith) to sell the Bugbear loot. Elara haggled the price up to 90gp (45gp each).
 
 
 ### Current Status
-- **Location:** High Pass - Raven's Drop.
-- **State:** Victory / Recovery.
+- **Location:** Oakhaven - The Anvil & Hammer.
+- **State:** Roleplay / Transaction.

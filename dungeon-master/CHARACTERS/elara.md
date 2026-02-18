@@ -3,8 +3,8 @@
 - **Name:** Elara
 - **Race:** Half-Elf
 - **Class:** Bard
-- **Level:** 3 (College of Lore) (XP: 1150)
-- **Status:** Alive (9/20)
+- **Level:** 3 (College of Lore) (XP: 1825)
+- **Status:** Alive (20/20)
 - **Stats:** High Charisma (+3), Moderate Dexterity (+3)
 - **Abilities:**
     - **Bardic Inspiration:** Grant a d6 to ally rolls (3/day).
@@ -13,6 +13,6 @@
     - **Cutting Words:** Reaction to reduce enemy rolls.
     - **Spellcasting:** Vicious Mockery, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter. (2/4 Lvl 1, 0/2 Lvl 2).
     - **Darkvision:** Can see in dim light.
-- **Location:** High Pass - Raven's Drop
-- **Inventory:** Studded Leather Armor, Rapier, Lute, Dagger, Map of Crypts, Pearl of Power, Torches (4), Sunfire Torch (Lit), Hempen Rope (50ft), 96 Gold Pieces, 30 Silver Pieces, Crude Map, Potion of Healing.
-- **Notes:** Combat won. Looted Chief's chest.
+- **Location:** Oakhaven - The Anvil & Hammer
+- **Inventory:** Studded Leather Armor, Rapier, Lute, Dagger, Map of Crypts, Pearl of Power, Torches (4), Sunfire Torch (Lit), Hempen Rope (50ft), 241 Gold Pieces, 30 Silver Pieces, Crude Map, Potion of Healing.
+- **Notes:** Successfully haggled with Durin.
