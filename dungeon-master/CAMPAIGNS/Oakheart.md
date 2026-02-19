@@ -156,4 +156,58 @@
 - **Action:** Kriv exits the hut with felix, meets Elara.
 - **Action:** Kriv explains the jelly to Elara and suggests sparring with the guards.
 - **Action:** Kriv, Elara, and Felix head towards the guard station to spar.
+- **Event:** The Sparring match has ended.
+- **Action:** Elara casts Healing Word on Baruk and Lyra.
 - **Event:** At the Guard Station for a spar.
+- **Event:** Party head to the Golden Tankard.
+- **Event:** Kriv recounts adventures to Baruk and Lyra, inquiring about the Iron Legion.
+- **Intel:** Lyra recalls a merchant mentioning armored mercenaries headed towards Cragmaw Castle.
+- **Event:** Oakhaven is attacked by Goblins and Bugbears led by a Captain.
+- **Action:** Kriv kills a Bugbear at the wall and directs the party and guards to attack the Captain.
+- **Combat Round 1 (Siege):** Lyra, Elara, and Baruk wound the Captain. Goblins attack Kriv (6 dmg). Kriv uses Breath Weapon, killing 2 goblins and wounding the Captain (9 dmg) and another goblin. The Captain hits Kriv (10 dmg). Felix hits the Captain with Magic Missile (9 dmg).
+- **Combat Round 2 (Siege):** Lyra wounds the Captain (7 dmg). Elara kills the last goblin with Vicious Mockery. Baruk wounds the Captain (7 dmg).
+- **Combat Round 2 (Siege Cont.):** Kriv kills the Bugbear Captain with a Divine Smite (22 dmg). Combat at the wall ends.
+- **Action:** Party takes a brief respite (5 mins) to catch their breath.
+- **XP Award:** Party gains 350 XP each for the battle.
+- **Loot:** Party recovers weapons, 35gp, 4sp, 5cp, and a crude map from the fallen enemies.
+- **Intel:** The map indicates the East Guard Station is the main point of attack.
+- **Action:** Party heads to the East Guard Station to reinforce the defenders.
+- **Action:** Arriving at the East Gate, Kriv makes a dramatic show of force, roaring and cleaving through several trees.
+- **Action:** Kriv successfully intimidates the attacking force (Bugbears falter) and rallies the remaining Oakhaven guards to his position.
+- **Action:** Elara tosses the Pearl of Power to Kriv.
+- **Action:** Kriv commands the guards to fire a suppressive volley, forcing the enemy into cover.
+- **Action:** Kriv uses the Pearl of Power to regain a spell slot.
+- **Action:** Kriv casts Bless on himself, Elara, and Felix.
+- **Combat Round 1 (East Gate):** Kriv hits Goblin Boss with Returning Javelin (7 dmg). Elara casts Shatter on Bugbears (11 dmg). Bugbears breach the East Gate.
+- **Combat Round 2 (East Gate):** Elara uses Bag of Tricks (Dire Wolf). Guards fire volley. Felix casts Fog Cloud to block the breach.
+- **Action:** Kriv casts Speak with Animals and convinces a Raven to fly to the Capital for help.
+- **Action:** Kriv says a prayer for the raven's journey.
+- **Combat Round 3 (East Gate):** The party and guards hold the line at the edge of the Fog Cloud, preparing an ambush for any enemy that emerges.
+- **Combat Round 4 (East Gate):** Kriv leads the charge against a confused Bugbear emerging from the fog. Kriv (12 dmg), Dire Wolf (10 dmg), and Guards kill the Bugbear instantly.
+- **Action:** Kriv orders a shield wall to counter enemy archers.
+- **Combat Round 5 (East Gate):** Enemy archers fire blindly into the fog. The shield wall protects the party. Enemy friendly fire injures goblins inside the fog.
+- **Action:** Kriv taunts the Goblin Boss (Intimidation Success). Boss becomes reckless.
+- **Combat Round 6 (East Gate):** Guards fire a counter-volley, killing goblins on the wall and wounding the Boss. Boss orders a full charge into the fog.
+- **Action:** Kriv switches to Shield and Javelin, bracing for the charge.
+- **Combat Round 7 (East Gate):** The Goblin/Bugbear wave crashes into the shield wall. The defenders hold firm. Kriv kills a goblin with a javelin thrust.
+- **Action:** Kriv orders a counter-push.
+- **Combat Round 8 (East Gate):** Kriv hits the Goblin Boss with a javelin (8 dmg), knocking him off the wall. The enemy routs and flees into the fog.
+- **Loot:** Kriv loots the Goblin Boss (45gp, Potion of Greater Healing, Scroll of Scorching Ray, Iron Key).
+- **Loot:** Elara and Felix loot the lesser enemies (25gp, 40sp, Potion of Healing).
+- **Action:** Kriv orders guards to repair the East Gate and sends a detachment to the South Gate.
+- **XP Award:** Party gains 467 XP each for the East Gate battle. Felix reaches Level 3.
+- **Strategy:** Contingency plan set for Capital Army (North Gate).
+- **Action:** Party moves to the South Gate.
+- **Event:** Kriv engages Commander Kael in dialogue.
+- **Challenge:** Kael rejects Kriv's appeal to fairness but offers a duel: Single combat for the fate of the South Gate.
+- **Terms:** Kael clarifies "withdraw for the night" means a cease-fire until dawn (approx. 8 hours), allowing for a Long Rest.
+- **Action:** Kriv accepts the duel, hoping the 8-hour truce is enough for reinforcements to arrive.
+- **Action:** Kriv drinks a Potion of Healing (+7 HP).
+- **Event:** The duel between Kriv and Commander Kael begins.
+- **Action:** Kriv casts Command ("THROW!") before the duel. Kael fails the save and throws his weapon away.
+- **Combat Round 1 (Duel):** Kael is forced to obey the command and loses his turn/weapon.
+- **Combat Round 1 (Duel Cont.):** Kriv shoves Kael prone.
+- **Combat Round 2 (Duel):** Kael stands, draws a dagger, and hits Kriv (1 dmg after Heavy Armor Master reduction).
+- **Combat Round 2 (Duel Cont.):** Kriv hits Kael with Greatsword (12 dmg), knocking him back.
+- **Combat Round 3 (Duel):** Kael attempts to flee to his sword. Kriv hits with Opportunity Attack (13 dmg).
+- **Resolution:** Kael, heavily wounded, retrieves his sword but yields the duel.

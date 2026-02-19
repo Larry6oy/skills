@@ -3,8 +3,8 @@
 - **Name:** Kriv
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
-- **Level:** 4 (XP: 2858)
-- **Status:** Alive (HP: 36/36)
+- **Level:** 4 (XP: 3725)
+- **Status:** Alive (HP: 26/36)
 - **Stats:** Strength +3, Charisma +1
 - **Abilities:**
     - **Breath Weapon:** Lightning Line (Used)
@@ -19,7 +19,6 @@
     - **Inspiration:** 1 use (Recharged)
     - **Divine Smite:** Unlock at Level 2
     - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (0/3 Slots Level 1)
-- **Location:** Oakhaven - Guard Station
-- **Inventory:** Splint Armor (Equipped), Cloak of the Manticore (Equipped), Chainmail (Polished), Dark-Steel Greatsword (+1 dmg enchantment)(Equipped), Returning Javelins (6), Longsword, Shield, Holy Symbol, 0 Copper Pieces, 13 Silver Pieces, 71 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Wax Mold of Baron's Signet, Silver Locket, Potion of Healing (3), Potion of Climbing, Holy Water (4), Potion of Acid Resistance.
-- **Notes:** About to spar with Elara vs Baruk and Lyra. Watching Felix learn.
- About to battle. Dodging. Elara is invisibile. Baruk moved closer to Lyra. Moving close to baruk and striking with greatsword (12 dmg), signaling elara to strike lyra. Baruk's turn. The Turn order is Lyra, Elara, Kriv, and then Baruk. Lyra's turn. Charging in to attack Lyra. Sparring match is over.
+- **Location:** Oakhaven - South Gate
+- **Inventory:** Splint Armor (Equipped), Cloak of the Manticore (Equipped), Chainmail (Polished), Dark-Steel Greatsword (+1 dmg enchantment) (Equipped), Returning Javelins (6), Longsword, Shield, Holy Symbol, 0 Copper Pieces, 13 Silver Pieces, 116 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Wax Mold of Baron's Signet, Silver Locket, Potion of Healing (2), Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Pearl of Power, Potion of Greater Healing, Scroll of Scorching Ray, Iron Key.
+- **Notes:** Oakhaven is under attack. Took 17 total damage. Used Breath Weapon. Used Divine Smite. Used Pearl of Power. Cast Bless. Cast Speak with Animals. Defeated Goblin Boss. Looted Boss. Accepted a duel with Commander Kael. Drank a Potion of Healing (+7 HP). Cast Command ("Throw") on Kael (0 slots left). Shoved Kael Prone. Took 1 dmg from dagger. Hit Kael with Greatsword (12 dmg). Hit Kael with Opportunity Attack (13 dmg). Won the duel.
