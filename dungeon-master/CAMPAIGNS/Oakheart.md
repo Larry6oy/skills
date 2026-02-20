@@ -211,3 +211,140 @@
 - **Combat Round 2 (Duel Cont.):** Kriv hits Kael with Greatsword (12 dmg), knocking him back.
 - **Combat Round 3 (Duel):** Kael attempts to flee to his sword. Kriv hits with Opportunity Attack (13 dmg).
 - **Resolution:** Kael, heavily wounded, retrieves his sword but yields the duel.
+- **Aftermath:** Kael honors the terms and orders the Iron Legion to withdraw until dawn.
+- **Status:** The siege is paused. The party has 8 hours to rest and prepare.
+- **Current Objective:** Survive the night / Prepare for the dawn attack.
+- **Orders:** Kriv ordered the guards to fortify all gates, tend to the wounded, and watch for the Capital's army.
+- **XP Award:** Party gained 400 XP each for the South Gate victory.
+- **Location:** The party regrouped at *The Golden Tankard*.
+- **Level Up:** Felix chose the **School of Evocation** and learned *Scorching Ray* and *Misty Step*.
+- **Long Rest:** The party rested at the tavern. Recovered all HP, Spell Slots, and Abilities.
+- **Dawn:** The siege truce has ended.
+- **Reinforcements:** Lookouts report the Capital's army approaching from the North.
+
+### Current Status
+- **Location:** Oakhaven - South Gate.
+- **State:** Dawn / Combat Imminent.
+- **Objective:** Hold the South Gate against the Iron Legion's main assault while the Capital Army enters from the North to flank them.
+- **Action:** Kriv has ordered the North Gate opened for reinforcements and is leading the defense of the South Gate. The Iron Legion's attack has begun.
+- **Combat Round 1 (South Gate):**
+    - **Kriv:** Ordered archer volley (killed 4 Hobgoblins). Rallied the shield wall.
+    - **Elara:** Cast *Heat Metal* on the Hobgoblin Banner Carrier (9 fire dmg, Disadvantage).
+    - **Felix:** Cast *Mage Armor* and *False Life* (+7 Temp HP).
+    - **Enemy:** Legion crashes into the barricade. 2 Hobgoblins and 1 Worg breach the line.
+- **Combat Round 2 (South Gate):**
+    - **Kriv:** Used Breath Weapon, killing 2 Hobgoblins inside the barricade and 3 in the front rank. Wounded the Worg.
+    - **Elara:** Dropped *Heat Metal*, cast *Shatter*, heavily wounding the 2 Hobgoblins and the Worg.
+    - **Felix:** Took a defensive position behind the shield wall.
+    - **Enemy:** Wounded Worg attacks a guard. Banner Carrier directs forces toward Kriv.
+    - **Reinforcements:** The North Gate is now open.
+- **Combat Round 3 (South Gate):**
+    - **Kriv:** Killed the Worg.
+    - **Elara:** Gave Bardic Inspiration to Felix.
+    - **Felix:** Cast *Scorching Ray* on Banner Carrier (2 hits, 15 fire dmg).
+    - **Status:** Banner Carrier is heavily wounded. Capital Cavalry has engaged the enemy rear.
+- **Combat Round 4 (South Gate):**
+    - **Kriv:** Intimidated the Hobgoblin Banner Carrier (Roll: 19).
+    - **Enemy:** The Banner Carrier surrendered. The Iron Legion's morale broke completely, and they routed.
+- **VICTORY:** The Siege of Oakhaven is broken! The Capital Army, led by Sir Gideon, has secured the town.
+- **XP Award:** Party gained 1017 XP each for breaking the siege.
+- **Interaction:** Sir Gideon recognized Kriv as "The Slayer of Shadows."
+- **Orders:** Gideon has requested a debriefing at the Town Hall in one hour.
+- **Debrief:** Kriv informed Gideon about the Bugbear attack in High Pass and the prisoner Grug.
+- **Movement:** The party and Sir Gideon traveled to the Quarry to interrogate Grug.
+
+### Current Status
+- **Location:** Oakhaven - Quarry.
+- **State:** Post-Battle / Roleplay.
+- **Objective:** Plan an assault on Cragmaw Castle using the new intelligence.
+- **Action:** Kriv persuaded Grug to cooperate.
+- **Intel:** Grug revealed a secret entrance on the north side of Cragmaw Castle and the existence of a captive Owlbear that can be used as a distraction.
+- **Intel:** Kriv revealed the existence of "The Black Spider" (likely Drow) manipulating King Grol.
+- **War Council:** Sir Gideon proposes a two-pronged attack: The Army creates a diversion at the main gate, while Kriv's party infiltrates via the secret entrance to assassinate the leaders.
+- **Preparation:** Kriv requested supplies and a rogue.
+- **Loot:** Received 2 Potions of Greater Healing, Scroll of Invisibility, Scroll of Silence.
+- **Recruitment:** **Marek** (Human Rogue/Scout) has joined the party for the mission.
+- **Distribution:** Kriv gave Scroll of Invisibility and Potion of Greater Healing to Felix. Gave Scroll of Silence and 2 Potions of Healing to Elara. Gave Potion of Greater Healing to Marek.
+- **Scavenging:** Party looted the battlefield (85gp, 120sp, Supplies).
+- **Rest:** Long Rest taken.
+- **Infiltration:** Party arrived at the secret entrance (North Wall/Kennels) of Cragmaw Castle.
+- **Scouting:** Marek scouted the kennel: 3 Goblins playing dice, 4 Starved Wolves in cages.
+- **Magic:** Kriv cast *Speak with Animals*.
+- **Interaction:** Kriv convinced the wolves to stay quiet and turn on the goblins in exchange for food/revenge.
+- **Status:** The wolves are now temporary allies for this room.
+- **Action:** Marek sneaked in and unlocked the cages (Stealth/Thieves' Tools Success).
+- **Combat:** The wolves ambushed and killed the 3 Goblins.
+- **Loot:** Kriv swept the gambling table (12gp, 45sp, Loaded Dice).
+- **Interaction:** Kriv ordered Felix to copy *Invisibility*, but Felix refused due to time constraints (requires 4 hours).
+- **Exploration:** Elara listened at the South Door (Quiet). Marek picked the lock (Success).
+- **Discovery:** The South Room is an Armory containing a Heavy Crossbow, Bolts, and Alchemist's Fire.
+ - **Looting:**
+     - **Felix:** Swapped Dagger for Scimitar. Took Shortbow + Quiver.
+     - **Elara:** Took Shortbow + Quiver, Torches, Rations (Jerky).
+     - **Kriv:** Took Heavy Crossbow + Bolts.
+     - **Marek:** Took Rope + Grappling Hook.
+ - **Scouting:** Marek and Elara scouted the East Door.
+ - **Intel:** 2 Hobgoblins guarding double doors (Main Hall). They are arguing about "The Spider".
+ - **Tactical:** Need to eliminate guards quickly to prevent them from alerting King Grol.
+ - **Ambush:** Elara cast *Invisibility*. The party initiated a surprise round.
+ - **Combat:** The party launched a coordinated ranged attack, killing both Hobgoblin guards silently before they could raise an alarm.
+ - **Looting:**
+     - **Kriv:** Retrieved Crossbow Bolt.
+     - **Marek:** Retrieved Arrow.
+     - **Felix:** Cast *Identify* on Hobgoblin Armor. Identified as **Adamantine Splint Armor**.
+     - **Elara:** Looted 42gp, 15sp, and the **Throne Room Key**.
+ - **Equip:** Kriv equipped **Adamantine Splint Armor** (AC 17, Crit Immunity).
+ - **Loot:** Kriv stashed the second set of Adamantine Armor.
+ - **Action:** Party hid the bodies in the kennel.
+ - **Breach:** Kriv opened the Throne Room doors.
+ - **Encounter:** King Grol (Bugbear Chief), The Black Spider (Drow), and a caged Owlbear.
+ - **Combat Round 1 (Surprise - Throne Room):**
+     - **Kriv:** Shot the lock off the Owlbear cage. Released "Scraps".
+     - **Owlbear:** Charged King Grol (14 dmg).
+     - **Felix:** Cast *Ray of Sickness* on the Black Spider (11 dmg, Poisoned).
+     - **Marek:** Sneak Attack on Black Spider (16 dmg).
+     - **Elara:** Cast *Vicious Mockery* on King Grol (Disadvantage).
+     - **Status:** Enemies are heavily damaged and disoriented.
+- **Combat Round 2 (Throne Room):**
+    - **Kriv:** Used Breath Weapon on Grol (9 dmg) and Spider (4 dmg).
+    - **Elara:** Cast *Heat Metal* on King Grol (10 fire dmg, Disadvantage).
+    - **Felix:** Used *Scroll of Invisibility* on Elara.
+    - **Black Spider:** Cast *Web* on Marek (Restrained).
+    - **Owlbear:** Bit King Grol (12 dmg).
+    - **King Grol:** Missed attack due to Disadvantage.
+    - **Status:** King Grol is critical. Elara is Invisible. Marek is Restrained.
+- **Combat Round 3 (Throne Room):**
+    - **Kriv:** Charged the Black Spider and used **Divine Smite** (24 dmg).
+    - **Black Spider:** Defeated (Unconscious). Concentration on *Web* broken.
+    - **Marek:** Freed from *Web*.
+    - **Elara:** Used *Heat Metal* bonus action on King Grol (9 fire dmg).
+    - **Owlbear:** Finished off King Grol.
+- **VICTORY:** King Grol and the Black Spider are defeated. The castle command is broken.
+- **Looting:**
+    - **Felix:** Received **Spider Staff** (Requires Attunement).
+    - **Elara:** Looted Black Spider (2 Potions of Healing, Scroll of Darkness, Iron Key, Gems).
+    - **Kriv:** Secured the Map to **Wave Echo Cave**.
+- **Action:** Marek tied up the Black Spider.
+- **Interrogation:** The Black Spider has regained consciousness.
+- **Interrogation:** Marek and Kriv forced the Black Spider to talk. He revealed his plan to use the **Forge of Spells** to create magic weapons for conquest.
+- **Search:** Elara found a hidden chest behind the throne using the small iron key.
+- **Loot:** Found 600sp, 450gp, and **Gauntlets of Ogre Power**.
+- **Signal:** Felix fired a Fire Bolt flare from the tower.
+- **Reinforcements:** Sir Gideon and the army breached the castle and secured the area.
+- **Loot Distribution:** Kriv claimed and attuned to the **Gauntlets of Ogre Power**.
+- **Interaction:** Kriv used his last spell slot to cast *Speak with Animals* on the Owlbear ("Scraps").
+- **Taming:** Kriv successfully persuaded Scraps to join the "Pack".
+- **Loot:** Elara looted King Grol (90gp, Potion of Heroism).
+- **Interaction:** Sir Gideon agreed to transport the Black Spider to the Capital.
+- **Quest Update:** The path to **Wave Echo Cave** is open.
+- **Strategic Advice:** Kriv advised Gideon to garrison the castle as a strategic outpost. Gideon agreed.
+- **Rest:** Party took a Long Rest in the castle barracks. Scavenged supplies (Rations/Ale).
+- **Status:** Fully Rested.
+- **Travel:** Party returned to Oakhaven. Scraps (Owlbear) was surprisingly well-received by the townsfolk.
+- **Location:** Oakhaven - The Anvil & Hammer (Blacksmith).
+- **Interaction:** Durin is inspecting the extra Adamantine Armor.
+
+### Current Status
+- **Location:** Oakhaven - Blacksmith.
+- **State:** Roleplay / Shopping.
+- **Objective:** Sell loot and prepare for the next leg of the journey (Capital or Wave Echo Cave).

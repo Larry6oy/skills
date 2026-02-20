@@ -3,22 +3,22 @@
 - **Name:** Kriv
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
-- **Level:** 4 (XP: 3725)
-- **Status:** Alive (HP: 26/36)
-- **Stats:** Strength +3, Charisma +1
+- **Level:** 4 (XP: 5142)
+- **Status:** Alive (HP: 36/36)
+- **Stats:** Strength +4 (19), Charisma +1
 - **Abilities:**
-    - **Breath Weapon:** Lightning Line (Used)
+    - **Breath Weapon:** Lightning Line (1/1)
     - **Resistance:** Lightning, Necrotic
-    - **Divine Sense:** Detect Undead/Fiends (2/2 uses remaining)
+    - **Divine Sense:** Detect Undead/Fiends (4/4 uses)
     - **Divine Health:** Immune to disease.
     - **Feat:** Heavy Armor Master (+1 Str, -3 dmg from non-magical B/P/S).
     - **Sacred Oath:** Oath of the Ancients (Level 3)
-    - **Channel Divinity:** Nature's Wrath (Used), Turn the Faithless
+    - **Channel Divinity:** Nature's Wrath, Turn the Faithless (1/1)
     - **Oath Spells:** Ensnaring Strike, Speak with Animals
-    - **Lay on Hands:** 0/20 HP healing pool (Used)
-    - **Inspiration:** 1 use (Recharged)
+    - **Lay on Hands:** 20/20 HP healing pool
+    - **Inspiration:** 1 use
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (0/3 Slots Level 1)
-- **Location:** Oakhaven - South Gate
-- **Inventory:** Splint Armor (Equipped), Cloak of the Manticore (Equipped), Chainmail (Polished), Dark-Steel Greatsword (+1 dmg enchantment) (Equipped), Returning Javelins (6), Longsword, Shield, Holy Symbol, 0 Copper Pieces, 13 Silver Pieces, 116 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Wax Mold of Baron's Signet, Silver Locket, Potion of Healing (2), Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Pearl of Power, Potion of Greater Healing, Scroll of Scorching Ray, Iron Key.
-- **Notes:** Oakhaven is under attack. Took 17 total damage. Used Breath Weapon. Used Divine Smite. Used Pearl of Power. Cast Bless. Cast Speak with Animals. Defeated Goblin Boss. Looted Boss. Accepted a duel with Commander Kael. Drank a Potion of Healing (+7 HP). Cast Command ("Throw") on Kael (0 slots left). Shoved Kael Prone. Took 1 dmg from dagger. Hit Kael with Greatsword (12 dmg). Hit Kael with Opportunity Attack (13 dmg). Won the duel.
+    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (3/3 Slots Level 1)
+- **Location:** Oakhaven - Blacksmith
+- **Inventory:** Adamantine Splint Armor (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Adamantine Splint Armor (Stashed), Splint Armor, Cloak of the Manticore (Equipped), Chainmail (Polished), Dark-Steel Greatsword (+1 dmg enchantment) (Equipped), Returning Javelins (6), Longsword, Shield, Holy Symbol, 0 Copper Pieces, 178 Silver Pieces, 213 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Wax Mold of Baron's Signet, Silver Locket, Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Pearl of Power, Potion of Greater Healing (1), Scroll of Scorching Ray, Iron Key, Loaded Dice (6s), Heavy Crossbow, Case of Bolts (18).
+- **Notes:** Returned to Oakhaven. Scraps is being pampered by villagers. Negotiating with Durin.
