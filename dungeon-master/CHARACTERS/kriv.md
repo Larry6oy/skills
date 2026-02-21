@@ -3,22 +3,22 @@
 - **Name:** Kriv
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
-- **Level:** 4 (XP: 7108)
-- **Status:** Alive (HP: 36/36)
+- **Level:** 5 (XP: 7641)
 - **Stats:** Strength +4 (19), Charisma +1
 - **Abilities:**
     - **Breath Weapon:** Lightning Line (1/1)
     - **Resistance:** Lightning, Necrotic
-    - **Divine Sense:** Detect Undead/Fiends (4/4 uses)
+    - **Divine Sense:** Detect Undead/Fiends (3/4 uses)
     - **Divine Health:** Immune to disease.
     - **Feat:** Heavy Armor Master (+1 Str, -3 dmg from non-magical B/P/S).
     - **Sacred Oath:** Oath of the Ancients (Level 3)
+    - **Extra Attack**
     - **Channel Divinity:** Nature's Wrath, Turn the Faithless (Recharged)
     - **Oath Spells:** Ensnaring Strike, Speak with Animals
     - **Lay on Hands:** 20/20 HP healing pool
     - **Inspiration:** 1 use
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (2/3 Slots Level 1)
-- **Location:** Aethelgard - Noble District (Vane Manor)
-- **Inventory:** Gem-Studded Adamantine Splint Armor (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune) (Equipped), Returning Javelins (6), Holy Symbol, 0 Copper Pieces, 300 Silver Pieces, 56 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Potion of Climbing, Holy Water (7), Potion of Acid Resistance, Pearl of Power, Potion of Greater Healing (1), Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow, Case of Bolts (18), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (3), Scroll of Protection from Evil and Good.
-- **Notes:** Concentrating on Bless. At Vane Manor.
+    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (0/3 Slots Level 1)
+- **Location:** Aethelgard - The Obsidian Eye
+- **Inventory:** Gem-Studded Adamantine Splint Armor (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune) (Equipped), Returning Javelins (6), Holy Symbol, 0 Copper Pieces, 292 Silver Pieces, 392 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Pearl of Power, Potion of Greater Healing (1), Potion of Healing (2), Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow, Case of Bolts (18), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (2), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave.
+- **Notes:** Learned about the Forge of Spells and Valerius's plans.

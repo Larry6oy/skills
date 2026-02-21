@@ -202,9 +202,110 @@
 - **Status:** Dawn. Perimeter held overnight. Party fully rested.
 - **Buffs:** Kriv cast *Bless* on the party.
 - **Travel:** Party moved to the Noble District to assault Vane Manor.
+- **Action:** Kriv used Divine Sense at the servant's entrance.
+- **Result:** Detected multiple Undead inside and confirmed the area is Desecrated.
+- **Breach:** Kriv kicked open the servant's door.
+- **Encounter:** 2 Ghouls in the Kitchen.
+- **Combat Start:** Vane Manor Kitchen.
+- **Combat Round 1 (Vane Manor):**
+    - **Kriv:** Used Breath Weapon (9 dmg to Ghoul 1, 4 dmg to Ghoul 2).
+    - **Elara:** Cast *Vicious Mockery* on Ghoul 1 (2 dmg, Disadvantage).
+    - **Ghouls:** Ghoul 1 missed. Ghoul 2 hit Kriv (4 dmg after reduction). Kriv saved vs Paralysis.
+    - **Felix:** Hit Ghoul 1 with *Fire Bolt* (5 dmg).
+    - **Status:** Ghoul 1 is Critical. Kriv took damage.
+- **Combat Round 2 (Vane Manor):**
+    - **Kriv:** Killed Ghoul 1 with Lightning Greatsword.
+    - **Elara:** Hit Ghoul 2 with Vindicator's Blade (13 radiant/slashing dmg).
+    - **Ghoul 2:** Missed Kriv.
+    - **Felix:** Killed Ghoul 2 with *Fire Bolt*.
+- **Victory:** Ghouls defeated.
+- **Loot:** Found **Silver Salt Shaker** (10gp) and **Heavy Iron Key**.
+- **Search:** Kriv searched the pantry. Found **Vane Vintage Wine** (25gp), **2 Potions of Healing**, and **45gp**.
+- **Discovery:** Found a dumbwaiter shaft connecting the Cellar, Kitchen, and 2nd Floor.
+- **Scouting:** Used *Mage Hand* and *Light* to scout the dumbwaiter shaft.
+- **Encounter:** Spotted a large, armored Undead (stitched eyes) on the 2nd Floor. It slammed the shaft door shut.
+- **Scouting:** Used *Mage Hand* to scout the cellar via the dumbwaiter.
+- **Encounter:** Discovered a **Gray Ooze** in the flooded cellar. The Ooze destroyed the *Mage Hand* holding the light source.
+- **Action:** Kriv dropped an Alchemical Firebomb down the shaft.
+- **Result:** The Gray Ooze took 11 Fire Damage (Wounded).
+- **Action:** Felix cast *Fire Bolt* down the shaft.
+- **Victory:** Gray Ooze defeated.
+- **Action:** Kriv listened at the door to the Main Hall.
+- **Result:** Heard dragging sounds and unintelligible whispers.
+- **Scouting:** Kriv peeked into the Main Hall.
+- **Encounter:** Spotted **3 Animated Armors** patrolling. They are unaware (Surprise opportunity).
+- **Ambush:** Elara cast *Heat Metal* on the Halberd Armor through the cracked door.
+- **Damage:** Halberd Armor took 9 Fire Damage and has Disadvantage.
+- **Action:** Felix cast *Shatter* on the group.
+- **Result:** All 3 Armors failed saves (Disadvantage due to metal). Took 15 Thunder Damage each.
+- **Combat Start:** Vane Manor Main Hall (Surprise Round).
+- **Combat Round 1 (Vane Manor):**
+    - **Kriv:** Destroyed Armor 2 (Dented) with Lightning Greatsword.
+    - **Elara:** Destroyed Armor 1 (Heated) with *Heat Metal* damage.
+    - **Scraps:** Destroyed Armor 3 (Unhelmed) with Multiattack.
+- **Victory:** All Animated Armors defeated.
+- **XP:** 200 XP each.
+- **Action:** Felix fed Scraps wyvern meat from the Bag of Holding.
+- **Search:** Kriv searched the ground floor Study.
+- **Loot:** Found **Deed to Vane Manor** and a journal warning of the "Thing in the Attic".
+- **Preparation:** Kriv distributed Holy Water to Elara and Felix.
+- **Movement:** Party ascended to the Second Floor.
+- **Encounter:** Confronting the **Vane Revenant** guarding the Master Bedroom.
+- **Combat Start:** Vane Manor Second Floor.
+- **Interaction:** Kriv reasoned with the Revenant.
+- **Result:** The Revenant revealed it is bound against its will. It fights the control (Disadvantage on attacks, Advantage to be hit).
+- **Combat Round 1 (Vane Manor - 2nd Floor):**
+    - **Kriv:** Threw Holy Water (7 radiant dmg).
+    - **Elara:** Threw Holy Water (8 radiant dmg).
+    - **Revenant:** Missed attack (Disadvantage).
+    - **Felix:** Threw Holy Water (6 radiant dmg).
+    - **Status:** Revenant took 21 Radiant Damage.
+- **Combat Round 2 (Vane Manor - 2nd Floor):**
+    - **Kriv:** Grappled the Revenant (Success).
+    - **Elara:** Persuaded the Revenant (Nat 20). Revenant dropped weapon and stopped fighting.
+    - **Felix:** Hit Revenant with *Fire Bolt* (6 fire dmg).
+    - **Revenant:** Did not attack. Pointed to the door and asked party to destroy the "Anchor".
+    - **Status:** Revenant is Grappled and Pacified.
+- **Interaction:** Kriv questioned the Revenant about the "Anchor".
+- **Intel:** The Anchor is a "Black Mirror" that acts as an eye/breach to the Void. Warning: Do not look into it.
+- **Loot:** Felix stowed the **Rusted Vane Greatsword** in the Bag of Holding.
+- **Action:** Kriv released the Revenant and drank a **Potion of Heroism** (tossed by Elara).
+- **Breach:** Kriv kicked open the Master Bedroom door.
+- **Encounter:** **The Star-Spawned Vane** (Aberration) emerging from the **Black Mirror** (Anchor).
+- **Combat Start:** Vane Manor Master Bedroom (Boss Fight).
+- **Combat Round 1 (Boss):**
+    - **Kriv:** Hit Horror with Divine Smite (31 dmg).
+    - **Elara:** Cast *Heat Metal* on the Mirror Frame (9 fire dmg, Disadvantage to Horror).
+    - **Felix:** Cast *Web* on the Horror (Restrained).
+    - **Horror:** Missed Kriv. Dealt 4 Necrotic AOE damage.
+    - **Status:** Horror is Restrained and burning. Mirror is destabilizing.
+- **Combat Round 2 (Boss):**
+    - **Kriv:** Killed the Horror with Divine Smite (32 dmg).
+    - **Felix:** Cast *Magic Missile* on the Mirror (11 force dmg).
+    - **Elara:** Used *Heat Metal* on the Mirror Frame (10 fire dmg).
+- **Victory:** The Mirror shattered, closing the breach. The Horror was banished.
+- **XP:** 333 XP each.
+- **Loot:** Found **Lord Vane's Signet Ring** and **Platinum Necklace** (250gp) in the Master Bedroom.
+- **Interaction:** Kriv spoke to the Revenant. The spirit found peace and departed.
+- **Loot:** Recovered **Sir Alistair Vane's Signet Ring** from the Revenant's remains.
+- **Status:** Vane Manor cleared. Breach closed.
+- **Travel:** Party returned to the Citadel.
+- **Quest Turn-In:** Kriv gave the Vane Signet Rings to Sir Gideon for proper burial.
+- **Diplomacy:** Kriv convinced Gideon to let him keep the Deed to handle the property via a "proficient shopkeep" (Varrick).
+- **Travel:** Party went to *The Obsidian Eye*.
+- **Quest Turn-In:** Handed the **Deed to Vane Manor** to Varrick.
+- **Reward:** Received 600gp (Split: 200gp each).
+- **Interaction:** Kriv showed Varrick the Map to Wave Echo Cave and asked about Valerius/The Forge.
+- **Intel:** Varrick explained the Forge of Spells allows mass-production of magic items. Warned that Valerius intends to arm the Iron Legion for total conquest.
+- **Transaction:** Kriv paid 5sp for an appraisal.
+- **Appraisal:** Varrick identified the **Rusted Vane Greatsword** as a **Vicious Greatsword** (needs restoration). Offered 250gp to buy it.
+- **Transaction:** Kriv paid 3sp for a comparative appraisal.
+- **Appraisal:** Varrick advised that Kriv's **Dark-Steel Greatsword** (Lightning) is superior for consistent combat compared to the **Vane Greatsword** (Vicious/Crit-based).
+- **Transaction:** Sold **Platinum Necklace** and **Vane Vintage Wine** for 275gp total.
+- **Shopping:** Varrick offered scrolls of *Misty Step*, *Invisibility*, and *Fireball*.
 
 ### Current Status
- - **Location:** Aethelgard - Noble District (Vane Manor).
- - **State:** Infiltration.
- - **Time:** Dawn.
- - **Objective:** Assault Vane Manor.
+ - **Location:** Aethelgard - The Obsidian Eye.
+ - **State:** Shopping / Roleplay.
+ - **Time:** Morning.
+ - **Objective:** Decide next move.
