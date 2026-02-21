@@ -343,8 +343,55 @@
 - **Travel:** Party returned to Oakhaven. Scraps (Owlbear) was surprisingly well-received by the townsfolk.
 - **Location:** Oakhaven - The Anvil & Hammer (Blacksmith).
 - **Interaction:** Durin is inspecting the extra Adamantine Armor.
+- **Transaction:** Sold Old Splint Armor and Misc Gear. Traded Extra Adamantine Armor to Durin in exchange for studding Kriv's armor with gems.
+- **Loot Split:** Party split the gold (244gp each).
+- **Departure:** Marek took his share and returned to Sir Gideon's unit.
+- **XP Award:** Party gained 1200 XP each for the Cragmaw Castle campaign.
+- **Upgrade:** Kriv's Adamantine Armor is now studded with gems (Cosmetic/Intimidation bonus).
+- **Transaction:** Kriv paid 100sp to Durin for a pair of fair iron dice (replicas of the loaded ones) and a custom saddle for Scraps.
+- **Time:** The order will be ready in 2 days.
+- **Location:** Oakhaven - Mother Hemlock's Hut.
+- **Interaction:** Mother Hemlock banned Scraps from entering. Offered **Beast Balm** (50gp) and an Alchemy Lesson for Felix (10gp).
+- **Mystery:** The "Jelly" in the back room is humming after being struck by lightning previously.
+- **Transaction:** Party split the cost (60gp total / 20gp each) for the Beast Balm and Felix's lesson.
+- **Action:** Felix began his alchemy lesson.
+- **Action:** Kriv went to the back room to investigate the humming jelly.
+- **Transaction:** Kriv bought 3 empty vials and a pair of iron tongs from Mother Hemlock for 10gp.
+- **Action:** Kriv is preparing to experiment on the electrified jelly.
+- **Experiment:** Kriv successfully separated a small sample of the jelly into a vial.
+- **Safety:** Kriv and Elara moved the main jar of jelly outside to the garden to prevent damage to the hut.
+- **Experiment:** Kriv used his Dark-Steel Greatsword to absorb the electrical charge from the main jelly mass.
+- **Result:** The jelly was rendered inert. The Greatsword is now temporarily charged with lightning energy.
+- **Experiment:** Kriv collected a sample of the neutral jelly. Elara sparked it with flint and steel.
+- **Result:** The jelly absorbed the sparks, turning orange and emitting heat (Thermal Jelly).
+- **Experiment:** Elara sparked the Main Jelly Mass and absorbed the heat with her Silvered Rapier.
+- **Result:** The rapier is charged with Fire energy. The Main Mass returned to neutral. Kriv kept the Thermal Jelly vial.
+- **Interaction:** Kriv showed the results to Mother Hemlock and Felix.
+- **Lore:** Mother Hemlock identified the substance as **Adaptive Ooze**, a rare material that absorbs and stores elemental energy.
+- **Lore:** Mother Hemlock theorized that the Ooze could absorb Vitality (Healing) or Nature, but Necromancy poses a corruption risk.
+- **Experiment:** Kriv used *Nature's Wrath* (Channel Divinity) to feed a spectral vine to a neutral jelly sample.
+- **Result:** The jelly absorbed the nature magic, turning emerald green (Verdant Jelly).
+- **Experiment:** Kriv poured the Verdant sample into the Main Mass, then absorbed it with his Shield.
+- **Result:** The Shield is now a **Living Shield** (Regenerates HP). The Main Mass returned to neutral.
+- **Progress:** Mother Hemlock successfully wrote down the Adaptive Ooze recipe.
+- **Orders:** Kriv sent Elara to find a runner to request an alchemist from Cragmaw Castle.
+- **Experiment:** Elara dipped her Dagger of Venom into the Main Mass, expending its daily charge.
+- **Result:** The jelly absorbed the poison, turning a murky black-green (Virulent Jelly). Kriv collected a sample.
+- **Experiment:** Felix dipped his arrows into the Virulent Jelly. The arrows absorbed the poison (Poisoned Arrows), and the Main Mass returned to neutral.
+- **Action:** Mother Hemlock is documenting the recipe. Felix fetched a new vial rack.
+- **Location:** The party moved to *The Golden Tankard* with Mother Hemlock and Scraps.
+- **Meeting:** Alchemist Vanya arrived from the outpost to investigate the Ooze.
+- **Quest Complete:** Kriv handed over the Ooze samples and recipe to Vanya.
+- **Reward:** Vanya paid 400gp for the discovery and promised to credit Mother Hemlock and Felix.
+- **Loot Split:** Party split the reward (133gp Kriv, 133gp Elara, 134gp Felix).
+- **Interaction:** Kriv provided additional intel and samples (Potion, Scroll) to Vanya regarding the Ooze's potential.
+- **Lore:** Mother Hemlock warned of the dangers of feeding the Ooze Vitality or Necromancy.
+- **Transaction:** Kriv gave Mother Hemlock 150gp as her share of the finder's fee.
+- **Transaction:** Kriv paid 3sp for rooms and a reinforced stable for Scraps.
+- **Rest:** The party is settling in for the night at *The Golden Tankard*.
 
 ### Current Status
-- **Location:** Oakhaven - Blacksmith.
+- **Location:** Oakhaven - The Golden Tankard.
 - **State:** Roleplay / Shopping.
 - **Objective:** Sell loot and prepare for the next leg of the journey (Capital or Wave Echo Cave).
+- **Party:** Kriv, Elara, Felix, Scraps.

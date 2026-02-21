@@ -12,6 +12,6 @@
     - **Expertise:** Double proficiency bonus on Stealth and Perception checks.
     - **Skirmisher:** As a reaction when an enemy ends its turn within 5 feet of you, you can move up to half your speed without provoking opportunity attacks.
     - **Survivalist:** Double proficiency bonus on Nature and Survival checks.
-- **Location:** Oakhaven - Blacksmith.
-- **Inventory:** Studded Leather Armor, Hood, Shortbow, Quiver with 20 Arrows, 2 Daggers, Thieves' Tools, Potion of Greater Healing, Hempen Rope (50ft), Grappling Hook.
-- **Notes:** Returned to Oakhaven.
+- **Location:** Leaving Oakhaven.
+- **Inventory:** Studded Leather Armor, Hood, Shortbow, Quiver with 20 Arrows, 2 Daggers, Thieves' Tools, Potion of Greater Healing, Hempen Rope (50ft), Grappling Hook, 150 Gold Pieces, 165 Silver Pieces.
+- **Notes:** Left the party to report to Sir Gideon.
