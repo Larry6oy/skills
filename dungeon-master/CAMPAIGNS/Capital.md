@@ -90,3 +90,121 @@
 
 ## End of Chapter
 - **Continued in:** `Oakheart.md`
+
+## Session 5: The Return
+- **Party:** Kriv (Lvl 4), Elara (Lvl 4), Felix (Lvl 4).
+- **Companions:** Scraps (Owlbear), Antlers (Summoned Giant Elk).
+- **Travel:** Fast pace from Oakhaven.
+- **Stop:** Lunch at the Crossroads Tavern.
+- **Expenses:** Kriv paid 2gp 5sp for meals (4 Hot Meals, 1 Salad).
+- **Arrival:** The party has reached the outer gates of Aethelgard.
+- **Entry:** Kriv used his reputation ("Slayer of Shadows") to bypass the gate guards.
+- **Interaction:** Party visited Varrick at *The Obsidian Eye*.
+- **Quest Update:** Varrick renewed the "Haunted Manor" quest (Vane Manor in Noble District). Reward: 600gp + Loot.
+- **Appraisal:** Varrick offered 75gp (cash) or 100gp (trade) for the **Scroll of Scorching Ray**.
+- **Inquiry:** Kriv asked for other 2nd-level spells.
+- **Stock Update:** Varrick offered scrolls of *Flaming Sphere*, *Suggestion*, and *Mirror Image* (150gp each).
+- **Transaction:** Traded **Scroll of Scorching Ray** + 50gp (Paid by Elara) for **Scroll of Suggestion**.
+- **Lore:** Varrick explained that *Silence* is a hard counter to Bards, preventing verbal spell components.
+- **Lore:** Varrick explained that Paladins cannot learn spells from scrolls; *Mirror Image* is arcane and incompatible with Kriv.
+- **Transaction:** Traded **Scroll of Silence** for 100gp store credit.
+- **Transaction:** Used 100gp credit + 50gp (Kriv) to buy **Scroll of Flaming Sphere** for Felix.
+- **Negotiation:** Kriv offered the Adaptive Ooze recipe to Varrick with a "no resale" condition. Varrick offered 200gp.
+- **Haggling:** Kriv countered for 250gp + Intel. Varrick accepted.
+- **Transaction:** Sold Adaptive Ooze Recipe for 250gp. Received intel on Vane Family (Corrupted Paladins, Sealed Manor).
+- **Haggling:** Kriv offered Felix's old spellbook + 100gp for the **Cloak of Protection** (Value 350gp).
+- **Counter-Offer:** Varrick valued the book at 50gp and countered with **200gp + Book** (Total 250gp value, 100gp discount).
+- **Transaction:** Accepted Varrick's deal. Paid 200gp (Split) + Old Spellbook for **Cloak of Protection**.
+- **Loot Distribution:** Kriv gave the **Cloak of Protection** to Felix.
+- **Travel:** Party moved to the Royal Academy.
+- **Interaction:** Met with Alchemist Vanya in Lab 4.
+- **Reward:** Received **3x Alchemical Firebombs** derived from the Thermal Jelly research.
+- **Intel:** The Virulent Jelly sample is unstable and dangerous.
+- **Action:** Kriv used his Dark-Steel Greatsword to absorb the unstable Virulent Jelly sample.
+- **Result:** The sample is neutralized. Kriv's sword is temporarily charged with poison.
+- **Experiment:** Elara used her Dagger of Venom to re-poison the neutral residue, creating a sealed **Iron Cask of Virulent Jelly**.
+- **Interaction:** Vanya agreed to test the Potion of Healing and Scroll of Ray of Sickness under Kriv's supervision.
+- **Experiment:** Vanya added a Potion of Healing to the neutral ooze.
+- **Result:** Critical Failure. The ooze mutated into a rapidly expanding **Regenerating Ooze**.
+- **Crisis Resolution:** Elara dumped the Virulent Jelly on the main mass, neutralizing it.
+- **Action:** Kriv activated the emergency containment, trapping a live sample of the Regenerating Ooze.
+- **Status:** Lab secured. Regenerating Ooze sample acquired (Stationary/Contained).
+- **Departure:** Kriv warned Vanya about the dangers of Necromancy experiments. Party left the Academy.
+- **Decision:** Kriv decided to postpone the Vane Manor investigation to avoid fighting spirits at night.
+- **Travel:** Party headed to the Grand Coliseum.
+- **Registration:** Kriv signed the party (Kriv, Elara, Felix) up for **The Beast Hunt** vs a Wyvern. Scraps remains in the stables.
+- **Shopping:** Party is browsing the arena vendor stalls.
+- **Transaction:** Bought 3x Antitoxin (150gp). Cost split: Kriv 60gp, Felix 60gp, Elara 30gp.
+- **Movement:** Party moved to the Arena Waiting Room.
+- **Preparation:** Party consumed Antitoxins (Advantage vs Poison).
+- **Buffs:** Kriv cast *Bless* (Party). Felix cast *Mage Armor* and *False Life* (+7 Temp HP).
+- **Combat Start:** The Beast Hunt vs Wyvern.
+- **Initiative:** Kriv (18), Elara (16), Wyvern (14), Felix (10).
+- **Combat Round 1 (Arena):**
+    - **Kriv:** Hit Wyvern with Returning Javelin (8 dmg).
+    - **Elara:** Cast *Faerie Fire*. Wyvern failed save (Advantage on attacks against it).
+    - **Wyvern:** Bit Kriv (8 dmg after reduction). Missed Stinger.
+    - **Felix:** Cast *Ray of Sickness* (8 poison dmg). Wyvern saved vs Poisoned condition.
+    - **Status:** Wyvern grounded and glowing. Kriv took damage.
+- **Combat Round 2 (Arena):**
+    - **Kriv:** Hit Wyvern with Venomous Greatsword + Divine Smite (31 dmg).
+    - **Elara:** Gave Bardic Inspiration to Kriv. Cast *Vicious Mockery* (2 dmg, Disadvantage).
+    - **Felix:** Hit Wyvern with Poisoned Arrow (9 dmg).
+    - **Wyvern:** Missed all attacks (Disadvantage). Failed Con save vs Poison.
+    - **Status:** Wyvern is Bloodied and Poisoned.
+- **Combat Round 3 (Arena):**
+    - **Kriv:** Cast *Command* ("Grovel"). Wyvern failed save (Prone, Turn skipped).
+    - **Elara:** Hit Wyvern with Vindicator's Blade (9 dmg).
+    - **Felix:** Hit Wyvern with Poisoned Arrow (8 dmg).
+    - **Wyvern:** Groveled (No actions).
+    - **Status:** Wyvern is Critical and Prone.
+- **Combat Round 4 (Arena):**
+    - **Kriv:** Delivered the killing blow with the Venomous Greatsword.
+- **Victory:** The party defeated the Wyvern.
+- **Reward:** 500gp Prize. 766 XP each.
+- **Harvesting:** Kriv harvested the Wyvern (Heart, Scales, Skin, Fangs, Wings, Tail Stinger, Meat). Stored in Felix's Bag of Holding.
+- **Performance:** Elara entertained the crowd and collected 25gp in tips.
+- **Short Rest:** Party rested in the Prep Room. Kriv healed. Felix used Arcane Recovery.
+- **Loot Split:** Total Earnings (525gp) split: 175gp each.
+- **Travel:** Party moved to the High District (Artisan's Quarter).
+- **Interaction:** Visited **Thalor Iron-Eye** (Blacksmith).
+- **Intel:** Learned about **Madame Zora** (Enchantress) and the location of Gideon/Marek (**Citadel Barracks**).
+- **Appraisal:** Thalor offered to craft **Wyvern Armor** (Poison Resist) or a **Wyvern Stinger Dagger** (+1, Poison Dmg) using the harvested parts.
+- **Browsing:** Thalor displayed his ready stock: **Shield of the Sentinel** (450gp), **Javelin of Lightning** (300gp), **Mithral Chain Mail** (300gp).
+- **Decision:** Kriv declined Thalor's offers for now.
+- **Directions:** Thalor directed the party to **The Gilded Weave** (Madame Zora's shop).
+- **Travel:** Party moved to The Gilded Weave.
+- **Interaction:** Met Madame Zora.
+- **Services:** Zora offers Elemental Resistance (Armor), Elemental Damage (Weapon), or +1 Enchantment for 500gp each.
+- **Inquiry:** Kriv asked about Blacksteel and archery gear.
+- **Offers:** Zora proposed **Lightning Rune** (Greatsword, 500gp), **Seeking Bow** (600gp), or **Efficient Quiver** (500gp).
+- **Transaction:** Kriv paid 500gp to enchant his Dark-Steel Greatsword with a **Lightning Rune** (+1d6 Lightning Dmg), replacing the Venomous property.
+- **Discussion:** Elara and Felix decided Zora's prices were too high. Elara proposed returning to Thalor for Wyvern Armor.
+- **Transaction:** Elara commissioned **Wyvern Studded Leather Armor** from Thalor (400gp, paid by Elara + Felix loan). Ready in 2 days.
+- **Travel:** Party moved to the Citadel Barracks.
+- **Interaction:** Met with Sir Gideon and Marek.
+- **Support:** Gideon provided **3 Flasks of Holy Water** and a **Scroll of Protection from Evil and Good**.
+- **Intel:** Gideon warned the Vanes were Watcher Paladins. Marek revealed a servant's entrance in the back garden.
+- **Quest:** Gideon requested recovery of Vane family crests/signets for proper burial.
+- **Permission:** Gideon granted access to the Black Spider in the high-security wing.
+- **Travel:** Party moved to the Citadel Holding Cells.
+- **Encounter:** The Black Spider (Prisoner).
+- **Interrogation:** Kriv questioned the Black Spider about his Master.
+- **Intel:** The Master is **Valerius (The Iron Warlord)**. He seeks the Forge of Spells to arm the Iron Legion for conquest.
+- **Warning:** Valerius will target the party to retrieve the map/Forge.
+- **Interrogation:** Kriv asked about Vane Manor.
+- **Intel:** Black Spider described the threat as Extraplanar/Far Realm (Madness), not just Undead. Warned the house is a "breach".
+- **Departure:** Party left the Holding Cells and returned to the Command Center to speak with Gideon.
+- **Planning:** Kriv proposed using Alchemical Firebombs to burn Vane Manor while troops contain the perimeter.
+- **Strategy:** Gideon agreed to set a perimeter with Battlemages/Paladins but insisted the party enter first to retrieve the deed and attempt to close the breach before resorting to total destruction.
+- **Delay:** Kriv requested to wait until dawn to recover spell slots. Gideon agreed to hold the perimeter overnight.
+- **Rest:** Party took a Long Rest at the Citadel Barracks.
+- **Status:** Dawn. Perimeter held overnight. Party fully rested.
+- **Buffs:** Kriv cast *Bless* on the party.
+- **Travel:** Party moved to the Noble District to assault Vane Manor.
+
+### Current Status
+ - **Location:** Aethelgard - Noble District (Vane Manor).
+ - **State:** Infiltration.
+ - **Time:** Dawn.
+ - **Objective:** Assault Vane Manor.

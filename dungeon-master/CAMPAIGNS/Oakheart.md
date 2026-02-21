@@ -389,9 +389,43 @@
 - **Transaction:** Kriv gave Mother Hemlock 150gp as her share of the finder's fee.
 - **Transaction:** Kriv paid 3sp for rooms and a reinforced stable for Scraps.
 - **Rest:** The party is settling in for the night at *The Golden Tankard*.
+- **Morning:** Kriv and Felix are awake. Elara is sleeping in.
+- **Travel:** Party retrieved Scraps and traveled to the Old Keep.
+- **Location:** Old Keep - Crypt Entrance.
+- **Action:** Elara listened at the Crypt door. Result: Silence.
+- **Action:** Kriv used Divine Sense. Result: No Undead or Fiends detected within range.
+- **Action:** Felix cast *Light* on Kriv's shield.
+- **Exploration:** Kriv forced open the Crypt door. Party entered the Vane Crypts.
+- **Roleplay:** Kriv prayed for permission to loot. Received divine guidance: Take arms/armor for the cause, leave wealth for the dead.
+- **Action:** Kriv briefed the party on the looting rules.
+- **Loot:** Kriv opened Lord Vane's sarcophagus and found **Vane's Bulwark**, a magical +1 shield.
+- **Action:** Kriv swapped his old shield for Vane's Bulwark.
+- **Loot:** Kriv opened the second sarcophagus and found the **Vindicator's Blade**, a +1 longsword effective against undead.
+- **Action:** Kriv swapped his standard Longsword for the Vindicator's Blade, leaving the old one with the dead.
+- **Loot:** Felix opened the third sarcophagus. Found the **Circlet of the Watcher** (Advantage on Perception, Darkvision).
+- **Loot Distribution:** Kriv gave the **Circlet of the Watcher** to Felix.
+- **Loot Distribution:** Kriv gave **Vane's Bulwark** and **Vindicator's Blade** to Elara.
+- **Departure:** The party left the Old Keep Crypts and returned to the surface.
+- **Travel:** Party returned to Oakhaven.
+- **Interaction:** Kriv visited Garrick's General Store to view exclusive items.
+- **Haggling:** Elara and Kriv persuaded Garrick to lower the price.
+- **Transaction:** Bought **Bag of Holding** and **Boots of Elvenkind** for 550gp (Split between Kriv and Elara).
+- **Loot Distribution:** Kriv gave **Boots of Elvenkind** to Elara.
+- **Loot Distribution:** Kriv gave **Bag of Holding** and **Wax Mold of Baron's Signet** to Felix.
+- **Training:** Kriv spent the day training Scraps in combat commands.
+- **Sparring:** Elara (Sword/Shield) and Felix (Staff/Spells) sparred to practice with new gear.
+- **Time:** The day has passed. One day remains until the saddle is ready.
+- **Rest:** Long Rest taken.
+- **Time:** Two days passed.
+- **Location:** Oakhaven - Blacksmith.
+- **Loot:** Picked up **Custom Owlbear Saddle** and **Fair Iron Dice** from Durin.
+- **Departure:** Party left Oakhaven for the Capital.
+- **Travel:** Felix rode with Kriv on Scraps.
+- **Item Use:** Elara used **Bag of Tricks (Gray)** and summoned a **Giant Elk** to ride.
+- **Transition:** The party travels to the Capital. Continued in `Capital.md`.
 
 ### Current Status
-- **Location:** Oakhaven - The Golden Tankard.
-- **State:** Roleplay / Shopping.
-- **Objective:** Sell loot and prepare for the next leg of the journey (Capital or Wave Echo Cave).
+ - **Location:** Traveling to Capital.
+ - **State:** Transit.
+ - **Objective:** Travel to the Capital.
 - **Party:** Kriv, Elara, Felix, Scraps.
