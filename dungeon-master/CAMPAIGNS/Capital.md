@@ -303,9 +303,98 @@
 - **Appraisal:** Varrick advised that Kriv's **Dark-Steel Greatsword** (Lightning) is superior for consistent combat compared to the **Vane Greatsword** (Vicious/Crit-based).
 - **Transaction:** Sold **Platinum Necklace** and **Vane Vintage Wine** for 275gp total.
 - **Shopping:** Varrick offered scrolls of *Misty Step*, *Invisibility*, and *Fireball*.
+- **Transaction:** Bought **Scroll of Fireball** (300gp). Split cost 100gp each.
+- **Decision:** Party decided to stay in Aethelgard for a "Day of Study" and to tie up loose ends.
+- **Downtime:** Felix spent 100gp and 4 hours scribing **Flaming Sphere** into his spellbook.
+- **Rest:** Rented the Royal Suite at **The Platinum Chalice** (50gp).
+- **Downtime:** Elara is studying the *Scroll of Suggestion* and mingling with nobility.
+- **Interaction:** Kriv requested Citadel support for Ooze experiments.
+- **Support:** Sir Gideon assigned **Lieutenant Aris** and the **Silver Flame Squad** (Battlemages) to assist at the Academy.
+- **Travel:** Kriv and the Silver Flame Squad moved to the Royal Academy (Lab 4).
+- **Preparation:** Vanya prepared a fresh Neutral Jelly sample, a sealing container, and lab rats.
+- **Experiment:** Ready to test Necromancy (*Ray of Sickness*) on the Ooze.
+- **Experiment:** Vanya cast *Ray of Sickness* on the Ooze. Kriv sealed the container. Rats were introduced.
+- **Result:** The Ooze became a **Reanimating Ooze** (Necrotic). It drained the rats and raised them as undead husks.
+- **Action:** Silver Flame mages destroyed the undead rats with *Sacred Flame*.
+- **Experiment:** Kriv and Clerics used Channel Divinity on a fresh Neutral Ooze.
+- **Result:** Created **Sanctified Jelly** (Radiant). Emits sunlight, burns undead.
+- **Loot:** Kriv collected a **Vial of Sanctified Jelly**.
+- **Discussion:** Vanya confirmed grenades are possible. Permanent weapon coating requires advanced enchanting (Zora/Thalor).
+- **Action:** Moved the Sanctified Jelly to a pedestal/altar. It acts as a permanent source of holy light.
+- **Inquiry:** Kriv asked for spare potions to test on the final Ooze sample.
+- **Options:** Vanya provided **Potion of Invisibility** and **Potion of Growth**.
+- **Experiment:** Moved to Academy Courtyard. Tested **Potion of Growth** on Neutral Ooze.
+- **Result:** Ooze expanded into a massive, dense cube (Siege Weapon/Wall).
+- **Loot:** Kriv received a **Flask of Heavy Ooze**.
+- **Action:** Kriv harvested 5 additional samples ("Instant Wall") before the ooze dissolved and gave them to Lieutenant Aris for the Citadel.
+- **Departure:** Silver Flame squad departed. Experiments concluded.
+- **Travel:** Party went to Thalor Iron-Eye's smithy.
+- **Intel:** Wyvern Armor will be ready tomorrow afternoon.
+- **Travel:** Party descended to the Lower City to visit Gromm's forge.
+- **Interaction:** Kriv consulted Gromm about creating a permanent Radiant weapon coating.
+- **Intel:** Gromm explained it requires a binding agent: **Heartwood of a Petrified Treant**, found in the Cursed Forest.
+- **Travel:** Kriv returned to The Platinum Chalice.
+- **Interaction:** Reunited with Felix (Studying) and Elara (Mingling).
+- **Development:** Elara successfully learned **Suggestion**, consuming the scroll.
+- **Rest:** Long Rest taken at The Platinum Chalice.
+- **Loot:** Picked up **Wyvern Studded Leather Armor** from Thalor. Elara equipped it.
+- **Training:** Felix enrolled in a Journeyman Wizard Course at the Arcaneum (200gp).
+- **Item Transfer:** Kriv took the **Rusted Vane Greatsword** from Felix's Bag of Holding.
+- **Appraisal:** Thalor quoted **200gp** to restore the Vane Greatsword (1 Day).
+- **Interaction:** Kriv visited Sir Gideon at the Citadel.
+- **Intel:** The "Instant Wall" (Heavy Ooze) was successfully tested and is highly effective.
+- **Bounties:** Gideon offered two 1-day jobs: **Sewer Blockage** (200gp) or **Rogue Construct** (150gp).
+- **Transaction:** Kriv paid 200gp (142 Kriv, 58 Elara) to have Thalor restore the **Vicious Greatsword**. Ready in 1 day.
+- **Quest Accepted:** Kriv accepted the **Rogue Construct** bounty.
+- **Travel:** Kriv, Elara, and Scraps moved to the Docks warehouse.
+- **Interaction:** Kriv asked the foreman about alternative entrances.
+- **Intel:** Foreman revealed a loading bay around back with a clerk's door. Warned that a **Rug of Smothering** dragged a worker ("Miller") in there.
+- **Action:** Kriv listened at the back office door.
+- **Result:** Heard faint wheezing and fabric tightening. Miller is alive but in danger.
+- **Breach:** Kriv kicked open the office door.
+- **Action:** Elara cast *Faerie Fire*. Rug failed save (Advantage to hit).
+- **Combat Start:** Warehouse Office vs Rug of Smothering.
+- **Combat Round 1 (Warehouse):**
+    - **Kriv:** Cast *Command* ("Drop"). Rug failed save.
+    - **Elara:** Cast *Vicious Mockery* (3 dmg).
+    - **Rug:** Obeyed command. Released Miller and ended turn.
+    - **Scraps:** Multiattack on Rug (24 dmg).
+    - **Status:** Rug is heavily damaged and Miller is free.
+- **Combat Round 2 (Warehouse):**
+    - **Kriv:** Dragged Miller out of the office to safety.
+    - **Scraps:** Destroyed the Rug of Smothering.
+- **Status:** Miller rescued. Rug destroyed. Animated Brooms remain in the main warehouse.
+- **Breach:** Kriv entered the Main Warehouse.
+- **Encounter:** 5 Animated Brooms.
+- **Combat Round 1 (Warehouse):**
+    - **Elara:** Cast *Faerie Fire*. 3 Brooms failed save.
+    - **Kriv:** Used Extra Attack. Destroyed 2 Brooms.
+    - **Brooms:** Attacked Scraps (5 dmg) and Kriv (Miss).
+    - **Scraps:** Destroyed 1 Broom.
+    - **Status:** 2 Brooms remaining.
+- **Combat Round 2 (Warehouse):**
+    - **Kriv:** Destroyed the last 2 Brooms with Extra Attack.
+- **Victory:** Warehouse cleared. Miller safe.
+- **Reward:** 150gp (Split: 75gp Kriv, 75gp Elara).
+- **Travel:** Returned to The Platinum Chalice.
+- **Reunion:** Felix returned from the Arcaneum (Course Complete: +500 XP, Learned *Magic Weapon*).
+- **Rest:** Long Rest taken.
+- **Pickup:** Retrieved restored **Vicious Greatsword** from Thalor.
+- **Transaction:** Sold **Vicious Greatsword** to Lord Percival for **750gp** (Split: 250gp each).
+- **Departure:** Party checked out of The Platinum Chalice.
+- **Mount:** Elara used **Bag of Tricks** to summon a **Giant Elk**.
+- **Travel:** Party departed Aethelgard for **Wave Echo Cave**.
+- **Interaction:** Kriv asked Felix to identify magical landmarks on the map.
+- **Intel:** Felix identified **The Sentinel** (Waystone) as a potential shelter and noted necrotic residue near the cave entrance on the map.
+- **Decision:** Kriv chose to camp at **The Sentinel**.
+- **Arrival:** Party reached The Sentinel. The waystone provides a permanent *Leomund's Tiny Hut* effect (Safe Camp).
+- **Intel:** Felix identified 'The Starry Cavern' as the likely location of the Forge.
+- **Action:** Kriv cast *Speak with Animals* and sent a raven messenger to Sir Gideon, requesting troops to secure The Sentinel as an outpost.
+- **Rest:** Long Rest taken at The Sentinel.
+- **Travel:** Party ascended to the entrance of **Wave Echo Cave**.
 
 ### Current Status
- - **Location:** Aethelgard - The Obsidian Eye.
- - **State:** Shopping / Roleplay.
- - **Time:** Morning.
- - **Objective:** Decide next move.
+ - **Location:** Wave Echo Cave (Entrance).
+ - **State:** Dungeon Delving.
+ - **Time:** Morning of Day 2.
+ - **Objective:** Locate the Forge of Spells.
