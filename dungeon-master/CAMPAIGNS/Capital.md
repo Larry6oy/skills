@@ -392,9 +392,181 @@
 - **Action:** Kriv cast *Speak with Animals* and sent a raven messenger to Sir Gideon, requesting troops to secure The Sentinel as an outpost.
 - **Rest:** Long Rest taken at The Sentinel.
 - **Travel:** Party ascended to the entrance of **Wave Echo Cave**.
+- **Action:** Kriv used Divine Sense at the cave entrance.
+- **Result:** Detected a strong necrotic aura (Desecration) and the presence of Undead lurking just inside the tunnel.
+- **Action:** Felix cast *Light* on Kriv's Brooch.
+- **Encounter:** Ambushed by **4 Ghouls** and **1 Ghast**. Kriv avoided surprise due to Divine Sense.
+- **Combat Start:** Wave Echo Cave (Entrance Chamber).
+- **Combat Round 1 (Wave Echo Cave):**
+    - **Kriv:** Used Breath Weapon (11 dmg to Ghoul 1 & 2, 5 dmg to Ghast).
+    - **Elara:** Killed Ghoul 1 with Vindicator's Blade.
+    - **Undead:** Ghast hit Kriv (7 dmg). Ghoul 4 hit Felix (7 dmg).
+    - **Felix:** Cast *Magic Missile* on Ghoul 4 (10 dmg).
+    - **Scraps:** Killed Ghoul 4.
+    - **Status:** 2 Ghouls dead. Ghast and Ghoul 2 wounded.
+- **Combat Round 2 (Wave Echo Cave):**
+    - **Kriv:** Killed the Ghast with Extra Attack (32 dmg).
+    - **Elara:** Killed Ghoul 2.
+    - **Ghoul 3:** Hit Felix (6 dmg).
+    - **Felix/Scraps:** Killed Ghoul 3.
+- **Victory:** Entrance Chamber cleared.
+- **XP:** 416 XP each.
+- **Loot:** Found **Silver Moonstone Necklace** (50gp) on the Ghast.
+- **Recovery:** Kriv used Lay on Hands to heal Felix (13 HP).
+- **Preparation:** Felix cast *Mage Armor* and *False Life* (+7 Temp HP) on Kriv's orders.
+- **Travel:** Party moved deeper into the cave, following the sound of water.
+- **Discovery:** Reached **The Booming Cavern**.
+- **Encounter:** Spotted an **Iron Legion Forward Camp** on the opposite ledge, guarding stone doors. A narrow bridge connects the ledges.
+- **Combat Start:** The Booming Cavern (Bridge Battle).
+- **Combat Round 1 (Bridge):**
+    - **Kriv:** Taunted enemies and hit Hobgoblin with Crossbow (6 dmg).
+    - **Elara:** Cast *Vicious Mockery* on Hobgoblin (5 dmg, Disadvantage).
+    - **Felix:** Missed with Shortbow.
+    - **Iron Legion:** Hobgoblins returned fire (Kriv took 6 dmg). Bugbear charged onto the bridge.
+    - **Status:** Bugbear is in the chokepoint.
+- **Combat Round 2 (Bridge):**
+    - **Kriv:** Switched to Greatsword. Killed Bugbear (knocked off bridge).
+    - **Elara:** Cast *Vicious Mockery* (3 dmg).
+    - **Felix:** Killed Hobgoblin 1 with *Fire Bolt*.
+    - **Hobgoblin 2:** Hit Kriv (3 dmg after reduction).
+    - **Status:** 1 Hobgoblin remaining. Bridge secured.
+- **Combat Round 3 (Bridge):**
+    - **Kriv:** Charged across the bridge and killed the last Hobgoblin.
+- **Victory:** Iron Legion Patrol defeated.
+- **Loot:** Found **15gp**, **20sp**, and an **Iron Key** (on Bugbear).
+- **Rest:** Short Rest taken. Kriv healed to full. Felix used Arcane Recovery.
+- **Scouting:** Elara checked the exterior. Confirmed Citadel Griffin Riders have secured **The Sentinel**.
+- **Status:** Rear guard secured. Party rested.
+- **Action:** Kriv listened at the stone doors.
+- **Intel:** Heard Iron Legion excavation/breaching efforts and a commander barking orders. They are close to a breakthrough.
+- **Breach:** Kriv unlocked the stone doors with the Iron Key and charged in.
+- **Encounter:** Iron Legion Excavation Team (4 Hobgoblins, 2 Bugbears, 1 Captain).
+- **Combat Start:** Excavation Site (Surprise Round).
+- **Combat Round 1 (Surprise):**
+    - **Kriv:** Cast *Moonbeam* on workers.
+    - **Elara:** Cast *Shatter* on workers (14 thunder dmg).
+    - **Felix:** Hit Captain with *Fire Bolt* (11 fire dmg).
+    - **Iron Legion:** Surprised. Workers in Moonbeam took 13 radiant dmg. 2 Hobgoblins died. 1 Bugbear critical.
+    - **Scraps:** Hit Captain (13 dmg).
+    - **Status:** 2 Hobgoblins dead. Captain and 1 Bugbear wounded.
+- **Combat Round 1 (Excavation):**
+    - **Kriv:** Moved *Moonbeam* to Captain.
+    - **Elara:** Killed Wounded Bugbear.
+    - **Felix:** Hit Unharmed Bugbear with *Fire Bolt* (12 dmg).
+    - **Captain:** Died to *Moonbeam* (14 radiant dmg).
+    - **Hobgoblins:** Hit Kriv (5 dmg).
+    - **Scraps:** Killed Unharmed Bugbear.
+    - **Status:** Captain and Bugbears dead. 2 Hobgoblins remaining.
+- **Combat Round 2 (Excavation):**
+    - **Kriv:** Intimidated the remaining Hobgoblins.
+    - **Result:** Hobgoblins surrendered.
+- **Victory:** Excavation Site cleared.
+- **XP:** 500 XP each.
+- **Interrogation:** Kriv questioned the prisoners.
+- **Intel:** The Forge is in **The Starry Cavern**. A **Spectator** guards the main door. The Legion was digging a bypass tunnel to flank it.
+- **Action:** Kriv escorted the prisoners to **The Sentinel** and handed them over to the Citadel Griffin Riders as laborers.
+- **Return:** Kriv returned to the Excavation Site to regroup with the party.
+- **Scouting:** Felix and Elara used *Mage Hand* to scout the bypass tunnel.
+- **Intel:** The tunnel leads to a high ledge overlooking **The Starry Cavern**.
+- **Encounter:** Spotted the **Spectator** guarding the Forge below. It is facing the main doors, unaware of the flank.
+- **Interaction:** Kriv revealed himself to the Spectator, flashing his holy symbol and claiming peace.
+- **Result:** The Spectator paused hostilities but demands proof that the party is not with the "Iron Men" (Legion).
+- **Interaction:** Kriv presented the Hobgoblin Captain's shield as proof.
+- **Result:** Persuasion Success. The Spectator agreed to a temporary alliance to defeat the Iron Legion.
+- **Event:** The Iron Legion is breaching the main doors.
+- **Action:** Kriv sent Elara to fetch the Griffin Riders (Cavalry).
+- **Combat Start:** The Forge of Spells (Main Assault).
+- **Combat Round 1 (Forge):**
+    - **Kriv:** Readied Crossbow. Hit Warlord through the breach (8 dmg).
+    - **Encounter:** Hobgoblin Warlord, 4 Hobgoblins, 2 Worgs entered.
+    - **Status:** Elara is absent (Fetching help). Spectator is allied.
+    - **Kriv:** Used Channel Divinity (*Nature's Wrath*) to create a vine wall/restrain Warlord.
+    - **Spectator:** Paralyzed Worg 1, Killed Hobgoblin 1.
+    - **Felix:** Cast *Shatter* (15 thunder dmg).
+    - **Iron Legion:** Warlord broke free. Hobgoblins fired at Kriv (2 dmg).
+    - **Status:** 1 Hobgoblin dead, 1 Worg paralyzed. Warlord free.
+- **Combat Round 2 (Forge):**
+    - **Kriv:** Moved *Moonbeam* onto Warlord and cluster.
+    - **Damage:** Warlord took 6 radiant (Save). 2 Hobgoblins died (Failed saves).
+    - **Spectator:** Killed Worg 2 (Wounding Ray). Frightened Warlord (Fear Ray).
+    - **Felix:** Hit Warlord with *Fire Bolt* (13 fire dmg).
+    - **Iron Legion:** Warlord missed Kriv (Disadvantage). Hobgoblin 4 hit Felix (5 dmg).
+    - **Status:** Warlord is Frightened and Wounded. Only 1 Hobgoblin minion remains.
+- **Combat Round 3 (Forge):**
+    - **Kriv:** Moved *Moonbeam* aside. Intimidated Warlord to surrender.
+    - **Result:** Warlord and remaining Hobgoblin surrendered.
+- **Victory:** The Forge of Spells is secured. Iron Legion defeated.
+- **XP:** 966 XP each.
+- **Loot:** **Warlord's Plate Armor**, **Potion of Greater Healing**, **Key Ring**.
+- **Reinforcements:** Elara returned with Citadel Griffin Riders.
+- **Interrogation:** Kriv questioned the Warlord.
+- **Intel:** The Warlord was the vanguard. **Valerius** is marching with the main army (500 troops, Siege Engines, Hill Giants). ETA: Tomorrow Sunset.
+- **Interaction:** Kriv asked the Spectator how to use the Forge.
+- **Mechanics:** The Forge can enchant items to **+1** (Magic) in **1 Hour**.
+- **Intel:** Elara confirmed **The Sentinel** is secured by Griffin Riders and acts as a choke point against the Legion.
+- **Action:** Kriv placed his **Heavy Crossbow** in the Forge.
+- **Interaction:** Kriv asked the Spectator about its mobility.
+- **Intel:** The Spectator is bound to the Starry Cavern and cannot leave. It serves as the final line of defense.
+- **Action:** Kriv instructed the Spectator to guard the Forge and the Griffin Riders stationed there.
+- **Loot:** Retrieved **Heavy Crossbow +1** from the Forge.
+- **Travel:** Party moved to **The Sentinel** to establish the first line of defense.
+- **Planning:** Kriv surveyed the terrain. Felix proposed using *Shatter* to trigger rockslides as improvised traps.
+- **Rest:** Long Rest taken at The Sentinel. Party fully recovered.
+- **Event:** Sunset. The Iron Legion main army has arrived at the base of the pass.
+- **Command:** Kriv ordered Griffin Riders to hold fire until the enemy reached the choke point.
+- **Event:** Iron Legion vanguard (Hobgoblins + Hill Giants) entered the kill zone.
+- **Combat Start:** The Siege of The Sentinel.
+- **Combat Round 1 (Siege):**
+    - **Felix:** Triggered *Shatter* trap on the overhang.
+    - **Result:** Massive Rockslide. Hobgoblin Vanguard crushed. 1 Hill Giant swept off cliff.
+    - **Status:** 1 Hill Giant remains (Critical/Restrained). Path is blocked by rubble (Difficult Terrain).
+    - **Griffin Riders:** Fired volley into the confusion.
+- **Combat Round 2 (Siege):**
+    - **Kriv:** Killed the last Hill Giant with a Critical Hit from the Heavy Crossbow.
+- **Event:** The Main Army of the Iron Legion reveals itself. Valerius spotted. Siege Towers advancing.
+- **Command:** Kriv ordered a reload for the second volley.
+- **Combat Round 3 (Siege):**
+    - **Kriv:** Threw **Flask of Heavy Ooze**. Created a blockade on the path.
+    - **Command:** Ordered fire on Siege Towers.
+    - **Result:** Legion advance halted. Siege Tower 1 is burning.
+- **Challenge:** Kriv challenged Valerius to single combat.
+- **Command:** Kriv ordered Griffin Riders to bomb the enemy rear/siege engines.
+- **Event:** Valerius accepted the challenge. Griffin Riders began bombing run.
+- **Combat Start:** Duel (Kriv vs Valerius).
+- **Combat Round 1 (Duel):**
+    - **Kriv:** Cast *Bless* on self. Held ground.
+    - **Valerius:** Charged and attacked with Infernal Maul.
+    - **Damage:** Kriv took 19 damage (Bludgeoning/Fire). Maintained Concentration.
+    - **Status:** Kriv is bloodied but buffed. Valerius is unharmed.
+- **Combat Round 2 (Duel):**
+    - **Kriv:** Dropped *Bless*. Cast *Ensnaring Strike*. Used Divine Smite x2. Dealt 55 damage.
+    - **Valerius:** Saved vs Ensnaring Strike. Multiattack (3 hits, 1 Crit). Dealt 53 damage.
+    - **Kriv:** Knocked Unconscious (0 HP).
+    - **Scraps:** Intervened to save Kriv. Grappled Valerius.
+    - **Status:** Kriv dying. Valerius bloodied.
+- **Combat Round 3 (Duel/Brawl):**
+    - **Kriv:** Succeeded Death Save (14).
+    - **Felix:** Cast *Ray of Sickness* (13 poison dmg). Valerius Poisoned.
+    - **Elara:** Cast *Healing Word* on Kriv (6 HP). Kriv conscious.
+    - **Valerius:** Attacked Scraps (16 dmg). Missed other attacks due to Poison/Grapple.
+    - **Status:** Kriv alive (Prone). Valerius heavily wounded and poisoned.
+- **Combat Round 4 (Duel):**
+    - **Kriv:** Stood up. Cast *Command* ("Grovel"). Valerius failed save.
+    - **Spectator:** Hit Valerius with Wounding Ray (14 dmg).
+    - **Elara:** Hit Valerius with Rapier (11 dmg).
+    - **Felix:** Hit Valerius with *Magic Missile* (12 dmg).
+    - **Valerius:** Obeyed command. Dropped Prone.
+    - **Scraps:** Killed Valerius with Multiattack.
+- **VICTORY:** Valerius is defeated. The Iron Legion has routed. The Forge of Spells is secured.
+- **XP:** 1666 XP each. Felix reaches Level 5. He deciphers *Vampiric Touch* and *Animate Dead* from the Necromancer's Spellbook.
+- **Loot:** **Infernal Maul +1**, **Masterwork Plate Armor**, **War Chest Key**.
+- **Command:** Kriv ordered Griffin Riders to pursue the fleeing Legion.
+- **Command:** Dispatched a messenger to Sir Gideon.
+- **Travel:** Party returned to **The Starry Cavern** (Forge of Spells) to check on the Guardian.
+- **Interaction:** The Spectator acknowledged the victory and the safety of the Forge.
 
 ### Current Status
- - **Location:** Wave Echo Cave (Entrance).
- - **State:** Dungeon Delving.
- - **Time:** Morning of Day 2.
- - **Objective:** Locate the Forge of Spells.
+ - **Location:** Wave Echo Cave (The Forge of Spells).
+ - **State:** Post-Victory / Recovery.
+ - **Time:** Sunset of Day 2.
+ - **Objective:** Rest and Recover.
