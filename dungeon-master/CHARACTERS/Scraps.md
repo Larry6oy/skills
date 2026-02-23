@@ -3,7 +3,7 @@
 - **Name:** Scraps
 - **Race:** Owlbear
 - **Class:** Companion
-- **Status:** Alive (HP: 43/59)
+- **Status:** Alive (HP: 59/59)
 - **Stats:** Strength +5 (20), Constitution +3 (17)
 - **Abilities:**
     - **Keen Sight and Smell:** Advantage on Perception checks relying on sight or smell.

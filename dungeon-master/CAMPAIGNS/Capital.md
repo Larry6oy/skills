@@ -564,9 +564,21 @@
 - **Command:** Dispatched a messenger to Sir Gideon.
 - **Travel:** Party returned to **The Starry Cavern** (Forge of Spells) to check on the Guardian.
 - **Interaction:** The Spectator acknowledged the victory and the safety of the Forge.
+- **Action:** Kriv placed his **Gem-Studded Adamantine Splint Armor** in the Forge.
+- **Rest:** Long Rest taken in the Forge room.
+- **Loot:** Retrieved **Gem-Studded Adamantine Splint Armor +1**.
+- **Action:** Kriv placed the armor back in the Forge to enchant the gems.
+- **Result:** Armor upgraded to **Gem-Studded Adamantine Splint Armor +2**.
+- **Travel:** Party exited Wave Echo Cave to The Sentinel.
+- **Event:** Sir Gideon arrived with reinforcements.
+- **Travel:** Kriv led Sir Gideon back to **The Forge of Spells**.
+- **Interaction:** Introduced Gideon to the Spectator.
+- **Event:** The Spectator and Gideon renewed the **Phandelver's Pact** (Provisional).
+- **Quest Complete:** The Forge of Spells is secured for Aethelgard.
+- **Reward:** Gideon promised honors and rewards upon return to the city.
 
 ### Current Status
  - **Location:** Wave Echo Cave (The Forge of Spells).
- - **State:** Post-Victory / Recovery.
- - **Time:** Sunset of Day 2.
- - **Objective:** Rest and Recover.
+ - **State:** Quest Complete.
+ - **Time:** Morning.
+ - **Objective:** Return to Aethelgard for rewards.

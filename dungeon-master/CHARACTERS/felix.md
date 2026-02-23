@@ -19,4 +19,4 @@
 - **Wyvern Parts:** Fangs, Wings, Tail Stinger, Meat, Heart.
 - **Quest Items:** Wax Mold of Baron's Signet.
 
-- **Notes:** Defeated Valerius. Reached Level 5. Deciphered Necromancer's Spellbook.
+- **Notes:** Witnessed the renewal of the Pact.
