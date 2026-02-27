@@ -3,8 +3,8 @@
 - **Name:** Kriv
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
-- **Level:** 5 (XP: 11522)
-- **Status:** Alive (HP: 44/44)
+- **Level:** 5 (XP: 12497)
+- **Status:** Alive (HP: 31/44)
 - **Stats:** Strength +4 (19), Charisma +1
 - **Abilities:**
     - **Breath Weapon:** Lightning Line (1/1)
@@ -19,7 +19,7 @@
     - **Lay on Hands:** 25/25 HP healing pool
     - **Inspiration:** 1 use
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (4/4 Slots Level 1, 2/2 Slots Level 2)
-- **Location:** Wave Echo Cave (The Forge of Spells)
-- **Inventory:** Gem-Studded Adamantine Splint Armor +2 (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune) (Equipped), Returning Javelins (6), Holy Symbol, 0 Copper Pieces, 312 Silver Pieces, 340 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Pearl of Power, Potion of Greater Healing (1), Potion of Healing (2), Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow +1, Case of Bolts (15), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (2), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave, Vial of Sanctified Jelly, Silver Moonstone Necklace, Potion of Greater Healing, Key Ring, Infernal Maul +1, Masterwork Plate Armor, War Chest Key.
-- **Notes:** Witnessed the renewal of the Pact. Quest Complete.
+    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (3/4 Slots Level 1, 1/2 Slots Level 2)
+- **Location:** Aethelgard (The Platinum Chalice)
+- **Inventory:** Gem-Studded Adamantine Splint Armor +2 (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune) (Equipped), Returning Javelins (6), Holy Symbol, 0 Copper Pieces, 312 Silver Pieces, 990 Gold Pieces, 75 Platinum Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Pearl of Power, Potion of Greater Healing (1), Potion of Healing (2), Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow +1, Case of Bolts (15), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (5), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave, Vial of Sanctified Jelly, Silver Moonstone Necklace, Potion of Greater Healing, Key Ring, War Chest Key, Pouch of 5 Diamonds (100gp each), Iron Legion Battle Plans, Ring of Spell Storing, Flask of Heavy Ooze.
+- **Notes:** Title: **Warden of the Forge**.

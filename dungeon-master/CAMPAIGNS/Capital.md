@@ -577,8 +577,162 @@
 - **Quest Complete:** The Forge of Spells is secured for Aethelgard.
 - **Reward:** Gideon promised honors and rewards upon return to the city.
 
+
+
+## Session 6: The Victorious Return
+- **Party:** Kriv (Lvl 5), Elara (Lvl 5), Felix (Lvl 5).
+- **Location:** Wave Echo Cave (Iron Legion Storeroom).
+- **Status:** Investigating a hidden storeroom.
+- **Event:** Kriv used the War Chest Key to open the large chest.
+    - **Loot:** 1000gp, 500pp, 5 diamonds (100gp each), a **Sentinel Shield**, and Iron Legion battle plans.
+- **Event:** Felix cast *Identify* on the inactive warforged.
+    - **Intel:** Identified as a Warforged Juggernaut "Aegis Unit". It is a dormant siege weapon that can be activated and controlled by speaking the command phrase, "Aethelgard's Fall."
+ - **Interaction:** Kriv questioned the nature of the Warforged's servitude.
+ - **Intel:** Felix determined the Legion overlaid a "Command Core" onto an ancient chassis to suppress its sentience. He suggests using the **Forge of Spells** to cleanse the corruption.
+ - **Action:** Kriv suggested using the Bag of Holding, but Felix warned the Warforged is too heavy.
+ - **Action:** Party returned to the Spectator for advice.
+ - **Interaction:** Spectator stated the Warforged must be brought to the Forge. It offered to temporarily leave the room (extending patrol radius) to use a suppression ray on the construct to move it safely.
+ - **Action:** Scraps dragged the Warforged to the Forge of Spells.
+ - **Event:** The Warforged was cleansed in the Green Flame. The Legion's corruption was destroyed.
+ - **Outcome:** The Warforged awakened. It identified itself as **Aegis-7** and pledged loyalty to Kriv ("Prime").
+ - **Recruitment:** Aegis-7 joined the party.
+ - **Departure:** Party left Wave Echo Cave. Sir Gideon remained to garrison the outpost.
+ - **Travel:** Party returned to Aethelgard.
+ - **Arrival:** Party arrived at the Capital.
+ - **Detour:** Kriv decided to visit the refurbished Vane Manor before the Treasury.
+ - **Location:** Vane Manor is now "The Obsidian Eye - Noble Branch". It features a portal to the main shop and a warlock employee.
+ - **Browsing:** The employee displayed the exclusive stock:
+    - **Sun Blade** (3,000gp).
+    - **Ring of Spell Storing** (2,000gp).
+    - **Portable Hole** (1,000gp).
+ - **Transaction:** Kriv bought the **Ring of Spell Storing** for 2,000gp (Paid 200pp).
+ - **Travel:** Party used the portal to travel to the Main Shop.
+ - **Interaction:** Reunited with Varrick.
+ - **Dialogue:** Kriv confirmed the Vane Manor breach is closed.
+ - **Revelation:** Kriv revealed the discovery of the **Forge of Spells**. Varrick is highly interested in its status.
+ - **Dialogue:** Kriv explained the Forge's safeguards (Spectator, Anti-Greed) and the Citadel's control.
+ - **Reaction:** Varrick is amused by the anti-greed ward and relieved by Valerius's death.
+ - **Appraisal:** Varrick appraised the loot from Valerius:
+    - **Infernal Maul +1:** 700gp.
+    - **Masterwork Plate Armor:** 1,000gp.
+    - **Sentinel Shield:** 400gp.
+    - **Total Cash Offer:** 2,100gp.
+    - **Trade Offer:** Varrick offered to trade all three items for the **Sun Blade** (Value 3,000gp).
+ - **Transaction:** Kriv chose the gold. Sold Infernal Maul, Plate Armor, and Sentinel Shield for **2,100gp**.
+ - **Loot Distribution:** Kriv split the recent earnings (3,100gp and 300pp) four ways (Kriv, Elara, Felix, Aegis).
+    - **Share:** 775gp and 75pp each.
+ - **Travel:** Party traveled to the Citadel Treasury.
+ - **Meeting:** Party met with **Duke Aethelred**, **High Artificer Thul**, and **General Marcus** in the Chamber of the Silver Flame.
+ - **Reward:**
+    - **Title:** The party was knighted as **Wardens of the Forge**.
+    - **Privileges:** Unrestricted Citadel access, Right to bear arms in Court.
+    - **Gold:** 2,000gp (Split: 500gp each).
+    - **Land Grant:** Offer to legitimize a stronghold (e.g., Vane Manor).
+ - **Interaction:** The Duke offered a boon.
+ - **Response:** Kriv declined the Vane Manor, stating it belongs to Varrick.
+ - **Boon Granted:**
+    - **Felix:** Granted full access to the Royal Library's arcane sections (under High Artificer Thul's supervision).
+    - **Aegis-7:** Granted access to the Royal Armory for potential upgrades (under General Marcus's supervision).
+    - **Kriv:** Granted a plot of empty land in the Craftsman's District.
+ - **Outcome:** Vane Manor officially recognized as Varrick's property.
+ - **Departure:** Party left the Citadel.
+ - **Accommodation:** Checked into **The Platinum Chalice** (Royal Suite).
+ - **Rest:** Party is settling in for a Long Rest.
+ - **Event:** Long Rest taken. All HP and Spell Slots restored.
+ - **Time:** Morning (Day 7).
+ - **Time:** Day 7 (Morning).
+ - **Objective:** Visit the Land Grant / Royal Library / Armory.
+ - **Party Split:**
+    - **Felix:** Went to the Royal Library.
+    - **Aegis-7:** Went to the Royal Armory.
+    - **Kriv & Elara:** Went to the Craftsman's District.
+ - **Location:** Aethelgard (Craftsman's District - The Land Grant).
+ - **Description:** The land is a prime 80x60ft corner lot with a stone foundation.
+ - **Interaction:** Met the Royal Surveyor. Confirmed zoning allows for Guildhall/Workshop/Residence.
+ - **Planning:** Kriv proposed a Library, Tavern, and Prayer Room. Elara suggested adding a Vault.
+ - **Decision:** The Surveyor presented two Master Builders:
+    - **Thrain Hammerfall (Dwarf):** Specializes in fortification and stone/iron.
+    - **Lady Veria (Elf):** Specializes in magical architecture and elegance.
+ - **Selection:** Kriv chose **Lady Veria** for the main structure but decided to leave the basement unfinished (reserved for Hammerfall).
+ - **Meeting:** Lady Veria arrived and presented a magical blueprint.
+ - **Quote:** 5,000gp Total (2,500gp Deposit).
+ - **Timeline:** 4 Weeks.
+ - **Features:** Library Tower, Tavern Wing, Chapel, *Unseen Servant* maintenance.
+ - **Transaction:** Paid 2,500gp Deposit (Split: 1,250gp Kriv, 1,250gp Elara).
+ - **Status:** Construction has begun.
+ - **Reunion:** Party regrouped at *The Platinum Chalice*.
+ - **Intel (Felix):** The Forge of Spells can craft Wondrous Items if blueprints are found.
+ - **Intel (Aegis):** A **Siege Ram** upgrade is available at the Armory for 500gp.
+ - **Travel:** Party moved to **The Grand Coliseum** to raise funds.
+ - **Event:** The Registrar offered entry into **The Hydra's Gauntlet**.
+    - **Prize:** 1,000gp.
+    - **Enemy:** Hydra (Regenerating heads).
+
+## Session 7: The Wardens Rise
+- **Party:** Kriv (Lvl 5), Elara (Lvl 5), Felix (Lvl 5), Aegis-7 (Lvl 5).
+- **Location:** The Grand Coliseum (Arena Sands).
+- **Event:** **The Hydra's Gauntlet** has begun.
+- **Combat Start:** Party vs. Hydra (5 Heads).
+- **Round 1:**
+    - **Elara:** Cast *Faerie Fire*. Hydra failed save (Advantage to hit).
+    - **Felix:** Cast *Fireball*. Hydra failed save (28 Fire Damage). Regeneration halted.
+    - **Status:** Hydra is glowing and burning.
+    - **Kriv:** Charged. Hit x2 with Greatsword (Advantage). Used *Divine Smite* (Lvl 1). Cast *Misty Step* to flank. Dealt 42 Damage.
+    - **Aegis-7:** Hit x2 with Iron Fists. Dealt 19 Damage.
+    - **Hydra:** Attacked Kriv and Aegis.
+        - **Vs Kriv:** 2 Hits. 13 Dmg (Reduced by Heavy Armor Master).
+        - **Vs Aegis:** 2 Hits. 19 Dmg.
+    - **Scraps:** Multiattack. Dealt 25 Damage.
+    - **Status:** Hydra is Bloodied (approx 60 HP remaining).
+
+ - **Round 2:**
+    - **Elara:** Cast *Thunderwave*. Hydra failed save (9 Thunder Dmg).
+    - **Felix:** Cast *Fireball*. Hydra failed save (32 Fire Dmg). Regeneration halted.
+    - **Kriv:** Climbed the Hydra and attacked. Hit x2 (30 Dmg). Decapitated the main head.
+    - **Result:** The Hydra is slain.
+
+ - **Victory:** The Wardens of the Forge won "The Hydra's Gauntlet".
+ - **Reward:** 1,000gp (Split: 250gp each).
+ - **XP:** 975 XP each.
+ - **Harvesting:** Kriv harvested the Hydra (Fangs, Scales, Skin, Heart).
+ - **Celebration:** Kriv roared in victory, inciting the crowd.
+ - **Shopping:** Aegis-7 purchased a **Siege Ram** (500gp) and a **Heavy Crossbow** (50gp).
+ - **Inventory:** Kriv transferred all Hydra parts to Felix's Bag of Holding.
+ - **Correction:** Restored missing Wyvern parts to Felix's Bag of Holding.
+ - **Travel:** Party moved to the Alchemy District (Royal Academy).
+ - **Objective:** Sell monster hearts to Alchemist Vanya.
+ - **Transaction:** Sold **Wyvern Heart** and **Hydra Heart** to Vanya for **1,000gp**.
+ - **Intel:** Vanya reported on the Ooze research:
+    - **Heavy Ooze:** Successfully mass-produced for the military ("Instant Barricades").
+    - **Regenerating Ooze:** Unstable. Causes rapid mutations (e.g., extra limbs) alongside healing.
+ - **Interaction:** Kriv inquired about Firebombs and Charged Jelly.
+ - **Intel:** Thermal Jelly (Fire) is stable. Charged Jelly (Lightning) is currently too volatile to contain without Kriv's sword.
+ - **Shop:** Vanya offered:
+    - **Alchemical Firebomb:** 50gp.
+    - **Flask of Heavy Ooze:** 75gp.
+ - **Transaction:** Kriv bought 3 Firebombs and 1 Flask of Heavy Ooze (Total: 225gp).
+ - **Intel:** Vanya reported on other jellies:
+    - **Verdant (Nature):** Uncontrollable growth. Not weaponized yet.
+    - **Necrotic:** Confiscated by the Citadel due to safety concerns (raising undead).
+ - **Travel:** Party descended to the Lower District to visit **Gromm's Forge**.
+ - **Interaction:** Gromm inspected the Hydra parts.
+ - **Crafting Options:**
+    - **Hydra Scale Mail:** 600gp (Acid Resistance).
+    - **Fang of the Many:** 400gp (+1 Dagger/Shortsword, +1d6 Acid Dmg).
+    - **Regenerator's Shield:** 500gp (Regain HP on Dodge).
+ - **Interaction:** Kriv chose the **Fang of the Many** for Felix.
+ - **Correction:** Gromm advised that Felix (Wizard) is not proficient with daggers and that Elara (Bard) would be a better user for the weapon.
+ - **Commission:** Kriv commissioned the **Fang of the Many** for Elara (400gp).
+ - **Time:** Ready in 1 Day (Day 8 Morning).
+ - **Travel:** Party returned to the High District and entered **The Platinum Chalice**.
+ - **Investigation:** Checked the Social Ledger for events.
+ - **Events Found:**
+    1. **The Victory Masquerade:** In 2 Days. Hosted by the Duke. Formal/Masked.
+    2. **Concert (Caelum the Star-Singer):** Tonight. 50gp Entry. Elara is very interested.
+    3. **The Gilded Auction:** Tomorrow. Estate sale of Baron Rivendare.
+
 ### Current Status
- - **Location:** Wave Echo Cave (The Forge of Spells).
- - **State:** Quest Complete.
- - **Time:** Morning.
- - **Objective:** Return to Aethelgard for rewards.
+ - **Location:** Aethelgard (The Platinum Chalice).
+ - **State:** Victory / Post-Combat.
+ - **Time:** Day 7 (Morning).
+ - **Objective:** Choose an evening activity.
