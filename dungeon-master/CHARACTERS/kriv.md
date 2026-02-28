@@ -4,7 +4,8 @@
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
 - **Level:** 5 (XP: 12497)
-- **Status:** Alive (HP: 31/44)
+- **Status:** Alive (HP: 44/44)
+- **Defense:** AC 19 (Splint +2). **Resistances:** Lightning, Necrotic. **Immunities:** Critical Hits (Adamantine). **Reduction:** -3 damage from non-magical B/P/S (Heavy Armor Master).
 - **Stats:** Strength +4 (19), Charisma +1
 - **Abilities:**
     - **Breath Weapon:** Lightning Line (1/1)
@@ -19,7 +20,7 @@
     - **Lay on Hands:** 25/25 HP healing pool
     - **Inspiration:** 1 use
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (3/4 Slots Level 1, 1/2 Slots Level 2)
-- **Location:** Aethelgard (The Platinum Chalice)
-- **Inventory:** Gem-Studded Adamantine Splint Armor +2 (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune) (Equipped), Returning Javelins (6), Holy Symbol, 0 Copper Pieces, 312 Silver Pieces, 990 Gold Pieces, 75 Platinum Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Pearl of Power, Potion of Greater Healing (1), Potion of Healing (2), Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow +1, Case of Bolts (15), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (5), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave, Vial of Sanctified Jelly, Silver Moonstone Necklace, Potion of Greater Healing, Key Ring, War Chest Key, Pouch of 5 Diamonds (100gp each), Iron Legion Battle Plans, Ring of Spell Storing, Flask of Heavy Ooze.
-- **Notes:** Title: **Warden of the Forge**.
+    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (2/4 Slots Level 1, 2/2 Slots Level 2)
+- **Location:** Aethelgard (Market District Cistern - Ritual Chamber)
+- **Inventory:** Gem-Studded Adamantine Splint Armor +2 (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune) (Equipped), Returning Javelins (6), Holy Symbol, 0 Copper Pieces, 312 Silver Pieces, 90 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Potion of Greater Healing (1), Potion of Healing (2), Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow +1, Case of Bolts (15), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (5), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave, Vial of Sanctified Jelly, Silver Moonstone Necklace, Potion of Greater Healing, Key Ring, War Chest Key, Pouch of 5 Diamonds (100gp each), Iron Legion Battle Plans, Ring of Spell Storing, Flask of Heavy Ooze, Black Card (Crimson Covenant), Covenant Signet Ring (5,000gp Credit), Lot 42 (Void Star), Rusty Iron Key, Scroll of Blindness/Deafness, Letter from Thul.
+- **Notes:** Title: **Warden of the Forge**. Possesses proof of Thul's treason.

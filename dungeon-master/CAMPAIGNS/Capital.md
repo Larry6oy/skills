@@ -730,9 +730,148 @@
     1. **The Victory Masquerade:** In 2 Days. Hosted by the Duke. Formal/Masked.
     2. **Concert (Caelum the Star-Singer):** Tonight. 50gp Entry. Elara is very interested.
     3. **The Gilded Auction:** Tomorrow. Estate sale of Baron Rivendare.
+ - **Travel:** Party returned to the Craftsman's District.
+ - **Meeting:** Met with **Thrain Hammerfall** (Dwarf Master Builder).
+ - **Commission:** Commissioned a **Fortified Vault** for the Guildhall basement.
+ - **Cost:** 2,000gp Total.
+ - **Transaction:** Paid 1,000gp Deposit (Split: 250gp each).
+ - **Preparation:** Kriv polished his armor (Advantage on Persuasion for the evening).
+ - **Event:** Party attended the **Concert of Caelum the Star-Singer**.
+ - **Transaction:** Kriv paid 200gp for tickets (50gp x 4).
+ - **Performance:** Caelum played "The Fall of Arnor".
+ - **Observation:** Kriv scanned the crowd (Perception Success).
+ - **NPCs Spotted:**
+    - **Lord Percival:** Friendly noble.
+    - **Lady Veria:** Architect (Working on designs).
+    - **General Marcus:** Off-duty.
+    - **Suspicious Figure:** A hooded individual in crimson robes watching Kriv.
+ - **Event:** Intermission.
+ - **Party Split:**
+    - **Elara:** Went to introduce herself to Caelum.
+    - **Aegis-7:** Went to speak with General Marcus.
+    - **Kriv & Felix:** Approached the Suspicious Figure.
+ - **Interaction:** The Figure revealed himself as a High Elf with crimson eyes. He claims to have "mutual interests" regarding the city's preservation.
+ - **Dialogue:** The figure introduced himself as **Sylas** of the **Crimson Covenant**.
+ - **Intel:** Sylas warned that the true threat behind Valerius is still active.
+ - **Quest Hook:** Sylas tasked Kriv with acquiring **Lot 42: The Mystery Box** at the **Gilded Auction** tomorrow. He claims it is a dangerous containment vessel.
+ - **Item:** Received a **Black Card** (Crimson Covenant contact info).
+ - **Intel:** The "Mystery Box" contains a **Void Star** (Seed of a Great Old One).
+ - **Enemy:** The **Cult of the Eternal Night** is the true mastermind behind Valerius and seeks the seed.
+ - **Offer:** Sylas offered a **Covenant Signet Ring** (5,000gp Credit) to help win the auction.
+    - **Condition:** Using the credit creates a debt/favor owed to the Covenant.
+    - **Estimated Cost:** 4,000 - 6,000gp.
+ - **Decision:** Kriv accepted the **Covenant Signet Ring** as insurance, though he intends to pay with party funds if possible.
+ - **Departure:** Sylas vanished. Party regrouped.
+ - **Status:** Party has ~5,565gp in total assets vs. estimated 4,000-6,000gp cost.
+ - **Briefing:** Kriv informed the party about the Void Star and the Cult.
+ - **Rest:** Long Rest taken at The Platinum Chalice.
+ - **Time:** Day 8 (Morning).
+ - **Objective:** Pick up Elara's dagger from Gromm, then attend the Auction (Noon).
+ - **Preparation:** Party pooled all Platinum coins to Kriv (Total: 300pp).
+ - **Pickup:** Retrieved **Fang of the Many** from Gromm. Elara equipped it.
+ - **Event:** Party arrived at the **Gilded Auction House**.
+ - **Auction:** Bidding for **Lot 42 (Void Star)** has begun. Current Bid: 2,500gp.
+ - **Action:** Kriv waited to observe the bidding.
+ - **Preparation:** Kriv gave Elara the **Pearl of Power** and instructed her to ready *Hypnotic Pattern*.
+ - **Bidding:** Price rose to **4,000gp** (held by a Masked Figure).
+ - **Action:** Kriv bid **4,500gp**.
+ - **Counter-Bid:** The Masked Figure bid **5,000gp**.
+ - **Action:** Kriv bid **5,500gp** ("All In").
+ - **Result:** The Masked Figure folded. Kriv won the auction.
+ - **Transaction:** Paid **5,500gp** (Pooled funds from all party members).
+ - **Loot:** Acquired **Lot 42 (Void Star)**.
+ - **Communication:** Kriv contacted Sylas via the Black Card.
+ - **Intel:** Sylas warned that the Citadel High Council is compromised. Instructed Kriv to keep the Void Star until the Guildhall Vault is ready.
+ - **Travel:** Party moved to the **Citadel Dungeons**.
+ - **Encounter:** Confronting **The Black Spider** (Prisoner).
+ - **Dialogue:** The Black Spider sensed the Void Star and knows the party has it.
+ - **Interrogation:** Kriv offered "comfort" in exchange for intel.
+ - **Revelation:** **High Artificer Thul** is the traitor within the Citadel. He seeks the Void Star for magical power.
+ - **Intel:** The Cult of the Eternal Night is hiding in the **Old Sewers** (Market District Cistern).
+ - **Status:** Black Spider turned on the Cult for abandoning him.
+ - **Action:** Kriv ordered better conditions for the Black Spider (High Security Guest Wing).
+ - **Travel:** Party moved to **Citadel Barracks** to meet Sir Gideon.
+ - **Dialogue:** Kriv revealed Thul's treachery. Gideon is shocked but agrees they need proof before arresting a Council member.
+ - **Plan:** Gideon authorized a "Sanitation Sweep" of the Old Sewers.
+ - **Support:** Gideon offered a squad of Silver Flame Battlemages to hold the perimeter while the party infiltrates.
+ - **Travel:** Party checked the construction site in the Craftsman's District.
+ - **Interaction:** Thrain Hammerfall confirmed the Vault is weeks away from completion.
+ - **Status:** Kriv must carry the Void Star.
+ - **Travel:** Party met Lieutenant Aris and the Silver Flame Squad at the **Old Sewers** entrance (Market District).
+ - **Objective:** Breach the sewers and locate the Cult.
+ - **Action:** Aegis-7 breached the sewer gate with the Siege Ram.
+ - **Action:** Felix fed Scraps wyvern meat (Morale Boost).
+ - **Formation:** Aegis (Point), Kriv/Elara/Felix (Center), Scraps (Rear).
+ - **Entry:** Party entered the **Market District Cistern**.
+ - **Observation:** Found a fork in the path. Main channel (Straight) vs Maintenance Tunnel (Right).
+ - **Intel:** The Maintenance Tunnel is marked with the Cult's symbol.
+ - **Action:** Elara took point (Stealth) with the party following.
+ - **Hazard:** Elara spotted and bypassed an **Alchemist's Fire Trap** (Tripwire).
+ - **Encounter:** Spotted 2 **Cultists** guarding a reinforced door ahead. They are unaware.
+ - **Combat:** Surprise Round.
+    - **Elara:** Assassinated Cultist 1 with *Fang of the Many* (Silent Takedown).
+    - **Kriv & Aegis:** Killed Cultist 2 with coordinated Crossbow fire.
+ - **Status:** Guards eliminated. No alarm raised. Chanting heard inside.
+ - **Looting:** Kriv searched the bodies.
+    - **Loot:** 25gp, **Rusty Iron Key**, **Scroll of Blindness/Deafness**.
+ - **Action:** Elara unlocked the door.
+ - **Action:** Party entered the **Cistern Chamber** (Stealth).
+ - **Observation:**
+    - **Enemies:** 12 Cultists, 1 Cult Leader (Iron Mask).
+    - **Hazard:** Something large moving in the water.
+    - **Intel:** The Cult is waiting for **High Artificer Thul** to deliver the Void Star. They believe the wards are lowered.
+ - **Action:** Kriv stepped out and bluffed the Cult Leader, claiming to be Thul's guard delivering the package.
+ - **Result:** Deception Success. The Leader is suspicious but invited Kriv to the altar.
+ - **Status:** Elara is holding *Hypnotic Pattern*. Kriv is crossing the bridge.
+ - **Interaction:** Kriv feigned ignorance ("Just a guard") and asked about the box's contents to stall/gain intel.
+ - **Villain Monologue:** The Cult Leader explained the **Void Star** is a "Seed of Unmaking."
+ - **Intel:** The ritual intends to use the Star to dissolve the laws of reality and merge the Material Plane with the Far Realm ("The Eternal Night").
+ - **Action:** Kriv signaled Elara.
+ - **Spell:** Elara cast *Hypnotic Pattern*.
+    - **Result:** 10/12 Cultists Incapacitated.
+    - **Result:** Cult Leader Saved.
+ - **Dialogue:** Kriv attempted to negotiate/distract the Leader using the chaos.
+ - **Event:** The Leader summoned a **Void Chuul** from the cistern.
+ - **Combat Start:** Ritual Chamber.
+    - **Enemies:** Cult Leader, Void Chuul, 2 Active Cultists (10 Incapacitated).
+    - **Party:** Kriv, Elara, Felix, Aegis-7, Scraps.
+ - **Round 1:**
+    - **Elara:** Cast *Shatter* on the Leader (Bridge). Leader failed save (18 Thunder Dmg). Cultists remained asleep.
+    - **Felix:** Cast *Scorching Ray* on the Leader. 2 Hits (14 Fire Dmg).
+    - **Aegis-7:** Intercepted Void Chuul. Hit (16 Dmg).
+    - **Kriv:** Charged Void Chuul with *Divine Smite* (Void Bonus). Hit (34 Dmg).
+    - **Void Chuul:** Attacked Aegis. Hit (14 Dmg). Aegis is Grappled.
+    - **Cult Leader:** Cast *Blight* on Elara.
+    - **Status:** Chuul Bloodied. Leader Heavily Wounded. Aegis Grappled.
+
+ - **Round 2:**
+    - **Felix:** Cast *Counterspell* (Reaction). Negated *Blight*.
+    - **Elara:** Dropped *Hypnotic Pattern*. Cast *Heat Metal* on Leader's Mask (9 Fire Dmg).
+    - **Cult Leader:** Taking Fire damage. Has Disadvantage.
+    - **Cultists:** Woke up. Intimidated by Kriv/Burning Leader. Morale broken.
+    - **Kriv:** Intimidated Cultists (Free). Cast *Command* ("Drop") on Void Chuul.
+    - **Void Chuul:** Failed Save. Dropped Aegis-7.
+    - **Aegis-7:** Freed from Grapple.
+    - **Status:** Leader incapacitated by pain. Chuul neutralized for the turn.
+
+ - **Round 3:**
+    - **Elara:** Used *Heat Metal* (Bonus Action) on Leader. Cast *Vicious Mockery* on Chuul.
+    - **Felix:** Cast *Fire Bolt* on Chuul.
+    - **Aegis-7:** Multiattack on Chuul.
+    - **Scraps:** Multiattack on Chuul.
+    - **Result:** Void Chuul destroyed.
+    - **Event:** Silver Flame Squad breached and secured the room.
+ - **Victory:** Cultists captured. Cult Leader captured. Void Chuul slain.
+ - **Status:** Room secured.
+ - **Action:** Kriv unmasked the Cult Leader.
+ - **Identity:** Identified as **Magister Oren** (Thul's Assistant).
+ - **Investigation:** Elara searched the altar.
+ - **Loot:** Found **Letter from Thul** (Proof of Treason).
 
 ### Current Status
- - **Location:** Aethelgard (The Platinum Chalice).
- - **State:** Victory / Post-Combat.
- - **Time:** Day 7 (Morning).
- - **Objective:** Choose an evening activity.
+ - **Location:** Aethelgard (Market District Cistern - Ritual Chamber).
+ - **State:** Victory / Prisoners Secured.
+ - **Time:** Day 8 (Afternoon).
+ - **Objective:**
+    - Transport Oren/Cultists to the Citadel.
+    - Confront Thul.
