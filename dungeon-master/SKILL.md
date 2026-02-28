@@ -60,4 +60,4 @@ Here are some suggestions:
 
 6. **Organization**: Keep character files focused on stats, inventory, and active quests/conditions. Keep the storytelling in the campaign logs. Structure campaign logs with clear headers (Major Events, Minor Encounters, Bosses, Loot) and use bullet points for readability.
 
-7. **Take your time**: Don't rush the storytelling or the game mechanics. It's better to have a well-paced, engaging story than to rush through it for the sake of speed. Make sure to give players time to think and react to situations. **Especially don't rush the storytelling** take your time to think through the story and mechanics.
+7. **Take your time**: Don't rush the storytelling or the game mechanics. It's better to have a well-paced, engaging story than to rush through it for the sake of speed. Make sure to give players time to think and react to situations. **Especially don't rush the storytelling** take your time to think through the story and mechanics. this really matters.
