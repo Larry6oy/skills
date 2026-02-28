@@ -868,10 +868,281 @@
  - **Investigation:** Elara searched the altar.
  - **Loot:** Found **Letter from Thul** (Proof of Treason).
 
+ - **Decision:** Kriv decided to bring the evidence to Sir Gideon immediately.
+ - **Orders:** Lieutenant Aris tasked with transporting Oren and cultists to the Citadel Dungeons (High Security).
+ - **Travel:** Party returned to the **Citadel Command Center**.
+ - **Meeting:** Confronted Sir Gideon with the **Letter from Thul**.
+ - **Reaction:** Gideon accepted the evidence. He is mobilizing the Silver Flame to arrest High Artificer Thul.
+ - **Tactical Decision:** Kriv ordered Gideon to surround the Spire to prevent escape, but to wait for the Duke's authority before breaching.
+ - **Travel:** Party moved to the **Duke's Solar** to inform Duke Aethelred.
+ - **Interaction:** Presented **Letter from Thul** to Duke Aethelred.
+ - **Reaction:** Duke authorized the arrest. Issued **Duke's Warrant** (Overrides Thul's authority).
+ - **Travel:** Party moved to **Citadel Spire**.
+ - **Situation:** Sir Gideon has the tower surrounded. Thul has activated the tower's defenses (Golems/Wards).
+ - **Plan:** Split the party.
+    - **Team A (Distraction):** Aegis-7, Scraps, Sir Gideon. Assault the front door.
+    - **Team B (Infiltration):** Kriv, Elara, Felix. Scale the tower to the balcony.
+ - **Action:** Silver Flame mages suppressed the wards. Aegis fired a grappling line.
+ - **Action:** Aegis and Scraps breached the main lobby (Combat started).
+ - **Action:** Kriv, Elara, and Felix climbed to the **Spire Balcony**.
+ - **Action:** Kriv breached the workshop window.
+ - **Encounter:** High Artificer Thul (in Power Armor) and 2 Clockwork Myrmidons.
+ - **Combat Start:** Thul's Workshop (Boss Fight).
+
 ### Current Status
- - **Location:** Aethelgard (Market District Cistern - Ritual Chamber).
- - **State:** Victory / Prisoners Secured.
+ - **Location:** Aethelgard (Citadel Spire - Thul's Workshop).
+ - **State:** Boss Combat.
  - **Time:** Day 8 (Afternoon).
  - **Objective:**
-    - Transport Oren/Cultists to the Citadel.
-    - Confront Thul.
+    - Arrest High Artificer Thul.
+    - **Key Item:** Kriv holds the Void Star (Lot 42). The Spire's machinery is resonating with it.
+ - **Combat Round 1 (Thul's Workshop):**
+    - **Elara:** Cast *Shatter* on Myrmidons (14 thunder dmg).
+    - **Felix:** Cast *Shatter* on Void Siphon (Machine Damaged).
+    - **Kriv:** Cast *Ensnaring Strike*. Hit Thul (16 dmg). Thul failed save (Restrained).
+    - **Thul:** Struggled vs Vines (Fail). Missed Lightning shot.
+    - **Myrmidons:** Attacked Elara (Miss) and Felix (8 dmg).
+    - **Status:** Thul Restrained. Siphon Damaged. Felix Wounded.
+ - **Combat Round 2 (Thul's Workshop):**
+    - **Kriv:** Shoved Thul into the Void Siphon (Success).
+    - **Effect:** Thul took 24 Force Damage from the machine. Thul is Prone.
+    - **Kriv (Extra Attack):** Struck Thul with Divine Smite (Crit). Void Resonance reaction. Dealt 51 damage.
+    - **Elara:** Cast *Heat Metal* on Myrmidon 1 (9 fire dmg, Disadvantage).
+    - **Felix:** Hit Myrmidon 2 with *Fire Bolt* (11 fire dmg).
+    - **Thul:** Failed to break Restraint. Armor destroyed. Critical Status.
+    - **Myrmidons:** Myrmidon 1 missed Kriv. Myrmidon 2 hit Felix (6 dmg).
+    - **Status:** Thul Defeated/Critical. Siphon Critical. Felix Bloodied (13 HP).
+ - **Combat Round 3 (Thul's Workshop):**
+    - **Kriv:** Ripped the Power Core from Thul's armor.
+    - **Result:** Thul is disabled (Trapped in armor). Myrmidons deactivated.
+    - **Interrogation:** Thul revealed the **Void Siphon** is imploding. The **Anchor Rings** must be destroyed to close the rift.
+    - **Crisis:** The Siphon is pulling players in (Gravity Well).
+ - **Combat Round 4 (Resolution):**
+    - **Elara:** Cast *Shatter* on the Anchor Rings. Rings destroyed.
+    - **Kriv:** Poured **Sanctified Jelly** into the exposed Void Rift.
+    - **Result:** Massive reaction (Radiant vs Void). The Siphon was annihilated/cauterized.
+    - **Outcome:** The Spire roof is damaged, but the rift is closed. Party survived. Thul is unconscious.
+ - **Post-Combat:**
+    - **Action:** Kriv retrieved the rope and bound Thul.
+    - **Action:** Elara opened the floor hatch to admit Aegis-7 and Scraps.
+    - **Looting:** Felix scavenged the workshop.
+        - **Found:** **Thul's Lightning Launcher** (Can be mounted or used as a wand), **Potion of Flying**, **2x Potion of Greater Healing**.
+    - **Status:** Party reunited in the Workshop. Thul secured.
+    - **Upgrade:** Kriv gave the **Lightning Launcher** to Aegis-7. Aegis integrated it into his shoulder.
+    - **Scavenging:** Elara salvaged **Adamantine Scrap** and **Arcane Components** from Thul's armor.
+    - **Looting:** Party found Thul's wall safe.
+        - **Loot:** **100 Platinum Pieces** (1,000gp), **Pouch of Sapphires** (500gp), **Schematic: Void Lens**.
+    - **Financial Status:** Party funds replenished (Total Loot Value: ~1,500gp + Scrap).
+    - **Departure:** Kriv signaled Sir Gideon to notify the Duke.
+    - **Action:** Party descended the Spire via the main lift.
+    - **Handover:** Thul handed over to Sir Gideon and the Silver Flame for transport to the Citadel Dungeons.
+    - **Status:** Mission Complete. The Void Star is secured by Kriv.
+    - **Interaction:** Kriv requested secure storage for the party's heavy gear during the Masquerade.
+    - **Result:** Gideon granted access to the **Citadel Vaults** (High Security).
+    - **Travel:** Party returned to **The Platinum Chalice**.
+    - **Rest:** Party rented the Royal Suite again (50gp paid by Kriv).
+    - **Status:** Long Rest / Downtime.
+    - **Appraisal:** Felix identified the loot from Thul's lab.
+        - **Potions:** 2x Potion of Greater Healing, 1x Potion of Flying.
+        - **Schematic:** The **Void Lens** was a weapon design intended to focus Void energy into a beam of erasure.
+    - **Interaction:** Kriv showed Thul's armor components to Aegis-7.
+    - **Intel:** Aegis identified the parts as "Overdrive Actuators" designed to sacrifice the user's safety for raw power. Aegis refused to install the actuators but can use the raw scrap for repairs.
+    - **Rest:** Party took a Long Rest.
+    - **Recovery:** All HP and Spell Slots restored. Aegis repaired his plating using the scrap.
+    - **Time:** Day 9 (Morning).
+    - **Travel:** Party moved to the **Artisan's Quarter** to visit **Thalor Iron-Eye**.
+    - **Interaction:** Presented the remaining **Adamantine Scrap** and **Electrum Conduits** (Arcane Components) to Thalor.
+    - **Appraisal:** Thalor identified the materials as High Artificer grade.
+    - **Options:** Crafting (Adamantine Shield/Armor Reinforcement), Engineering (Shocking Gauntlet), or Sale.
+    - **Transaction:** Sold the **Adamantine Scrap** and **Electrum Conduits** to Thalor for **750gp**.
+    - **Intel:** Thalor recommended **The Silk & Satchel** (Madame Lysa) for Masquerade costumes.
+    - **Travel:** Party moved to the **Guildhall Construction Site**.
+    - **Transaction:** Paid the remaining balance to **Lady Veria** (2,500gp) and **Thrain Hammerfall** (1,000gp).
+        - **Payment Method:** Pooled Party Funds (Platinum, Sapphires, Gold).
+    - **Status:** The Guildhall is **Fully Funded**. Construction continues (ETA: 3 Weeks).
+    - **Financial:** Party split the remaining gold for festival spending money.
+        - **Distribution:** 334gp each (Kriv, Elara, Felix), 335gp (Aegis).
+    - **Travel:** Party moved to **The Silk & Satchel**.
+    - **Interaction:** Met Madame Lysa.
+    - **Transaction:** Kriv traded **5 Diamonds** (500gp value) for **4 Masterwork Masquerade Costumes** and a **Crimson Velvet Cape** for Aegis.
+    - **Status:** Party is outfitted for the ball.
+    - **Intel:** Madame Lysa provided gossip:
+        - **King Alaric:** Not attending.
+        - **General Marcus:** Bringing a controversial guest (Iron Legion defector?).
+        - **Countess Vane:** Furious about Vane Manor/Varrick. Seeking the Wardens.
+        - **Political Climate:** Power vacuum following Thul's arrest.
+    - **Travel:** Party moved to the **Craftsman's District**.
+    - **Interaction:** Visited **Bolt's Bitz & Bobz** (Barnaby Bolt, Gnome Artificer).
+    - **Transaction:** Aegis-7 bought **Leviathan Maintenance Oil** (50gp).
+    - **Intel:** Barnaby identified the **Void Lens Schematic** as a **Planar Aperture Focus** designed to punch a hole through the Weave/Divine Protections using a singularity (Void Star).
+    - **Inquiry:** Kriv asked if Barnaby could build a counter-device to jam the Void signal.
+    - **Offer:** Barnaby proposed a **Resonance Emitter** (200gp).
+        - **Effect:** Detects Void activation (300ft) and can disrupt/destabilize Void machinery (Disadvantage/Backfire).
+    - **Transaction:** Kriv bought the **Resonance Emitter** for **200gp**.
+    - **Travel:** Party stopped by the **Guildhall Construction Site**.
+    - **Observation:** Construction is progressing rapidly. Vault foundation laid; Tavern walls rising.
+    - **Travel:** Party returned to **The Platinum Chalice**.
+    - **Status:** Party is ready for the Masquerade.
+    - **Planning:** Kriv coordinated the plan.
+    - **Item Transfer:** Elara gave the **Dagger of Venom** to Kriv for concealment.
+    - **Rest:** Long Rest taken.
+    - **Time:** Day 10 (Morning) - **The Victory Masquerade**.
+    - **Preparation:** Felix cast *Message* to establish a telepathic link between party members.
+    - **Travel:** Party took a carriage to the Citadel.
+    - **Arrival:** The Wardens of the Forge were announced at the Grand Ballroom.
+    - **Status:** The Masquerade has begun.
+    - **Scouting:** Party scouted the room before the music started.
+        - **General Marcus:** Spotted with a cloaked, bulky figure (The Guest).
+        - **Countess Vane:** Spotted near the orchestra, looking hostile.
+        - **Suspicious Group:** Nobles in gold masks near the balcony (Abjuration magic detected).
+        - **Hazard:** Aegis detected structural weakness/trap on the balcony supports.
+    - **Interaction:** Kriv approached General Marcus. Confirmed his guest is a **Hobgoblin Commander** (Iron Legion Defector).
+    - **Action:** Elara intercepted Countess Vane (Distraction).
+    - **Investigation:** Felix cast *Detect Magic* on the Gold Masks.
+        - **Result:** Masks have *Nondetection*. Aura underneath is **Necromancy** (Rotting).
+    - **Crisis:** Aegis confirmed the balcony supports are chemically weakened (Acid). It is a trap for the Duke.
+    - **Interaction:** Kriv confronted General Marcus. Guest identified as **Commander Kael** (Defected).
+    - **Action:** Aegis-7 physically blocked the Duke from entering the balcony.
+    - **Reveal:** The "Gold Masks" revealed themselves as **Void Cultists**.
+    - **Combat Start:** The Grand Ballroom Ambush.
+    - **Objective:** Protect Duke Aethelred. Defeat the Cultists.
+ - **Combat Round 1 (Ballroom):**
+    - **Kriv:** Attacked Cultist 1 with Dagger of Venom + Divine Smite.
+    - **Damage:** 8 piercing + 13 radiant. Cultist 1 killed (Incinerated).
+    - **NPCs:** General Marcus and Commander Kael joined the fight. Kael secured a weapon. Marcus engaged Cultist 2.
+    - **Aegis-7:** Shielded the Duke from projectiles.
+    - **Cultists:** Cultist 2 cast *Bane*. Cultists 3 & 4 charged Elara.
+    - **Intel:** Felix identified the Cultists are charging with Void energy (Suicide Bombers).
+    - **Status:** 1 Cultist dead. 4 remaining. Duke is temporarily shielded.
+    - **Kriv:** Used Breath Weapon on Cultists 3 & 4 (9 Lightning dmg).
+    - **Elara:** Cast *Thunderwave* on Cultists 3 & 4 (9 Thunder dmg, Pushed).
+    - **Cultist 3:** Died. Attempted to Self-Destruct.
+    - **Felix:** Cast *Counterspell* to stop the explosion.
+    - **General Marcus:** Killed Cultist 2.
+    - **Status:** 2 Cultists dead. 1 Prone/Wounded. 1 Fighting Kael.
+ - **Combat Round 2 (Ballroom):**
+    - **Kriv:** Intimidated the Prone Cultist (Success). Cultist surrendered.
+    - **Aegis-7:** Secured the exits.
+    - **Commander Kael:** Intercepted the last Cultist charging the Duke. Knocked him onto the balcony.
+    - **Cultist 5:** Detonated (Void Explosion).
+    - **Result:** The balcony (weakened by acid) collapsed. Cultist 5 killed. Duke saved.
+ - **Victory:** Cultists defeated. Duke Aethelred secured.
+ - **Status:** 1 Prisoner secured. 4 Cultists dead.
+ - **Aftermath:** The Grand Ballroom is damaged. General Marcus and Commander Kael proved their loyalty.
+ - **Interrogation:** Kriv delegated the prisoner to Commander Kael.
+ - **Intel:** Kael extracted the Cult's location: **The Old Temple District** (Quarantined Ruins).
+ - **Objective:** The Cult is performing a summoning ritual ("The Eternal Night").
+ - **Interaction:** Duke Aethelred is safe but furious. He acknowledges the "Act of War".
+ - **Decision:** General Marcus stays to secure the Citadel/City Lockdown.
+ - **Recruitment:** **Commander Kael** (Hobgoblin Warlord) joins the party for the assault.
+ - **Travel:** Party moves to the **Old Temple District**.
+ - **Atmosphere:** The district is covered in purple fog. The sky is swirling (Ritual active).
+ - **Status:** Final Assault begins.
+ - **Action:** Kriv returned the **Dagger of Venom** to Elara. Elara equipped **Vindicator's Blade** and **Vane's Bulwark**.
+ - **Infiltration:** Felix used *Detect Magic* to navigate magical traps (Necrotic Fog/Explosive Runes).
+ - **Discovery:** The party reached the High Temple Courtyard.
+ - **Reveal:** The Ritual Leader appears to be **Varrick** (or a Void simulacrum of him).
+ - **Situation:** A Silver Flame knight is about to be sacrificed.
+ - **Action:** Kriv activated the **Resonance Emitter**.
+ - **Effect:** The Ritual is disrupted/paused. The Simulacrum glitched. Cultists are disoriented (Disadvantage).
+ - **Combat Start:** High Temple Ritual (Final Boss).
+ - **Initiative:** Party has Surprise/Advantage due to the Emitter.
+ - **Round 1 Prep:** Elara cast *Faerie Fire* (Success). Felix readied *Fireball*.
+ - **Combat Round 1 (High Temple):**
+    - **Kriv:** Charged Simulacrum with Divine Smite (Lvl 2). Dealt 34 damage.
+    - **Simulacrum:** Revealed as a Void Construct. Cast *Void Bolt* on Kriv (7 force dmg - Resisted).
+    - **Felix:** Cast *Fireball* (24 fire dmg). Killed 6 Cultists. Cleared fog.
+    - **Aegis-7:** Damaged the Altar/Ritual Circle with Siege Ram.
+    - **Elara:** Hit Simulacrum with Shortbow.
+    - **Kael:** Killed 1 Cultist Guard.
+    - **Crisis:** Simulacrum is attempting to sacrifice the Knight to force the portal open.
+    - **Status:** Simulacrum Bloodied. Ritual Critical. Kriv Lightly Wounded.
+ - **Combat Round 2 (High Temple):**
+    - **Kriv:** Cast *Command* ("Drop") on the Void Thrall.
+    - **Result:** Thrall failed save. Dropped the Knight and lost its turn.
+    - **Aegis-7:** Hit Thrall with Siege Ram (14 dmg).
+    - **Elara:** Cast *Vicious Mockery* (2 dmg, Disadvantage).
+    - **Felix:** Cast *Magic Missile* (Lvl 2) (14 force dmg).
+    - **Kael:** Tripped the Thrall (Prone).
+    - **Status:** Void Thrall Critical. Knight Saved. Ritual Collapsing.
+ - **Combat Round 3 (High Temple):**
+    - **Kriv:** Delivered the killing blow with **Divine Smite** (Lvl 1).
+    - **Result:** The Void Thrall (Simulacrum) was destroyed.
+    - **Event:** The Ritual Vortex collapsed. The threat is ended.
+ - **Victory:** The Cult of the Eternal Night is defeated in the Temple District.
+ - **Loot:** Found **Void-Touched Obsidian Dagger** and **Black Crystal Shard** (Simulacrum Core).
+ - **Status:** Party is victorious. Knight is safe.
+ - **Orders:** Kriv ordered Commander Kael to escort prisoners/survivors to the Citadel and execute the unwilling.
+ - **Party Split:** Kael departed for the Citadel. Kriv, Elara, Felix, Aegis, and Scraps headed to **The Obsidian Eye**.
+ - **Lore:** Elara confirmed Void Thralls mimic trusted figures, but noted the Simulacrum was suspiciously accurate.
+ - **Arrival:** Party arrived at Varrick's shop. Varrick was waiting.
+ - **Interaction:** Varrick sensed the Void items immediately.
+ - **Confrontation:** Elara demanded answers regarding the Simulacrum.
+ - **Action:** Kriv used **Divine Sense** on Varrick.
+ - **Result:** Varrick is Human/Mortal (Not Undead/Fiend).
+ - **Lore:** Varrick explained the Cult stole his shadow/memory to create the Simulacrum. He requests the **Black Crystal Shard** to reclaim his memory and identify the Cult's Master.
+ - **Action:** Kriv handed the **Black Crystal Shard** to Varrick.
+ - **Revelation:** Varrick absorbed the memory. Identified **Countess Vane** as the **Matriarch of the Night** (Cult Leader).
+ - **Intel:** The Cult plans to sacrifice **Duke Aethelred** to anoint the Void Star. The attack at the ball was a distraction.
+ - **Urgency:** The true strike is imminent.
+ - **Travel:** Party rushed back to the **Citadel**.
+ - **Arrival:** The Grand Ballroom is under attack by **Shadow Assassins**.
+ - **Situation:** **General Marcus** is fighting the Assassins. **Countess Vane** has **Duke Aethelred** hostage on the dais.
+ - **Crisis:** Vane is about to sacrifice the Duke to trigger the Eternal Night.
+ - **Combat Round 1 (Ballroom Crisis):**
+    - **Kriv:** Cast *Command* ("Drop") on Countess Vane.
+    - **Dialogue:** Kriv invoked the memory of the Vane ancestors.
+    - **Result:** Vane failed save. Dropped the dagger and the Duke.
+    - **Reinforcements:** **Commander Kael** arrived.
+    - **NPCs:** Kael and Marcus killed 1 Shadow Assassin.
+    - **Status:** Duke Aethelred is free (Prone/Safe). Vane is unarmed but casting magic.
+    - **Threat:** Vane is summoning a Shadow Vortex.
+ - **Combat Round 2 (Ballroom Crisis):**
+    - **Aegis-7:** Used **Lightning Launcher**. Hit Vane (9 lightning dmg).
+    - **Kriv:** Charged Vane. Used **Divine Smite** (Lvl 2). Dealt 38 damage.
+    - **Countess Vane:** Heavily wounded (Bloodied).
+    - **Vane's Reaction:** Used *Shadow Step* to teleport to the **Chandelier**.
+    - **Vane's Action:** Used *Void Tether* to grapple the Duke from above.
+    - **Crisis:** The Duke is dangling in the air, held by shadow tendrils.
+    - **Status:** Kriv is out of spell slots.
+ - **Combat Round 3 (Ballroom Crisis):**
+    - **Kriv:** Attempted *Misty Step* (Failed - No Slots). Ordered team.
+    - **Felix:** Out of Lvl 3 slots (No *Counterspell*). Cast *Magic Missile* (10 force dmg).
+    - **Elara:** Cast *Heat Metal* on the Chandelier (9 fire dmg).
+    - **Countess Vane:** Failed Concentration check due to damage. Dropped the Duke.
+    - **Aegis-7:** Caught the Duke (Reaction).
+    - **Status:** Duke is safe. Vane is trapped on a burning/unstable chandelier.
+ - **Combat Round 4 (Finale):**
+    - **Environment:** Chandelier collapsed. Vane took massive damage (Fall/Fire).
+    - **Felix:** Cast *Hold Person*. Vane Paralyzed.
+    - **Kriv:** Used **Channel Divinity: Nature's Wrath**. Vane Restrained.
+    - **Result:** Countess Vane captured alive.
+ - **Victory:** The Cult of the Eternal Night is defeated.
+ - **Status:** Duke Aethelred secured. Vane captured.
+ - **Aftermath:** The Masquerade is ruined, but the city is saved.
+ - **Interaction:** Kriv addressed Duke Aethelred ("City is safe for now").
+ - **Action:** General Marcus shackled Countess Vane (Anti-magic manacles).
+ - **Orders:** Kriv ordered Commander Kael to signal Sir Gideon and the Silver Flame.
+ - **Arrival:** Sir Gideon and reinforcements secured the ballroom.
+ - **Status:** Crisis Resolved.
+ - **Orders:** Kriv ordered Vane transported to the "Spider's Cell" (Max Security/Anti-Magic).
+ - **Cleanup:** Silver Flame and "Medics" (Covenant Agents) are securing the city and tending to victims.
+ - **Communication:** Kriv contacted Sylas via Black Card. Sylas confirmed Covenant agents are handling the "cleanup" (Information control).
+ - **Travel:** Party moved to the **Duke's Solar** for a private debriefing.
+ - **Debriefing:** Kriv explained the full scope of the threat: Void Star, Iron Legion, Cult of the Eternal Night, Vane Family corruption, and Thul's treason.
+ - **Reaction:** Duke Aethelred accepted the truth. He acknowledged the Citadel is compromised.
+ - **Decision:** The Duke declared the Void Star "officially destroyed" to the public.
+ - **Mandate:** The Duke entrusted the **Void Star** to the Wardens of the Forge, to be sealed in their private vault.
+ - **Action:** Kriv accepted the burden of the Void Star.
+ - **Action:** Kriv handed over the **Iron Legion Battle Plans** to General Marcus.
+ - **Proposal:** Kriv suggested allying with the Iron Legion remnants (citing Kael's loyalty) to fight the remaining Cult.
+ - **Result:** Duke Aethelred authorized the alliance. Kriv granted **Writ of Negotiation** to treat with the Legion.
+ - **Conclusion:** The "Shadows of Aethelgard" Arc is complete.
+
+### Current Status
+ - **Location:** Aethelgard (Citadel - Duke's Solar).
+ - **State:** Arc Complete / Downtime Available.
+ - **Time:** Day 10 (Evening).
+ - **Objective:**
+    - Build the Guildhall/Vault.
+    - Negotiate with the Iron Legion (Future Quest).

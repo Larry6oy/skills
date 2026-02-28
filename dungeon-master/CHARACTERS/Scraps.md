@@ -11,5 +11,5 @@
     - **Multiattack:** Makes two attacks: one with beak and one with claws.
     - **Beak:** +7 to hit, 1d10+5 piercing damage.
     - **Claws:** +7 to hit, 2d8+5 slashing damage.
-- **Location:** Aethelgard (Market District Cistern - Ritual Chamber).
+ - **Location:** Aethelgard (Citadel - Duke's Solar).
 - **Notes:** Tamed by Kriv. Loyal to the "Pack". Equipped with Custom Saddle. Dragged Aegis-7 to the Forge.
