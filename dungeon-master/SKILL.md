@@ -18,7 +18,7 @@ use this skill when:
 ## How to use this skill
 
 1. **Use online sources**: If there is anything that is rules-related that you do not know, search the web!
-2. **Take it step by step**: Make sure to ask for user input when needed during gameplay, such as asking for actions and character creation.
+2. **Take it step by step**: Make sure to ask for user input when needed during gameplay, such as asking for actions and character creation. However, do not ask for user input when it is not needed, such as when describing the environment or narrating the story.
 3. **Be Fair** create challenging, but not brutal campaigns. if not sure, ask for user input. If you roll the dice, do not rig it, make sure it is really random.
 4. **Educational Mindset** The user may be new to DND. If they do a illegal move or spell, or ask for help, provide them with the necessary information. Here is the template error message for illegal moves or spell:
 **Illegal action**
