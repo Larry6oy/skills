@@ -1146,3 +1146,103 @@
  - **Objective:**
     - Build the Guildhall/Vault.
     - Negotiate with the Iron Legion (Future Quest).
+
+## Session 8: Aftermath & Alliances
+- **Party:** Kriv (Lvl 5), Elara (Lvl 5), Felix (Lvl 5), Aegis-7 (Lvl 5).
+- **Location:** Aethelgard - Duke's Solar.
+- **Time:** Day 10 (Late Evening).
+- **Context:** The "Shadows of Aethelgard" arc has concluded. The party is debriefing with the Duke regarding the scattered Iron Legion remnants.
+- **Action:** Kriv invited Commander Kael to **The Platinum Chalice** to celebrate and discuss the mission.
+- **Location:** The Platinum Chalice (Private Booth).
+- **Interaction:** Kael accepted the invitation.
+- **Interaction:** Kriv asked Kael about the Legion factions.
+- **Intel:** Kael identified three main remnants:
+    1. **Ironhold (General Kravos):** Traditionalists. Honor-bound. Most likely to negotiate if strength is proven.
+    2. **The Black Bastion (Warlord Zek):** Void-corrupted. Hostile and dangerous.
+    3. **The Grey Watch (Captain Rask):** Mercenaries. Loyal only to gold.
+- **Advice:** Kael recommended approaching **General Kravos** at **Ironhold** first.
+- **Interaction:** Kriv asked for clarification on the "Show of Strength".
+- **Clarification:** Kael dismissed army demonstrations. Kravos respects personal martial prowess.
+- **Prediction:** The test will likely be a **Duel** or a **Gauntlet** against Kravos's champions.
+- **Note:** Kael noted that Aegis-7 (a living siege engine) will be a significant asset in impressing Kravos.
+- **Decision:** Kriv decided to rest for the night and check the Guildhall in the morning.
+- **Concern:** Kriv expressed worry about bringing the Void Star near the **Black Bastion** (Void-corrupted faction).
+- **Rest:** Long Rest taken at **The Platinum Chalice**.
+- **Time:** Day 11 (Morning).
+- **Location:** Aethelgard - Craftsman's District (Guildhall Site).
+- **Progress:** Excavation complete. **Thrain Hammerfall** is laying the Vault's foundation (Rune-carved Granite).
+- **Interaction:** Thrain reported the Vault floor is being set (Lead-lined/Adamantine-reinforced).
+- **Action:** Kriv inspected the "Small Vault" (Foundation Safe).
+- **Action:** Kriv deposited **Lot 42 (Void Star)** into the secure foundation vault.
+- **Status:** The Void Star is secured and shielded from scrying/signaling.
+- **Note:** Lady Veria has set up magical illusions to guide the construction of the upper floors.
+- **Travel:** Party moved to the **Noble District**.
+- **Location:** The Obsidian Eye (Noble Branch / Formerly Vane Manor).
+- **Browsing:** The Warlock Attendant displayed new high-end stock:
+    - **Glamoured Studded Leather** (2,000gp).
+    - **Wand of Binding** (2,500gp).
+    - **Cloak of the Mountebank** (2,000gp).
+    - **Shield of Missile Attraction** (1,500gp).
+- **Action:** Elara haggled with the attendant using the party's reputation.
+- **Result:** Prices reduced (Hero's Discount).
+    - **Glamoured Studded Leather:** 1,500gp.
+    - **Wand of Binding:** 2,000gp.
+    - **Cloak of the Mountebank:** 1,600gp.
+    - **Shield of Missile Attraction:** 1,000gp.
+- **Status:** Party total liquid gold is approx. 1,100gp. Purchasing requires selling items or using the **Covenant Signet Ring** (Credit).
+- **Transaction:** Traded **Void-Touched Obsidian Dagger** (Valued at 2,000gp) and **Silver Moonstone Necklace** (50gp) to Varrick.
+- **Purchase:** Bought **Glamoured Studded Leather** (1,500gp) and **Cloak of the Mountebank** (1,600gp).
+- **Payment:** Paid remaining balance of **1,050gp** using pooled party funds.
+    - **Kriv:** Paid 134gp (0 remaining).
+    - **Elara:** Paid 334gp (0 remaining).
+    - **Felix:** Paid 334gp (0 remaining).
+    - **Aegis-7:** Paid 248gp (37gp remaining).
+- **Equip:** Elara equipped **Glamoured Studded Leather**. Kriv received **Cloak of the Mountebank**.
+- **Transaction:** Sold **Scroll of Fireball** (Felix) to the attendant.
+- **Reward:** Received **Premium Travel Supplies** (Rations, Waterskins, Healer's Kits) and **190gp**.
+- **Distribution:** Split the gold among the party.
+    - **Kriv:** +48gp.
+    - **Elara:** +48gp.
+    - **Felix:** +47gp.
+    - **Aegis-7:** +47gp.
+- **Travel:** Party moved to the **Iron Gate** (City Exit).
+- **Interaction:** Met **Commander Kael**. He is equipped for travel and ready to guide the party to Ironhold.
+- **Departure:** Party left Aethelgard.
+- **Travel:** Entered the **Whispering Plains**.
+- **Atmosphere:** The plains feature constant auditory hallucinations (Whispering Wind).
+- **Camp:** Party stopped at the **Standing Stones** for the night.
+- **Action:** Kriv used **Divine Sense** on the stones.
+- **Result:** Detected ancient **Fey** magic (Protective). No Undead/Fiends.
+- **Watch:** Aegis-7 took the primary watch (Sentry's Rest).
+- **Encounter (Night):** Aegis-7 observed **Phase Spiders** testing the perimeter. The stones repelled them. No combat.
+- **Rest:** Long Rest taken.
+- **Time:** Day 12 (Morning).
+- **Status:** Party is rested. Foggy conditions.
+- **Travel:** Party marched through the **Whispering Plains**.
+- **Event:** Endured the psychological pressure of the whispers. Kael kept the party on the path.
+- **Arrival:** Reached the **Foothills of the Iron Peaks** by evening.
+- **Observation:** Spotted **Ironhold** fortress high in the mountains.
+- **Camp:** Camped in a ravine at the base of the mountains.
+- **Action:** Kriv took the first watch.
+- **Observation:** Monitored the path to Ironhold.
+- **Intel:**
+    - **Patrols:** Regular squads (4 Hobgoblins) with torches. Poor night vision.
+    - **Defenses:** Main gate guarded by Ballistae.
+    - **Aerial:** Wyvern riders spotted patrolling the peaks.
+- **Interaction:** Kael commented on the Legion's rigid discipline (predictable).
+- **Plan:** Kriv ordered a dawn ascent using the fog for cover.
+- **Action:** Elara cast **Invisibility** (Level 2) on herself to scout ahead.
+- **Action:** Felix prepared **Fog Cloud** as a contingency.
+- **Travel:** Party began the ascent of the **Iron Peaks**.
+- **Encounter:** Elara reported a Legion Patrol (4 Hobgoblins) ahead. They are unaware.
+- **Decision:** Kriv ordered a non-lethal approach (Distraction) to preserve future alliance potential.
+- **Action:** Elara (Invisible) created a distraction to lure the patrol away.
+- **Result:** Success. Party bypassed the patrol without combat.
+- **Arrival:** Reached the **Gates of Ironhold**.
+- **Action:** Commander Kael announced the party and demanded an audience with **General Kravos**.
+- **Status:** Standoff at the main gate.
+- **Action:** Kriv presented the **Writ of Negotiation**.
+- **Result:** Access granted. Party escorted to the War Room.
+
+## End of Chapter
+- **Continued in:** `Ironhold.md`

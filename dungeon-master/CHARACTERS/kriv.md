@@ -3,8 +3,8 @@
 - **Name:** Kriv
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
-- **Level:** 5 (XP: 12497)
-- **Status:** Alive (HP: 37/44)
+- **Level:** 5 (XP: 13497)
+- **Status:** Alive (HP: 44/44)
 - **Defense:** AC 19 (Splint +2). **Resistances:** Lightning, Necrotic, Force. **Immunities:** Critical Hits (Adamantine). **Reduction:** -3 damage from non-magical B/P/S (Heavy Armor Master).
 - **Stats:** Strength +4 (19), Charisma +1
 - **Abilities:**
@@ -20,7 +20,7 @@
     - **Lay on Hands:** 25/25 HP healing pool
     - **Inspiration:** 1 use
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (0/4 Slots Level 1, 0/2 Slots Level 2)
- - **Location:** Aethelgard (Citadel - Duke's Solar)
- - **Inventory:** Gem-Studded Adamantine Splint Armor +2 (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune) (Equipped), Returning Javelins (6), Holy Symbol, 0 Copper Pieces, 312 Silver Pieces, 134 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Potion of Greater Healing (1), Potion of Healing (2), Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow +1, Case of Bolts (15), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (5), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave, Silver Moonstone Necklace, Potion of Greater Healing, Key Ring, War Chest Key, Ring of Spell Storing, Flask of Heavy Ooze, Black Card (Crimson Covenant), Covenant Signet Ring (5,000gp Credit), Lot 42 (Void Star), Rusty Iron Key, Scroll of Blindness/Deafness, Letter from Thul, Duke's Warrant, Masterwork Masquerade Costume (Blue/Gold) & Mask, Resonance Emitter, Void-Touched Obsidian Dagger, Writ of Negotiation (Iron Legion).
-- **Notes:** Title: **Warden of the Forge**. Possesses proof of Thul's treason.
+    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (4/4 Slots Level 1, 2/2 Slots Level 2)
+ - **Location:** Ironhold (Proving Grounds - Victory)
+i - **Inventory:** Gem-Studded Adamantine Splint Armor +2 (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune) (Equipped), Returning Javelins (6), Holy Symbol, 0 Copper Pieces, 312 Silver Pieces, 48 Gold Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Potion of Climbing, Holy Water (4), Potion of Acid Resistance, Potion of Greater Healing (1), Potion of Healing (2), Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow +1, Case of Bolts (14), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (5), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave, Potion of Greater Healing, Key Ring, War Chest Key, Ring of Spell Storing, Flask of Heavy Ooze, Black Card (Crimson Covenant), Covenant Signet Ring (5,000gp Credit), Rusty Iron Key, Scroll of Blindness/Deafness, Letter from Thul, Duke's Warrant, Masterwork Masquerade Costume (Blue/Gold) & Mask, Resonance Emitter, Writ of Negotiation (Iron Legion), Cloak of the Mountebank, Rations (9), Waterskin, Healer's Kit.
+- **Notes:** Title: **Warden of the Forge**. **Lot 42 (Void Star)** is stored in the Guildhall Foundation Vault.

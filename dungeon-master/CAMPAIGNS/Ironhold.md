@@ -1,0 +1,84 @@
+# Campaign Log: Ironhold
+
+## Session 1: The Lion's Den
+- **Party:** Kriv (Lvl 5), Elara (Lvl 5), Felix (Lvl 5), Aegis-7 (Lvl 5).
+- **Location:** Ironhold - War Room.
+- **Date:** Day 12 (Morning).
+
+### Major Events
+- **Arrival:** Party entered **Ironhold**.
+- **Atmosphere:** The fortress is austere and militaristic. Kael is viewed with mixed respect and suspicion.
+- **Meeting:** Party escorted to the War Room to meet **General Kravos**.
+- **NPC:** **General Kravos** (Leader of Ironhold). Old, scarred, cybernetic jaw. Hostile but listening.
+- **Interaction:** Kravos challenged the party's presence and demanded a reason not to execute them.
+- **Status:** Tense negotiation.
+- **Dialogue:** Kriv argued that Valerius was a fool manipulated by cultists (Black Bastion) and offered the Legion a chance to survive as a self-governing state.
+- **Reaction:** Kravos agreed regarding the cultist corruption but demanded proof of strength.
+- **Challenge:** Kravos invoked the **Rite of Iron**.
+- **Terms:** A trial by combat (Party vs. Kravos's Champions). Victory secures the alliance. Defeat means death.
+- **Action:** Kriv accepted the challenge.
+- **Instruction:** Kriv ordered Felix to use martial weapons and stay behind Aegis.
+- **Location:** Moved to **The Proving Grounds** (Arena).
+- **Condition:** **The Null Zone** (Anti-Magic Field). No Spells allowed.
+- **Enemies:** **The Iron Triumvirate**:
+    1. **Bargos the Breaker** (Heavy/Maul).
+    2. **Vex** (Agile/Dual Wield).
+    3. **Skor** (Ranged/Sniper).
+- **Combat Start:** The Rite of Iron.
+- **Combat Round 1:**
+    - **Kriv:** Used **Breath Weapon** (Lightning Line).
+        - **Bargos:** Failed Save (12 Lightning Dmg).
+        - **Vex:** Passed Save (6 Lightning Dmg).
+    - **Aegis-7:** Intercepted Bargos. Hit with Siege Ram (9 Dmg).
+    - **Bargos:** Hit Aegis-7 with Maul (11 Dmg).
+    - **Kael:** Hit Vex with Halberd + Martial Advantage (15 Dmg).
+    - **Elara:** Hit Vex with Rapier (7 Dmg).
+    - **Vex:** Hit Kael (6 Dmg).
+    - **Felix:** Hit Skor with Shortbow (5 Dmg).
+    - **Skor:** Hit Felix with Heavy Crossbow (8 Dmg).
+- **Status:**
+    - **Bargos:** Wounded (21 Dmg taken).
+    - **Vex:** Wounded (28 Dmg taken).
+    - **Skor:** Lightly Wounded (5 Dmg taken).
+- **Combat Round 2:**
+    - **Kriv:** Hit Skor with Heavy Crossbow (9 Dmg).
+    - **Aegis-7:** Hit Bargos with Siege Ram x2 (11 Dmg + 10 Dmg).
+    - **Bargos:** Hit Aegis-7 with Maul (10 Dmg).
+    - **Kael:** Missed Vex.
+    - **Vex:** Hit Kael (6 Dmg).
+    - **Elara:** Missed Vex (Parried).
+    - **Felix:** Missed Skor.
+    - **Skor:** Hit Felix (8 Dmg).
+- **Status:**
+    - **Bargos:** Bloodied (42 Dmg taken).
+    - **Vex:** Wounded (28 Dmg taken).
+    - **Skor:** Wounded (14 Dmg taken).
+    - **Felix:** Bloodied (11/27 HP).
+- **Combat Round 3:**
+    - **Kriv:** Switched to Greatsword. Hit Bargos (12 Dmg).
+    - **Aegis-7:** Hit Bargos with Siege Ram x2 (Non-Lethal) (11 Dmg + 14 Dmg).
+    - **Result:** **Bargos the Breaker** is Unconscious.
+    - **Felix:** Took Dodge Action.
+    - **Skor:** Missed Felix (Disadvantage).
+    - **Kael:** Hit Vex (5 Dmg).
+    - **Elara:** Hit Vex (8 Dmg).
+    - **Vex:** Missed Kael.
+- **Status:**
+    - **Bargos:** Defeated (KO).
+    - **Vex:** Bloodied (41 Dmg taken).
+    - **Skor:** Wounded (14 Dmg taken).
+- **Combat Round 4:**
+    - **Kriv:** Ordered Aegis to destroy the pillar (Non-lethal intent).
+    - **Aegis-7:** Used **Siege Monster** trait. Attacked the Stone Pillar.
+    - **Result:** Pillar destroyed. **Skor** fell (Fall Damage + Debris). Skor is Incapacitated (Non-lethal).
+    - **Vex:** Surrounded by Kael and Elara.
+    - **Action:** Vex surrendered.
+- **Victory:** The Iron Triumvirate is defeated. No fatalities.
+- **Outcome:** **General Kravos** acknowledged the party's strength and discipline.
+- **Reward:** 1,000 XP each.
+- **Alliance:** **Ironhold** has pledged allegiance to the Wardens/Aethelgard.
+- **Status:** Combat Over. The Null Zone is deactivated.
+- **Interaction:** Kriv requested medical aid for Felix/Champions and scrap for Aegis.
+- **Response:** Kravos agreed. Legion Shamans tended to the wounded.
+- **Action:** Aegis-7 repaired himself using arena scrap.
+- **Status:** Party and Kravos's Champions are fully healed.
