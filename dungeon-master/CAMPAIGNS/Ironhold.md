@@ -82,3 +82,156 @@
 - **Response:** Kravos agreed. Legion Shamans tended to the wounded.
 - **Action:** Aegis-7 repaired himself using arena scrap.
 - **Status:** Party and Kravos's Champions are fully healed.
+- **Action:** Kriv requested a tour of Ironhold to discuss strategy.
+- **Discussion:** Kriv proposed buying the loyalty of **The Grey Watch** (Mercenaries) using Aethelgard's wealth.
+- **Intel:**
+    - **The Grey Watch:** Led by **Captain Rask**. Located at **Stonewatch Keep** (East). Loyal only to gold.
+    - **The Black Bastion:** Led by **Warlord Zek**. Located at the **Void Scar** (North). Soldiers are Void-touched (fearless/pain-immune).
+- **Plan:**
+    1. Secure funding from Duke Aethelred.
+    2. Bribe Captain Rask to cut off Zek's support/flank him.
+    3. Launch a combined assault (Ironhold + Aethelgard + Grey Watch) on the Black Bastion.
+- **Action:** Kriv cast **Speak with Animals** to summon a falcon.
+- **Action:** Felix fed the falcon Wyvern Meat.
+- **Action:** Kriv attached a message for Duke Aethelred to the falcon.
+- **Instructions:** Deliver to the "Shiny metal men" (Citadel) or "Fancy men" (Duke).
+- **Status:** Message sent via aerial courier.
+- **Interaction:** Kriv revealed the **Forge of Spells** can craft complex magical engines (Airship Cores), not just enchant weapons.
+- **Reaction:** Kravos was intrigued and led the party to a sealed workshop.
+- **Revelation:** Kravos revealed **Project Iron Eagle** (A failed prototype for an Armored Skyship).
+- **Problem:** The hull exists, but the Legion lacks an engine powerful enough to lift the heavy armor.
+- **Quest:** **The Iron Eagle**.
+    - **Objective:** Craft a **Levitation Core** at the Forge of Spells.
+    - **Materials Required:**
+        1. **Refined Adamantine:** For the pressure housing (Source: Ironhold Mines or Capital).
+        2. **Mithral/Electrum:** For conductive filigree (Source: Capital).
+        3. **Elemental Essence (Air):** For the power source (Source: Hunt Air Elementals at the Iron Peaks Summit).
+    - **Plan:** Build a smaller "Sky Sloop" prototype first.
+    - **Reward:** The Iron Legion will complete the hull, granting the party an Armored Skyship.
+- **Loot:** Received **Blueprint: Iron Eagle Skyship**.
+- **Interaction:** Kriv proposed raiding Cults/Black Bastion for materials.
+- **Reaction:** Kravos approved. Confirmed Black Bastion has Refined Adamantine.
+- **Strategy Update:** Target enemy supply lines for metals. Air Essence must still be hunted at the summit.
+- **Action:** Kriv requested a Long Rest.
+- **Response:** Kravos granted access to the Officer's Wing.
+- **Rest:** Long Rest taken. All HP and Spell Slots restored.
+- **Time:** Day 13 (Morning).
+- **Status:** Party is rested and ready to hunt Air Elementals.
+- **Planning:** Kriv estimated a delay in Citadel reinforcements due to the caravan's speed and the dangers of the Whispering Plains.
+- **Goal:** Harvest enough Essence for 1 Battleship (Iron Eagle) and 4 Skirmishers (Sky Sloops).
+- **Travel:** Party ascended to the **Summit of the Iron Peaks**.
+- **Environment:** High altitude, violent storm, slippery obsidian plateau.
+- **Encounter:** Spotted an **Elder Air Elemental** (Battleship Core) and several standard **Air Elementals** (Skirmisher Cores).
+- **Combat Start:** 3 Air Elementals are attacking the party.
+- **Objective:** Defeat the Elementals to harvest **Lesser Storm Cores**.
+- **Combat Round 1:**
+    - **Aegis-7:** Anchored and fired **Lightning Launcher**.
+        - **Result:** Hit, but Air Elemental is **Resistant** to Lightning. Damage minimal (4 dmg).
+    - **Elara:** Knowledge Check (Success).
+        - **Intel:** Elementals do not reproduce. **Binding** a live Elemental creates a permanent engine, whereas harvesting a Core is finite.
+    - **Elder Elemental:** Used **Whirlwind**.
+        - **Felix:** Failed Save. Flung 20ft (14 Bludgeoning Dmg).
+        - **Elara:** Passed Save.
+    - **Air Elemental 1:** Slammed Aegis-7 (12 Bludgeoning Dmg).
+    - **Air Elemental 2:** Slammed Kriv (10 Bludgeoning Dmg -> Reduced to 7).
+- **Status:**
+    - **Felix:** Bloodied (13/27 HP).
+    - **Aegis-7:** Lightly Wounded (53/65 HP).
+    - **Kriv:** Lightly Wounded (37/44 HP).
+- **Combat Round 2:**
+    - **Kriv:** Action: Intimidation/Persuasion (Draconic/Gestures).
+    - **Roll:** 16 (Success).
+    - **Result:** The Elder Elemental paused. It recognized Kriv's display of power.
+    - **Interaction:** The Elder Elemental challenged Kriv to "Prove Worth" by surviving a strike.
+    - **Status:** Combat paused/shifted to a Duel of Wills.
+- **Combat Round 3 (Duel of Wills):**
+    - **Action:** Kriv braced and tanked the lightning strike using Racial Resistance.
+    - **Damage:** Took 30 Lightning Damage -> Resisted to **15 Damage**.
+    - **Result:** Kriv stood his ground.
+    - **Outcome:** The **Elder Elemental** submitted. It condensed into an **Elder Storm Core**.
+    - **Bonus:** The 4 smaller Elementals followed suit, becoming **Lesser Storm Cores**.
+- **Victory:** Encounter resolved via Social/Tanking.
+- **Loot:** **1x Elder Storm Core** (Battleship), **4x Lesser Storm Cores** (Skirmishers). Collected by Elara.
+- **Status:** Party has the fuel for the Air Fleet.
+- **Action:** Kriv scouted the **Black Bastion** from the high ground.
+- **Observation:** Spotted a supply convoy moving Refined Adamantine from the Deep Mines to the Bastion.
+- **Tactical:** Identified **Dead Man's Gorge** as a choke point for an ambush.
+- **Planning:** Kriv suggested building a permanent watchtower on the summit (Future Project).
+- **Dialogue:** Elara collected the Cores.
+- **Next Move:** Intercept the convoy at Dead Man's Gorge.
+- **Action:** Party descended to Ironhold.
+- **Logistics:** Requisitioned Wyverns for rapid transport. Scraps transported via underslung cargo net.
+- **Travel:** Aerial flight to **Dead Man's Gorge**.
+- **Arrival:** Party dropped off on the high ridges overlooking the pass.
+- **Status:** In position for ambush. Convoy is approaching.
+- **Action:** Kriv surveyed the convoy.
+- **Intel:**
+    - **Wagons:** 3 Heavy Iron Wagons (Adamantine).
+    - **Hostiles:** 8 Hobgoblins, 1 Void-Touched Captain, 1 Hill Giant (Chained).
+- **Action:** Kriv ordered Aegis-7 to prepare a rockslide trap.
+- **Status:** Trap set. Waiting for the signal.
+- **Action:** Kriv signaled the ambush.
+- **Action:** Aegis-7 triggered the rockslide at the **Front**.
+- **Result:** The **Vanguard** (4 Hobgoblins) is crushed/buried. Path is blocked.
+- **Note:** The **Void-Touched Captain** (Rear) avoided the slide.
+- **Action:** Elara cast **Suggestion** (Level 2) on the **Hill Giant**.
+- **Result:** Success. The Hill Giant broke its chains and is attacking the Legion.
+- **Combat Start:** Ambush at Dead Man's Gorge.
+- **Status:**
+    - **Vanguard:** Eliminated.
+    - **Hill Giant:** Allied (Temporary).
+    - **Captain:** Active (Rear).
+- **Combat Round 1:**
+    - **Scraps:** Aerial Drop Attack on **Void-Touched Captain**.
+        - **Result:** Captain Crushed (Prone/Heavy Dmg). Scraps Multiattack (22 Dmg).
+    - **Kriv:** Aerial Drop Attack on **Hobgoblin 1**.
+        - **Result:** Hobgoblin 1 Killed (Crushed). Kriv took 3 Fall Damage.
+    - **Aegis-7:** Fired Lightning Launcher from ridge. Hit Hobgoblin 2 (9 Dmg).
+    - **Felix:** Cast *Fire Bolt* from ridge. Hit Hobgoblin 3 (11 Dmg).
+    - **Elara:** Cast *Vicious Mockery* on Captain (2 Dmg, Disadvantage).
+    - **Captain:** Prone, Grappled by Scraps. Failed to escape.
+    - **Hill Giant:** Destroyed Lead Wagon.
+- **Status:**
+    - **Captain:** Bloodied/Prone.
+    - **Rearguard:** 1 Dead, 2 Wounded.
+    - **Kriv:** Lightly Wounded (19/44 HP).
+- **Combat Round 2:**
+    - **Kriv:** Used **Breath Weapon** (Lightning Line) on remaining Hobgoblins.
+    - **Result:** 3 Hobgoblins killed (Electrocuted).
+    - **Interaction:** Kriv shouted at the Hill Giant to stop smashing wagons.
+    - **Result:** Hill Giant complied. Redirected aggression toward the Captain.
+    - **Captain:** Shoved Scraps aside (Break Grapple).
+    - **Status:**
+        - **Hobgoblins:** All eliminated.
+        - **Captain:** Bloodied, Prone, Surrounded.
+        - **Hill Giant:** Awaiting orders.
+- **Combat Round 3 (Finale):**
+    - **Hill Giant:** Sat on the Captain (Restrained/Grappled).
+    - **Kriv:** Used **Channel Divinity** to purge Void corruption.
+    - **Result:** Captain is unconscious but cleansed of active Void influence.
+    - **Action:** Kriv looted the **Void-Touched Greatsword**.
+- **Victory:** Convoy secured. Captain captured.
+- **Loot:** **Void-Touched Greatsword**, **3 Wagons of Refined Adamantine**.
+- **Status:** Combat Over. Party controls the gorge.
+- **Action:** Kriv inspected the wagons.
+- **Loot:** Confirmed **3 Tons of Refined Adamantine Ingots** (Sufficient for Skyship + Gear).
+- **Action:** Elara signaled the Wyvern Riders for extraction.
+- **Action:** Kael interrogated the captured Captain.
+- **Intel:** The Adamantine was intended to "cage" something.
+- **Revelation:** Warlord Zek is building a "Body" for the Void Star (or a similar entity).
+- **Status:** Waiting for aerial extraction.
+- **Deduction:** Kriv deduced Zek is building an **Adamantine Warforged Vessel** for the Void to possess (an Avatar).
+- **Recruitment:** Kriv recruited the **Hill Giant** (Named "**Tiny**").
+- **Travel:** Aerial extraction to **Ironhold**. Tiny traveled on foot.
+- **Arrival:** Party returned to Ironhold with the Adamantine and the Giant.
+- **Debrief:** Kravos confirmed the threat of a "Mechanical God".
+- **Strategy:** The race is on. Ironhold must finish the **Iron Eagle** (Skyship) before Zek finishes the **Void Avatar**.
+- **Status:** Materials secured. Construction of the Skyship Core begins.
+- **Action:** Kriv ordered Kravos to begin Hull Construction immediately.
+- **Orders:** Kravos is to send a rider to **The Grey Watch** once Capital reinforcements arrive.
+- **Travel:** Party used Wyvern Riders to transport the Adamantine and Cores to **Wave Echo Cave**.
+- **NPC:** **Tiny** (Hill Giant) left to guard the cave entrance.
+- **Arrival:** Party reached the **Forge of Spells**.
+- **Interaction:** The **Spectator** assessed the materials.
+- **Requirement:** The Spectator noted the need for **Mithral** or **Electrum** (Conductive Filigree) to finish the Core.
+- **Status:** Ready to craft, pending conductive materials.

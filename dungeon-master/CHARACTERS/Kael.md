@@ -13,6 +13,6 @@
     - **Action Surge:** Take one additional action on your turn (Once per short rest).
     - **Multiattack:** Makes two melee attacks.
     - **Halberd:** +6 to hit, reach 10 ft., 1d10+3 slashing damage.
- - **Location:** Ironhold (Proving Grounds - Victory).
+ - **Location:** Wave Echo Cave (Forge of Spells).
 - **Inventory:** Splint Armor, Halberd (Looted), Glass Dagger (Looted).
 - **Notes:** Defector from the Iron Legion. Joined the Wardens to stop the Cult.
