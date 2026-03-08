@@ -235,3 +235,191 @@
 - **Interaction:** The **Spectator** assessed the materials.
 - **Requirement:** The Spectator noted the need for **Mithral** or **Electrum** (Conductive Filigree) to finish the Core.
 - **Status:** Ready to craft, pending conductive materials.
+- **Action:** Kriv traveled to **The Sentinel** (Cave Entrance).
+- **Interaction:** Kriv traded **1 Ingot of Refined Adamantine** with Captain Gareth (Griffin Riders).
+- **Result:** Acquired **1,000 Electrum Pieces** (Sufficient for conductive filigree).
+- **Travel:** Kriv returned to the **Forge of Spells**.
+- **Status:** All materials gathered (Adamantine, Electrum, Storm Cores). Ready to craft the **Levitation Core**.
+- **Action:** Kriv presented materials to the Spectator.
+- **Event:** The **Forge of Spells** was activated.
+- **Crafting:** Consumed **Refined Adamantine**, **1,000 Electrum**, and **5 Storm Cores**.
+- **Result:** Created **1x Iron Eagle Core** (Battleship) and **4x Sky Sloop Cores** (Skirmishers).
+- **Status:** The engines are complete. Ready to return to Ironhold for installation.
+- **Action:** Kriv requested the Spectator cleanse the **Void-Touched Greatsword**.
+- **Process:** The Forge burned away the corruption over 1 hour.
+- **Result:** Item transformed into **Starfall Greatsword (+1)** (Bonus Radiant dmg vs Void).
+- **Departure:** Party packed the Cores and the new weapon for transport.
+- **Action:** Kriv gave the **Starfall Greatsword** to **Commander Kael**.
+- **Dialogue:** Kriv framed it as a weapon for redemption. Kael accepted.
+- **Action:** Loaded Levitation Cores onto the transport wagons.
+- **Travel:** Aerial return to **Ironhold**.
+- **Arrival:** The hull of the *Iron Eagle* is under construction.
+- **Status:** Cores delivered. Installation begins immediately.
+- **Action:** Kriv finalized the design for the 4th Sky Sloop (Player Ship).
+- **Specs:**
+    - **Role:** Standard Skirmisher (High Speed).
+    - **Interior:** Captain's Workroom converted to 5 Compact Cabins.
+    - **Armament:** Standard Cannons + Prow Harpoon.
+    - **Capacity:** 15 Tons Cargo. Harpoon Drag: 5 Tons.
+- **Status:** Design approved. Construction proceeds.
+- **Interaction:** Kriv inquired about the Capital Reinforcements (Gold for Rask).
+- **Intel:** Scouts report the Capital Army is sighted but delayed by terrain (1 Day out).
+- **Dialogue:** Kravos suggested using the **Iron Eagle** to intimidate Rask if the gold arrives late.
+- **Time:** Day 14 (Morning).
+- **Status:** The Air Fleet is nearing completion. Launch imminent.
+- **Interaction:** Kriv complimented the Legion's engineering speed.
+- **Event:** Levitation Cores installed. The *Iron Eagle* and 4 Sky Sloops are operational.
+- **Action:** Party boarded the *Iron Eagle*.
+- **Command:** General Kravos ordered the fleet to launch.
+- **Destination:** **Stonewatch Keep** (To confront the Grey Watch).
+- **Status:** Airborne.
+- **Interaction:** Kriv asked the engineer for a technical briefing on the Player Ship.
+- **Ship Specs (Player Sloop):**
+    - **Thunder Cannons:** 8 total (4 Port, 4 Starboard). Alchemical ammo. Range 2,000ft.
+    - **Harpoons:** 2 Prow-mounted. Pneumatic launch. 500ft chain. Used for grappling/anchoring.
+    - **Boarding Planks:** Spiked ramps to lock ships together for melee.
+- **Status:** Briefing complete. Fleet is en route.
+- **Action:** Kriv prepared a sleeping area for Scraps in the cargo hold.
+- **Interaction:** Confirmed ship specs (15 Tons Cargo, 15 Knots Speed).
+- **Dialogue:** Party discussed ship names. Elara suggested *The Stormbreaker*.
+- **Decision:** Kriv named the ship ***The Stormbreaker***.
+- **Maneuver:** Kriv matched speed with the *Iron Eagle* and deployed a boarding plank.
+- **Action:** Kriv boarded the *Iron Eagle* to confer with General Kravos.
+- **Location:** Airborne (Approaching Stonewatch Keep).
+- **Status:** Strategy meeting initiated.
+- **Plan:** Kriv proposed a "Hail First" strategy.
+    - **Logic:** Rask prefers life/gold over loyalty.
+    - **Action:** Dispatched Wyvern Riders to escort Capital Reinforcements (Gold) to the Keep.
+    - **Leverage:** The Black Bastion is cut off (Landslide). The Air Fleet provides air superiority.
+- **Arrival:** Fleet arrived at **Stonewatch Keep**.
+- **Action:** Kriv hailed Captain Rask from the *Iron Eagle*.
+- **Offer:** 50% Payment now, 50% after victory.
+- **Response:** Rask is considering the offer (Demanded to keep the toll booth).
+- **Negotiation:** Kriv countered: Rask keeps the toll booth, but Aethelgard/Legion pass free.
+- **Outcome:** Rask accepted the deal ("Make the Legion Powerful Again").
+- **Event:** Stonewatch Keep gates opened. The Grey Watch joined the alliance.
+- **Action:** Kriv returned to *The Stormbreaker*.
+- **Status:** Eastern Border secured. Army united.
+- **Next Objective:** Assault the **Black Bastion**.
+- **Action:** Fleet landed at **Stonewatch Keep**.
+- **Meeting:** War Council held in Rask's War Room (Kriv, Rask, Kravos, Silver Flame Lt).
+- **Negotiation:** Kriv proposed terms: Grey Watch reintegrates into Iron Legion (Self-Governing State under Capital), regular pay/supplies, end of raiding.
+- **Outcome:** Rask accepted the terms. The Grey Watch is officially allied.
+- **Strategy:** Planning the siege of the **Black Bastion**.
+- **Intel:** The Bastion is protected by a **Void Field** and **Void Cannons** (Anti-Air).
+- **Tactical Problem:** The *Iron Eagle* cannot approach the spire without the AA guns being distracted or destroyed.
+- **Interaction:** Kriv asked Lieutenant Aris about the Silver Flame's status and magic capabilities.
+- **Status:** Silver Flame arrived intact but weary (Mental toll of Whispering Plains).
+- **Capability:** Aris confirmed they can create a **Localized Breach** in the Void Shield using mass Divine/Abjuration magic.
+- **Condition:** Ground forces must hold the perimeter to maintain the breach.
+- **Plan:** Ground Assault (Silver Flame/Grey Watch) creates the breach/distraction. Air Fleet inserts the party via the breach.
+- **Decision:** Kriv ordered a **Day of Rest** to allow Aris's mages to recover.
+- **Rest:** Long Rest taken at Stonewatch Keep.
+- **Time:** Day 15 (Dawn).
+- **Status:** Party and Army fully rested.
+- **Event:** The Siege of the Black Bastion has begun.
+- **Position:** Party is airborne on *The Stormbreaker*, holding above the cloud layer.
+- **Signal:** Ground forces are initiating the shield breach.
+- **Action:** Kriv coordinated the assault via message link.
+- **Orders:**
+    - **Ground:** Rask/Aris to engage and distract.
+    - **Air:** Skirmishers to draw AA fire.
+    - **Flagship:** *Iron Eagle* to charge main batteries.
+- **Interaction:** Kriv invited **Commander Kael** to join the drop team.
+- **Result:** Kael accepted. He will fight alongside the party.
+- **Status:** The Drop Team is assembled on the *Iron Eagle*, ready for insertion.
+- **Action:** Kriv retrieved **Ornithopters** and a **Glideship** from *The Stormbreaker*.
+- **Distribution:**
+    - **Ornithopters:** Kriv, Elara, Felix, Kael.
+    - **Glideship:** Aegis-7, Scraps.
+- **Event:** The *Iron Eagle* fired the **Annihilator Cannon**, destroying the Void Cannon tower.
+- **Action:** The party initiated the **Aerial Drop** towards the Black Spire.
+- **Status:** Party is gliding/freefalling into the combat zone.
+- **Action:** Kriv ordered the party to hover and scout the Spire.
+- **Observation:**
+    - **Warlord Zek:** Spotted at the **Pinnacle**, fusing the Void Star into the **Adamantine Avatar**.
+    - **Landing Zone A (Main Balcony):** Heavily guarded by Elite Void Legionnaires. Direct path to the interior.
+    - **Landing Zone B (Shattered Wall):** A breach in the upper tower. Unguarded but requires a skill check to land safely. Stealth entry.
+    - **Landing Zone C (The Pinnacle):** Direct assault on Zek. Immediate Boss Fight.
+- **Decision:** Party must choose a landing zone.
+- **Decision:** Kriv chose **Landing Zone B (Shattered Wall)**.
+- **Reasoning:** The Avatar is incomplete (missing Adamantine) and vulnerable.
+- **Action:** Ornithopters landed first. Kriv and Felix widened the breach.
+- **Action:** Glideship (Aegis/Scraps) crash-landed inside.
+- **Status:** Party successfully infiltrated the **Upper Sanctum**.
+- **Advantage:** The party is currently undetected by Zek (Stealth/Flank).
+- **Action:** Kriv inspected the machinery (Void Siphon Pumps).
+- **Intel:** The pumps feed Void energy to the ritual above.
+- **Sabotage Options:**
+    1. **Smash:** Cut power (Risk of explosion).
+    2. **Corrupt:** Inject Radiant/Chaos magic to weaken Zek/Avatar.
+    3. **Collapse:** Destroy supports to bring the Pinnacle floor down.
+- **Decision:** Kriv chose **Option 2: The Poisoned Chalice**.
+- **Action:** Kriv used **Divine Smite** (Level 1) to infuse the pumps with Radiant energy.
+- **Result:** The Void energy flow is corrupted.
+- **Effect:** Warlord Zek is distracted/confused. The Avatar is rejecting the energy (Weakened).
+- **Status:** Sabotage successful. The party is ready to ascend to the Pinnacle.
+- **Action:** Kriv gave the **Cloak of the Mountebank** to Felix.
+- **Action:** Kriv led the charge to the **Pinnacle**.
+- **Encounter:** **Warlord Zek** and the **Avatar** (Weakened/Confused).
+- **Combat Start:** The Pinnacle (Final Boss).
+- **Enemies:** Warlord Zek, The Avatar, 2 Void Warlocks.
+- **Condition:** The Avatar has Disadvantage (Corrupted Fuel).
+- **Combat Round 1:**
+    - **Kriv:** Used **Breath Weapon** (Lightning Line) on Zek, Warlocks, and Avatar.
+    - **Damage:** 9 Lightning Dmg (Fail) / 4 Lightning Dmg (Save).
+    - **Effect:** The Avatar (already unstable) overloaded from the conflicting energies.
+    - **Status:**
+        - **Avatar:** **Stunned** (System Overload).
+        - **Warlocks:** 1 Wounded, 1 Lightly Wounded.
+        - **Zek:** Lightly Wounded.
+    - **Tactical Advantage:** The Boss Monster (Avatar) is temporarily out of the fight.
+- **Combat Round 2:**
+    - **Kriv:** Charged Zek. Used **Divine Smite** (Level 2).
+    - **Damage:** 32 Total (Slashing/Lightning/Radiant).
+    - **Aegis-7:** Grappled the Stunned Avatar. Dragging it to the edge.
+    - **Kael:** Hit Zek with Starfall Greatsword (14 Dmg).
+    - **Warlocks:** Missed Kriv. Failed to stabilize Avatar.
+    - **Status:**
+        - **Warlord Zek:** Bloodied.
+        - **Avatar:** Grappled/Stunned.
+        - **Kriv:** 19/44 HP (No change).
+- **Combat Round 3:**
+    - **Elara & Felix:** Eliminated the 2 Void Warlocks.
+    - **Kriv:** Cast **Ensnaring Strike** (Level 1). Hit Zek (19 Dmg).
+    - **Result:** Warlord Zek is **Restrained** and Critical.
+    - **Aegis-7:** Threw the **Avatar** off the Pinnacle.
+    - **Result:** The Avatar is destroyed (Fall Damage).
+    - **Status:** Zek is defeated. Combat effectively over.
+- **Interaction:** Kriv demanded Zek's surrender at swordpoint.
+- **Result:** Warlord Zek surrendered.
+- **Outcome:** The Black Bastion forces surrendered upon seeing their leader captured.
+- **Victory:** The Siege of the Black Bastion is complete.
+- **Status:** Zek captured. Avatar destroyed. Ironhold/Aethelgard victorious.
+- **Communication:** Kriv confirmed victory to Aris, Rask, and Kravos.
+- **Status:** Ground forces securing the Bastion. *Iron Eagle* holding air superiority.
+- **Action:** Kriv and Elara looted Zek and the Pinnacle.
+- **Loot:**
+    - **Bastion Vault Key**, **Potion of Superior Healing**, **400 Platinum Pieces**.
+    - **Zek's Journal** (Intel on Vane/Cult).
+    - **Void Focus** (Crystal).
+    - **Adamantine Scrap** (From Zek's armor).
+- **Action:** Kriv opened the **Bastion Vault** with the key.
+- **Loot Distribution:**
+    - **Party Cut:** **4,000gp**, **Manual of Iron Golems**, **Ring of Protection**.
+    - **Army Split:** Remaining hoard (~20,000gp value) split 50/50 between Capital and Legion.
+- **Outcome:** Rask is satisfied (Gold). Kravos is satisfied (Adamantine). Aris is satisfied (Artifacts secured).
+- **Status:** The party is wealthy and well-equipped.
+- **Next Steps:** Return to Aethelgard for downtime/rewards or pursue the "Void Star" thread.
+- **Dialogue:** Kriv explained the nature of the **Void Scar** (Unnatural, caused by Void magic).
+- **Solution:** Kriv proposed healing the land via time and **Divine Activity**.
+- **Response:** Lieutenant Aris pledged the **Silver Flame** to maintain a vigil and purify the land.
+- **Response:** General Kravos pledged the **Iron Legion** to defend the purification efforts.
+- **Conclusion:** The region is secured and on the path to recovery.
+- **Proposal:** Kriv invited Kravos and Rask to Aethelgard to sign the official treaty.
+- **Condition:** Suggested taking a Skirmisher instead of the *Iron Eagle* to avoid intimidation.
+- **Agreement:** Kravos and Rask agreed. They delegated command of the Bastion/Fleet to lieutenants.
+- **Departure:** The party (on *The Stormbreaker*) and the Warlords (on *Sky Sloop 2*) departed for the Capital.
+
+## End of Chapter
+- **Continued in:** `Capital2.md`

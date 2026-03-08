@@ -13,8 +13,8 @@
     - **Expertise:** Persuasion, History.
     - **Feat:** War Caster (Adv on Con saves, OA Spells).
      - **Cutting Words:** Reaction to reduce enemy rolls.
-    - **Spellcasting:** Vicious Mockery, Mage Hand, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter, Heat Metal, Hypnotic Pattern, Suggestion. (4/4 Lvl 1, 2/3 Lvl 2, 2/2 Lvl 3).
+    - **Spellcasting:** Vicious Mockery, Mage Hand, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter, Heat Metal, Hypnotic Pattern, Suggestion, Silence. (4/4 Lvl 1, 2/3 Lvl 2, 2/2 Lvl 3).
     - **Darkvision:** Can see in dim light.
- - **Location:** Wave Echo Cave (Forge of Spells).
- - **Inventory:** Glamoured Studded Leather Armor (+1 AC) [Equipped], Wyvern Studded Leather Armor (Poison Resist) [Spare], Vindicator's Blade (+1 Longsword vs Undead) [Equipped], Vane's Bulwark (+1 Shield) [Equipped], Dagger of Venom, Silvered Rapier, Bag of Tricks (Gray) [3/3 Charges], Rapier, Lute, Torches (8), Hempen Rope (50ft) [Used on Thul], 48 Gold Pieces, 190 Silver Pieces, Crude Map, Copy of Crypt Map, Potion of Healing (5), Shortbow, Quiver (19 Arrows), Rations (9), Waterskin, Healer's Kit, Throne Room Key, Scroll of Darkness, Small Iron Key, Potion of Heroism, Boots of Elvenkind (Equipped), Iron Cask (Empty), Holy Water, Fang of the Many (+1 Acid Dagger), Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Elder Storm Core, Lesser Storm Core (4).
+ - **Location:** Aethelgard (Citadel - Duke's Solar).
+ - **Inventory:** Glamoured Studded Leather Armor (+1 AC) [Equipped], Wyvern Studded Leather Armor (Poison Resist) [Spare], Vindicator's Blade (+1 Longsword vs Undead) [Equipped], Vane's Bulwark (+1 Shield) [Equipped], Dagger of Venom, Blazing Rapier (+1d6 Fire Dmg), Bag of Tricks (Gray) [3/3 Charges], Rapier, Lute, Torches (8), Hempen Rope (50ft) [Used on Thul], 548 Gold Pieces, 190 Silver Pieces, Crude Map, Copy of Crypt Map, Potion of Healing (5), Shortbow, Quiver (19 Arrows), Rations (9), Waterskin, Healer's Kit, Throne Room Key, Scroll of Darkness, Small Iron Key, Potion of Heroism, Boots of Elvenkind (Equipped), Iron Cask (Empty), Holy Water, Fang of the Many (+1 Acid Dagger), Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Ornithopter (Equipped).
 - **Notes:** Title: **Warden of the Forge**. Found Thul's letter.

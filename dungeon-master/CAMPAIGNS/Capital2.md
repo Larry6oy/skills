@@ -1,0 +1,539 @@
+# Campaign Log: The Capital (Part 2)
+
+## Session 9: The Return of the Wardens
+- **Party:** Kriv (Lvl 5), Elara (Lvl 5), Felix (Lvl 5), Aegis-7 (Lvl 5).
+- **Location:** Airborne (Approaching Aethelgard).
+- **Time:** Day 15 (Afternoon).
+- **Context:** The party is returning from the Ironhold Campaign with the united Iron Legion fleet.
+- **Status:** The **Iron Eagle** (commanded by Lt. Vok) remains at the Bastion. The party is on **The Stormbreaker**, accompanied by **Sky Sloop 2** (carrying Kravos and Rask).
+
+### Major Events
+- **Travel:** Overnight flight from the Black Bastion to Aethelgard.
+- **Rest:** Long Rest taken on *The Stormbreaker*.
+- **Observation:** Aegis-7 reported a quiet night. Kravos and Rask had a rough night on the open deck of Sloop 2.
+- **Arrival:** The fleet has reached the outskirts of Aethelgard.
+- **Time:** Day 16 (Dawn).
+- **Status:** Party is fully rested.
+- **Action:** Kriv signaled the Citadel Tower for landing permission at the **Archery Pavilion**.
+- **Response:** Permission granted.
+- **Event:** The Air Fleet (*The Stormbreaker* + *Sky Sloop 2*) landed in the Citadel.
+- **Interaction:** Sir Gideon met the party. He is shocked by the airships and the presence of Kravos/Rask.
+- **Status:** Landed.
+- **Action:** Kriv presented **Warlord Zek** (Prisoner) to Gideon.
+- **Introduction:** Kriv introduced **General Kravos** and **Captain Rask** as allies.
+- **Response:** Gideon accepted the situation. Zek was taken to High Security (near Vane).
+- **Travel:** Party and Warlords escorted to the **Duke's Solar**.
+- **Atmosphere:** The presence of Hobgoblin Warlords in the Citadel is causing a stir.
+- **Interaction:** Kriv presented the **Writ of Negotiation** and the Treaty to Duke Aethelred.
+- **Outcome:** The Duke signed the treaty. The **Iron Legion** is officially a self-governing ally of Aethelgard.
+- **Event:** The Duke announced a city-wide celebration ("The Peace of Iron").
+- **Status:** Campaign Arc "The Iron Alliance" is complete.
+- **Next:** Celebration and Downtime.
+- **Interaction:** Kriv asked about suspicious resignations in the Court.
+- **Intel:** Duke Aethelred revealed **Lord Blackwood** (King's Seneschal) resigned abruptly 3 days ago.
+- **Intel:** **King Alaric** is in isolation/lockdown. No audiences allowed.
+- **Suspicion:** The King may be compromised or held hostage. Blackwood's departure is suspicious.
+- **Lead:** Investigate Lord Blackwood's estate or the Royal Palace.
+- **Plan:** Kriv suggested using the celebration as a cover for infiltration.
+- **Time:** Day 16 (Evening).
+- **Event:** **The Peace of Iron Celebration**.
+- **Observation:** City Watch and Royal Guards are distracted by the festivities.
+- **Opportunity:** Perfect window to investigate **Lord Blackwood's Estate** or the **Royal Palace**.
+- **Action:** Party donned Masquerade Costumes to blend in as nobles.
+- **Disguise:** Kael disguised as a "Grey Watch Mercenary" (Grok).
+- **Travel:** Moved to the **Noble District**.
+- **Location:** Outside **Lord Blackwood's City Manor**.
+- **Encounter:** 2 Drunk City Watch guards at the gate.
+- **Status:** Social Encounter.
+- **Dialogue:** Kriv suggested aborting to check the Palace (thinking guards here were too disciplined).
+- **Response:** Elara pointed out the guards are drunk and suggested bluffing.
+- **Decision:** Party must choose to Bluff (Enter Manor) or Retreat (Go to Palace).
+- **Action:** Kriv bluffed the guards ("Urgent Business from the Duke").
+- **Result:** Success. Guards opened the gate.
+- **Entry:** Party entered **Lord Blackwood's Manor** grounds.
+- **Atmosphere:** The manor is deserted and ominous. Servants are gone.
+- **Status:** Infiltration successful.
+- **Action:** Kriv used **Divine Sense** on the manor.
+- **Result:** No Undead or Fiends detected.
+- **Observation:** Elara suggested potential magical shielding.
+- **Entry:** Party entered the Foyer.
+- **Action:** Felix cast **Detect Magic** (Level 1 Slot).
+- **Action:** Kael drew the **Starfall Greatsword**.
+- **Result:** The sword glowed (Void Residue detected).
+- **Investigation:** Felix identified auras in the **Study**:
+    - **Desk:** Abjuration (Trap/Lock).
+    - **Fireplace:** Conjuration (Teleportation trace).
+    - **Bookshelf:** Illusion (Hidden Trigger).
+- **Status:** Party is investigating the Study.
+- **Action:** Elara inspected the Bookshelf. Found **Warded Brass Key**.
+- **Action:** Felix inspected the Fireplace. Found **Charred Sigil** (Destination: Hunting Lodge in Whispering Woods).
+- **Action:** Kriv used the key to open the Desk safely.
+- **Loot:** **Blackwood's Ledger**, **Unfinished Letter to King**, **The Royal Seal**.
+- **Intel:** Blackwood fled to protect the Seal. The Cult ("The Architects") is inside the Palace walls.
+- **Status:** Investigation complete.
+- **Action:** Party left Blackwood Manor and returned to the **Guildhall Construction Site**.
+- **Action:** Kriv stored **The Royal Seal** in the **Foundation Vault** (with the Void Star).
+- **Status:** The Royal Seal is secured.
+- **Plan:** Use the 5-day celebration window to investigate "The Architects" and the Palace.
+- **Action:** Party examined **Blackwood's Ledger**.
+- **Intel:** "The Architects" are a front for Cult builders.
+- **Intel:** The King's quarters have been modified into a magical prison ("The Gilded Cage").
+- **Target:** **Overseer Malus** (Royal Mason) is the contact.
+- **Entry Point:** A secret entrance exists in the **Royal Gardens** (Weeping Willow Statue).
+- **Next Move:** Infiltrate the Palace via the Gardens.
+- **Decision:** Kriv decided to rest and celebrate first, planning the infiltration for the next morning (Hangover Strategy).
+- **Event:** Party attended the celebration.
+- **Rest:** Long Rest taken.
+- **Time:** Day 17 (Morning).
+- **Meeting:** Met with **General Kravos** at the Archery Pavilion.
+- **Strategy:** Kravos will use the *Iron Eagle* for a "Victory Lap" distraction.
+- **Plan:** Party will infiltrate the **Royal Gardens** during the distraction.
+- **Status:** Mission "The Gilded Cage" begins.
+- **Action:** Kriv signaled Kravos. *Iron Eagle* began the distraction flight.
+- **Movement:** Party infiltrated the **Royal Gardens** unnoticed.
+- **Location:** At the **Statue of the Weeping Willow** (Secret Entrance).
+- **Status:** Infiltration successful.
+- **Action:** Kriv searched the statue for mechanisms.
+- **Action:** Felix checked for magical traps.
+- **Discovery:** Found a hidden switch (Lily) and pressure plate (underwater).
+- **Result:** The statue moved, revealing a staircase to the **Royal Sanctum** (The Gilded Cage).
+- **Status:** Entrance open.
+- **Action:** Elara took point (Stealth). Party descended into the **Royal Sanctum**.
+- **Observation:** The King's chambers have been converted into a magical prison.
+- **Encounter:** **King Alaric** is trapped in a Void Barrier.
+- **Enemies:** **Overseer Malus** (Royal Mason) and 4 **Bound Earth Elementals** ("The Architects").
+- **Intel:** Malus mentioned "The Master" and keeping the King asleep/suppressed.
+- **Status:** Party is undetected.
+- **Combat Start:** The Royal Sanctum (Surprise Round).
+- **Action:** Aegis-7 charged Overseer Malus (14 Dmg, Prone).
+- **Action:** Felix and Elara cast **Double Shatter** on the Pylons/Elementals.
+- **Result:** 29 Thunder Damage to Elementals (Vulnerable/Disadvantage). Pylons destroyed.
+- **Effect:** The Void Barrier protecting King Alaric has fallen.
+- **Action:** Kriv and Kael held action (Hidden/Overwatch).
+- **Status:**
+    - **Malus:** Wounded/Prone.
+    - **Elementals:** Heavily Damaged.
+    - **King Alaric:** Exposed but unconscious.
+- **Combat Round 1:**
+    - **Kriv:** Shot Overseer Malus with Heavy Crossbow (9 Dmg).
+    - **Result:** Malus is **Restrained** (Pinned by bolt).
+    - **Kael:** Grabbed **King Alaric**. Carrying the VIP to extraction.
+    - **Malus:** Cast *Stoneskin*.
+    - **Elementals:** Moving to block the exit and engage the party.
+    - **Status:** Escort Mission initiated. Kael is encumbered.
+- **Combat Round 2:**
+    - **Kriv:** Intercepted Earth Elemental 2. Cast **Moonbeam** (Level 2) on Malus.
+    - **Malus:** Took 14 Radiant Dmg (Moonbeam). Lost Concentration (*Stoneskin*). Failed to break Restraint.
+    - **Earth Elemental 2:** Hit Kriv (11 Bludgeoning Dmg).
+    - **Status:**
+        - **Malus:** Critical/Restrained/Burning.
+        - **Kriv:** Lightly Wounded (33/44 HP).
+        - **Kael:** Moving to exit with King.
+        - **Elementals:** Engaged.
+- **Combat Round 3:**
+    - **Kriv:** Attacked Earth Elemental 2 with Greatsword (30 Dmg).
+    - **Felix:** Cast **Fireball** (Level 3). Sculpted around allies.
+    - **Damage:** 28 Fire Dmg to all enemies.
+    - **Overseer Malus:** Took Moonbeam (12) + Fireball (28). **Dead**.
+    - **Elementals:** Heavily damaged.
+    - **Status:** Malus eliminated. Kriv and Kael are pushing for the exit.
+- **Combat Round 4:**
+    - **Kriv:** Covered Kael's retreat. Destroyed Earth Elemental 2.
+    - **Kael:** Successfully extracted **King Alaric** to the surface.
+    - **Aegis, Felix, Elara:** Destroyed remaining Elementals (1, 3, 4).
+    - **Victory:** The Royal Sanctum is cleared.
+    - **Status:** King Alaric is safe. Malus is dead. Party holds the room.
+    - **Next Move:** Regroup with Kael/Kravos on the surface.
+- **Action:** Kriv searched Overseer Malus's body.
+- **Loot:** **Royal Mason's Key Ring**, **Crumpled Note** (Orders to bury the King if compromised).
+- **Action:** Party regrouped with Kael in the **Royal Gardens**.
+- **Status:** **King Alaric** is awake and safe.
+- **Mission Complete:** "The Gilded Cage" is broken.
+- **Next:** Debrief with the King and Duke.
+- **Interaction:** Kriv knelt before King Alaric and identified the party as **The Wardens of the Forge**.
+- **Dialogue:** Kriv warned the King about deep corruption in the court.
+- **Reaction:** King Alaric acknowledged the betrayal and agreed to go to the Citadel.
+- **Objective:** Escort King Alaric to Duke Aethelred.
+- **Action:** Kriv signaled the *Iron Eagle* for extraction.
+- **Dialogue:** "Your carriage awaits... The Alliance's flagship serves you."
+- **Event:** The *Iron Eagle* landed in the Royal Gardens.
+- **Action:** Party and King Alaric boarded the airship.
+- **Status:** Airborne. En route to the Citadel.
+- **Event:** The *Iron Eagle* landed in the Citadel Courtyard.
+- **Action:** Kriv presented **King Alaric** to **Duke Aethelred** and the Court.
+- **Reaction:** The Duke and Royal Guard knelt. The King is officially returned.
+- **Dialogue:** King Alaric confirmed the "Architects" are dead and the Cage is broken.
+- **Observation:** The King acknowledged the Iron Legion alliance.
+- **Status:** Political stability restoring.
+- **Interaction:** Kriv requested King Alaric to officially recognize the Iron Legion alliance.
+- **Action:** King Alaric addressed the court and the city from the balcony.
+- **Proclamation:** The King declared the **Iron Legion** and **Grey Watch** as official allies of the Crown.
+- **Event:** The "Peace of Iron" celebration recommenced with royal sanction.
+- **Status:** The Kingdom is united against the remaining threats.
+- **Decision:** Kriv ordered the party to rest and enjoy the remaining 4 days of celebration.
+- **Downtime:** Days 17-20 spent in Aethelgard.
+- **Atmosphere:** The city celebrated the alliance. Iron Legion and Grey Watch integrated into city life.
+- **Time:** Day 21 (Morning).
+- **Location:** Party regrouped at the **Guildhall Construction Site**.
+- **Status:** Fully Rested. Construction is nearing completion.
+- **Action:** Kriv inspected the Guildhall progress.
+- **Observation:** Vault and Large Storeroom are nearly complete.
+- **Dialogue:** Thrain Hammerfall confirmed the walls are reinforced to withstand a siege (or a dragon army).
+- **Status:** Guildhall is almost ready for occupancy.
+- **Action:** Kriv asked Felix to check the **Void Star** in the vault.
+- **Result:** Felix confirmed the Void Star is secure and stable.
+- **Action:** Kriv retrieved **The Royal Seal** from the vault.
+- **Status:** The Royal Seal is back in Kriv's possession.
+- **Travel:** Party returned to the **Citadel**.
+- **Action:** Kriv presented **The Royal Seal** to King Alaric.
+- **Dialogue:** "Your Majesty, your authority is restored."
+- **Outcome:** King Alaric accepted the Seal. His rule is fully legitimized.
+- **Status:** Political crisis resolved.
+- **Action:** Kriv visited **The Black Spider** (Nezznar) in the Citadel Dungeons.
+- **Topic:** The "Eclipse" and Occult Artifacts.
+- **Intel:** Nezznar identified the Eclipse as the *Umbra Aeterna* (Convergence of Far Realm).
+- **Intel:** The Void Star is the "Heart", but it needs "Veins" (Anchors/Artifacts like the Void Lens).
+- **Offer:** Nezznar offered to help locate other artifacts for a price.
+- **Status:** Interrogation in progress.
+- **Interaction:** Kriv asked Nezznar for his price.
+- **Demand:** Nezznar requested **Royal Library Access** (Restricted Section) and a future **Royal Pardon**.
+- **Intel:** Nezznar hinted the next Anchor is linked to the **Heartwood** in the **Cursed Forest**.
+- **Status:** Negotiation pending Kriv's agreement.
+- **Negotiation:** Kriv agreed to terms with strict conditions (No manipulation, no cults, supervised magic).
+- **Offer:** Kriv suggested potential future employment (Court/Army).
+- **Response:** Nezznar accepted.
+- **Intel:** The Anchor is embedded in a **Corrupted Treant** in the **Grove of Whispers**.
+- **Advice:** Nezznar advised using fire.
+- **Status:** Deal struck. Nezznar to be transferred to the Library.
+- **Action:** Kriv ordered the guards to transfer Nezznar to the Royal Library under High Librarian supervision.
+- **Condition:** Restricted books allowed, but strict watch maintained.
+- **Status:** Nezznar transferred. Party is free to pursue the Cursed Forest lead.
+- **Action:** Kriv remembered the Adamantine in the *Stormbreaker*.
+- **Detour:** Party returned to the **Citadel Docks** and transported **2 Chests of Refined Adamantine** to the **Guildhall Vault**.
+- **Status:** Assets secured.
+- **Action:** Party moved to the **Market District** to shop for supplies (specifically Fire-based items).
+- **Shopping Options:**
+    - **Vanya:** Alchemical Fire (50gp), Potion of Fire Breath (150gp).
+    - **Varrick:** Scroll of Fireball (300gp), Scroll of Scorching Ray (150gp), Necklace of Fireballs (1 bead, 500gp).
+- **Next Move:** Travel to **Blackwood's Hunting Lodge** (Whispering Woods).
+- **Decision:** Kriv postponed the fire shopping to visit the smith.
+- **Travel:** Party moved to the **Guildhall Construction Site**.
+- **Action:** Kriv retrieved a sack of **Refined Adamantine Ingots** from the Vault.
+- **Travel:** Party moved to **Thalor's Smithy** (Artisan's Quarter).
+- **Interaction:** Met with Thalor Iron-Eye.
+- **Action:** Kriv asked for ready-made stock.
+- **Shop Inventory:**
+    - **Shield of the Sentinel** (450gp).
+    - **Javelin of Lightning** (300gp).
+    - **Mithral Splint Armor** (1,000gp).
+- **Decision:** Kriv declined the ready-made stock.
+- **Travel:** Party moved to **The Gilded Weave** (Madame Zora's Shop).
+- **Transaction:** Elara paid **500gp** to enchant her Silvered Rapier with a **Fire Rune**.
+- **Item Acquired:** **Blazing Rapier** (+1d6 Fire Damage).
+- **Status:** Party is equipped with fire damage for the Cursed Forest.
+- **Action:** Kriv asked for available stock.
+- **Shop Inventory (The Gilded Weave):**
+    - **Circlet of Blasting** (400gp).
+    - **Elemental Gem (Red Corundum)** (500gp).
+    - **Ring of Mind Shielding** (300gp).
+    - **Potion of Fire Giant Strength** (200gp).
+- **Transaction:** Kriv bought the **Circlet of Blasting** for **400gp**.
+- **Item Transfer:** Given to **Aegis-7**.
+- **Description:** Aegis integrated the circlet into his forehead plating ("Forehead Laser").
+- **Status:** Party is equipping for the Cursed Forest.
+- **Travel:** Party boarded ***The Stormbreaker*** at the Citadel Docks.
+- **Destination:** **Blackwood's Hunting Lodge** (Whispering Woods).
+- **Time:** Night.
+- **Arrival:** Landed in the clearing near the Lodge.
+- **Atmosphere:** Ominous. Whispers audible.
+- **Observation:** Shadows moving in the treeline.
+- **Status:** Landed. Prepared for combat/investigation.
+- **Action:** Kriv ordered the ship's cannons to ready.
+- **Action:** Kriv used **Divine Sense**.
+- **Result:** Detected **6 Shadows** (Undead) in the treeline and **1 Wight** (Undead) on the Lodge porch.
+- **Reveal:** The Wight is identified as **Lord Blackwood** (Corrupted).
+- **Combat Start:** The Hunting Lodge.
+- **Enemies:** Lord Blackwood (Wight), 6 Shadows.
+
+- **Combat Round 1 (Ship Support):**
+    - **Action:** Kriv ordered the ship to fire on the Shadows but **spare Lord Blackwood**.
+    - **Result:** *The Stormbreaker's* cannons destroyed **4 Shadows** and wounded **2 Shadows**.
+    - **Interaction:** Lord Blackwood recognized the mention of the Seal but remains hostile/corrupted.
+    - **Dialogue:** Blackwood demanded the Seal back.
+    - **Status:** 2 Shadows remaining. Blackwood is active but holding ground.
+
+- **Combat Round 2:**
+    - **Action:** Kriv attempted to Persuade Blackwood ("The King is saved").
+    - **Result:** Blackwood hesitated but the Whispers forced him to attack (Disadvantage).
+    - **Blackwood:** Missed Kriv.
+    - **Shadows:** Shadow 1 hit Elara (6 Dmg, Str Drain). Shadow 2 destroyed by Scraps.
+    - **Aegis-7:** Hit Blackwood (11 Lightning Dmg).
+    - **Felix:** Used *Shield* to block Shadow 2.
+    - **Status:** Blackwood Wounded. 1 Shadow remaining. Elara Wounded.
+
+- **Combat Round 3:**
+    - **Action:** Kriv used **Channel Divinity: Turn the Faithless**.
+    - **Result:** **Failure**. The ability targets Fey/Fiends, not Undead.
+    - **Blackwood:** Mocked Kriv. Hit Kriv (13 Dmg).
+    - **Shadow 1:** Hit Felix (8 Dmg, Str Drain).
+    - **Aegis-7:** Hit Blackwood (13 Dmg).
+    - **Scraps:** Destroyed Shadow 1.
+    - **Elara:** Cast *Healing Word* on Kriv (+6 HP).
+    - **Status:** All Shadows destroyed. Blackwood Bloodied. Kriv Wounded.
+
+- **Combat Round 4:**
+    - **Action:** Kriv Grappled Lord Blackwood (Success).
+    - **Command:** Ordered Aegis to pin him.
+    - **Aegis-7:** Shoved Blackwood **Prone** (Success).
+    - **Blackwood:** Attacked Aegis (Missed due to Disadvantage). Screaming about "The Silence".
+    - **Elara:** Cast *Faerie Fire*. Blackwood failed save (Advantage to hit).
+    - **Felix:** Identified the **Rusted Sword** as the source of corruption.
+    - **Status:** Blackwood is Grappled, Prone, and Faerie Fired.
+
+- **Combat Round 5 (Finale):**
+    - **Action:** Kriv attempted to **Disarm** Lord Blackwood.
+    - **Roll:** Strength Check (19) vs Blackwood (12). Success.
+    - **Result:** Blackwood dropped the sword. The corruption broke.
+    - **Outcome:** Blackwood surrendered/returned to lucidity.
+    - **Victory:** Combat Resolved.
+    - **Status:** Blackwood Alive. Shadows Destroyed.
+    - **Action:** Kriv ordered Aegis and Elara to move Blackwood inside and warm him up.
+    - **Action:** Kriv asked Felix to examine the **Corrupted Vane Blade**.
+    - **Analysis:** Felix identified the blade as a **Void Conduit**. Destroying it will snap the link (potentially explosive).
+    - **Recommendation:** Use Holy or Fire damage to destroy it.
+    - **Location:** Party moved inside **Blackwood's Lodge**.
+    - **Interaction:** Kriv questioned Lord Blackwood ("Why run?", "Why leave the Seal?").
+    - **Intel:** Blackwood fled because he was becoming a conduit for the Cult ("The Whispers").
+    - **Intel:** He left the Seal behind to prevent himself from delivering it to the Cult if he succumbed to corruption.
+    - **Status:** Blackwood is recovering.
+    - **Interaction:** Kriv asked about the **Grove of Whispers** and the **Anchor**.
+    - **Intel:** The Anchor is embedded in **Ironbark** (a Corrupted Treant).
+    - **Directions:** Follow the dry creek bed North.
+    - **Warning:** The Whispers will try to turn the party against each other.
+    - **Status:** Objective updated: Hunt Ironbark in the Grove.
+    - **Action:** Kriv stepped outside and kicked the **Corrupted Vane Blade** into the clearing.
+    - **Command:** Ordered Felix to destroy it.
+    - **Action:** Felix cast **Fire Bolt** on the blade.
+    - **Result:** The blade shattered with a psychic scream. A shockwave of void energy dissipated.
+    - **Effect:** The immediate area feels lighter. The local connection to the Void is severed.
+    - **Status:** Ready to proceed to the Grove.
+    - **Action:** Kriv gave contingency orders to Lord Blackwood ("Leave in 3 days if we don't return").
+    - **Action:** Felix cast **Mage Armor** using his **Spider Staff**.
+    - **Travel:** Party followed the dry creek bed North.
+    - **Arrival:** Reached the **Grove of Whispers**.
+    - **Encounter:** **Ironbark** (Corrupted Treant) awakened.
+    - **Observation:** The **Anchor** is embedded in the Treant's trunk.
+    - **Status:** Boss Encounter Imminent.
+    - **Action:** Kriv attempted to communicate with Ironbark ("Fight the parasite").
+    - **Roll:** Persuasion 14.
+    - **Result:** Ironbark hesitated but the Anchor forced him into a rage.
+    - **Combat Start:** The Grove of Whispers.
+    - **Initiative:** Elara (19), Kriv (14), Felix (12), Ironbark (10), Aegis (8), Kael (6).
+    - **Hazards:** Grasping Roots (Difficult Terrain).
+
+### Current Status
+ - **Location:** Whispering Woods (The Grove of Whispers).
+ - **State:** Encounter Resolution.
+ - **Objective:** Investigate the Lodge / Find the Grove of Whispers.
+- **Party:** Kriv, Elara, Felix, Aegis, Kael, Scraps.
+
+- **Combat Round 1:**
+    - **Elara:** Cast *Faerie Fire*. Ironbark failed save (Advantage to hit).
+    - **Lore:** Elara confirmed the "Druid Fusion" theory regarding the Heartwood.
+    - **Felix:** Corrected Kriv (*Animate Dead* takes 1 minute/needs corpse). Cast *Fireball* instead.
+    - **Damage:** Ironbark took 52 Fire Damage (Vulnerable).
+    - **Ironbark:** Slammed Kriv (13 Dmg after reduction).
+    - **Aegis-7:** Hit Ironbark with Lightning Launcher (9 Dmg).
+    - **Kael:** Crit Ironbark with Starfall Greatsword (28 Dmg).
+    - **Status:** Ironbark Heavily Wounded. Kriv Bloodied.
+
+- **Combat Round 2 (Finale):**
+    - **Action:** Kriv used **Lay on Hands** (25 HP) on self.
+    - **Elara:** Cast *Shatter* on Ironbark's chest (14 Thunder Dmg).
+    - **Felix:** Cast *Scorching Ray* (2 hits). Dealt 28 Fire Dmg (Vulnerable).
+    - **Ironbark:** Flailed wildly. Hit Aegis-7 (12 Dmg).
+    - **Aegis-7:** Crit with Siege Ram (24 Dmg).
+    - **Result:** Ironbark destroyed. The **Anchor** was dislodged.
+    - **Victory:** Boss Defeated.
+    - **Status:** The Anchor is lying in the mud.
+    - **Action:** Kriv inspected the **Anchor**.
+    - **Observation:** The artifact is consuming the soil around it.
+    - **Warning:** Felix warned against physical contact ("It will eat you").
+    - **Recommendation:** Destroy it with a weapon.
+    - **Action:** Kriv knelt and prayed for the fallen (Ironbark, Druids, Rangers).
+    - **Action:** Kriv used **Divine Smite** (Level 1) on the Anchor.
+    - **Result:** The Anchor imploded and was destroyed. The Void connection is severed.
+    - **Loot:** Recovered **Purified Heartwood** (Radiant Component).
+    - **Loot:** Recovered **Petrified Heartwood Logs** (Crafting Material).
+    - **Intent:** Kriv plans to use the Heartwood for a radiant weapon coating (Gromm).
+    - **Atmosphere:** The oppressive silence/fog lifted. The forest is at peace.
+    - **Travel:** Party returned to **Blackwood's Lodge**.
+    - **Status:** Mission Complete. Reunited with Lord Blackwood.
+    - **Action:** Kriv invited Lord Blackwood to return to the Capital.
+    - **Result:** Blackwood accepted, acknowledging his duty to the King.
+    - **Status:** Lord Blackwood is now accompanying the party.
+    - **Action:** Loaded **Petrified Heartwood Logs** onto *The Stormbreaker*.
+    - **Travel:** Party boarded the ship and departed for Aethelgard.
+    - **Rest:** Long Rest taken during the flight.
+    - **Recovery:** All HP, Spell Slots, and Abilities restored. Strength drains removed.
+    - **Arrival:** *The Stormbreaker* arrived at Aethelgard (Dawn).
+    - **Status:** Party is fully rested and back in the Capital.
+    - **Action:** Escorted Lord Blackwood to the **Citadel Throne Room**.
+    - **Interaction:** Presented Blackwood to King Alaric.
+    - **Dialogue:** Kriv reported the destruction of the **Second Anchor** (Heartwood).
+    - **Outcome:** King Alaric welcomed Blackwood back. The Court is strengthening.
+    - **Status:** Mission Debriefed.
+    - **Interaction:** Kriv asked about "Void Activity" in the Royal Palace.
+    - **Intel:** King Alaric reported the **Weeping Willow Statue** in the Royal Gardens has turned to **Obsidian**.
+    - **Intel:** The statue causes sickness and hums (Void Signature).
+    - **Theory:** Duke Aethelred suspects it is the **Third Anchor**.
+    - **Status:** New Objective: Investigate the Royal Gardens.
+    - **Interaction:** Kriv asked Felix about "Obsidian Transmutation".
+    - **Analysis:** Felix theorized it is "Calcification" of reality by the Void.
+    - **Decision:** Party decided to consult **Nezznar** at the **Royal Library** before engaging the Anchor.
+    - **Travel:** Party moved to the **Royal Library**.
+    - **Status:** Seeking intel from Nezznar.
+    - **Interaction:** Kriv asked Nezznar about the "Obsidian Willow".
+    - **Intel:** Nezznar identified the substance as **Voidglass** (Crystallized Void).
+    - **Warning:** Destroying the tree while it is active could cause a massive explosion.
+    - **Advice:** The tree must be "starved" or disrupted before destruction.
+    - **Strategy:** Nezznar suggested using the **Resonance Emitter** to disrupt the tree's feeding.
+    - **Action:** Kriv thanked Nezznar and departed.
+    - **Travel:** Party moved to the **Royal Gardens**.
+    - **Observation:** The **Obsidian Willow** (Voidglass) is pulsing with energy. The area is crystallized.
+    - **Dialogue:** "Time to do some gardening."
+    - **Status:** Encounter Start.
+    - **Action:** Kriv tossed the **Resonance Emitter** to Felix.
+    - **Action:** Felix activated the Emitter.
+    - **Result:** The Obsidian Willow's shield shattered. It is now **Brittle** (Vulnerable to Bludgeoning/Thunder).
+    - **Action:** Aegis-7 (Readied Action) hit the tree with **Siege Ram**.
+    - **Damage:** Massive structural damage to the trunk.
+    - **Combat Start:** The Obsidian Garden.
+    - **Boss:** Obsidian Willow (Voidglass Anchor).
+    - **Hazards:** Glass Shards, Grasping Roots.
+    - **Kriv:** Attacked the Obsidian Willow with Adamantine Greatsword (34 Bludgeoning Damage - Vulnerable).
+    - **Command:** Kriv ordered Kael to guard Felix and the Resonance Emitter.
+    - **Kael:** Positioned to guard Felix.
+    - **Elara:** Cast *Shatter* (30 Thunder Dmg - Vulnerable).
+    - **Aegis-7:** Hit with Lightning Launcher (10 Lightning Dmg).
+    - **Obsidian Willow:** Attacked Kriv (21 Dmg). Missed Aegis.
+    - **Felix:** Hit with *Fire Bolt* (8 Fire Dmg).
+    - **Status:** Obsidian Willow is Critical. Kriv is Wounded.
+
+- **Combat Round 2 (Finale):**
+    - **Action:** Kriv used **Divine Smite** (Level 1) on the Obsidian Willow.
+    - **Result:** The Obsidian Willow shattered/exploded.
+    - **Effect:** The **Third Anchor** is destroyed. The Voidglass calcification has stopped.
+    - **Victory:** Royal Gardens secured.
+    - **Status:** Party is standing in the ruins of the garden.
+    - **Action:** Kriv collected **Voidglass Shards** (Sample).
+    - **Intent:** Kriv plans to show the shards to Nezznar and considers crafting a dagger.
+    - **Travel:** Party returned to the **Citadel Throne Room**.
+    - **Interaction:** Kriv reported to King Alaric ("The garden is dead, but the Anchor is gone").
+    - **Reaction:** King Alaric accepted the loss of the garden to save the Kingdom.
+    - **Status:** Three Anchors destroyed (Void Star, Heartwood, Willow).
+    - **Objective:** Locate the Cult's final stronghold.
+    - **Interaction:** Kriv asked about the "Last Anchor".
+    - **Action:** Felix used the **Voidglass Shards** as a compass.
+    - **Discovery:** The shards point to the **Guildhall Construction Site**.
+    - **Realization:** The **Void Star** (in the Vault) is the final, unstable core.
+    - **Threat:** The Cult is likely converging on the Guildhall to detonate/activate the Star.
+    - **Status:** Emergency. The Guildhall is under threat.
+    - **Command:** Kriv rallied the party and ordered full mobilization (Grey Watch, Ironhold, Silver Flame).
+    - **Travel:** Party rushed to the **Guildhall Construction Site**.
+    - **Encounter:** The site is surrounded by Cultists and a Void Elemental.
+    - **Combat Start:** The Siege of the Guildhall.
+    - **Objective:** Defend the Vault Door for 5 Rounds.
+    - **Enemies:** Wave 1 (10 Cultists, 1 Void Elemental).
+    - **Combat Round 1:**
+        - **Action:** Kriv threw the **Flask of Heavy Ooze**.
+        - **Result:** Created an "Instant Wall". The Void Elemental is blocked.
+        - **Aegis-7:** Fired Lightning Launcher into the bottleneck. Killed 2 Cultists.
+        - **Command:** Kriv ordered Felix to cast *Fireball*.
+        - **Felix:** Cast *Fireball* (Level 3). Dealt 28 Fire Damage.
+        - **Result:** 8 Cultists incinerated.
+        - **Status:** Wave 1 Cultists eliminated. Void Elemental isolated behind the wall.
+    - **Combat Round 2:**
+        - **Action:** Kriv stabbed the Ooze Wall to drain the "Heavy" property.
+        - **Result:** Kriv's Sword gained **Heavy Charge** (+Damage). Ooze became Neutral.
+        - **Void Elemental:** Attacked the Neutral Ooze.
+        - **Reaction:** The Ooze absorbed the Elemental. Elemental destroyed. Ooze became **Void Jelly**.
+        - **Event:** Wave 2 Spawned.
+        - **Enemies:** 2 Void-Touched Ogres, 4 Cultist Fanatics.
+        - **Status:** Wave 1 Cleared. Wave 2 Active.
+    - **Combat Round 3:**
+        - **Action:** Kriv dipped a crossbow bolt into the **Void Jelly**.
+        - **Attack:** Kriv shot Cultist Fanatic 1 with the Void Bolt.
+        - **Result:** The Cultist imploded and was erased.
+        - **Aegis-7:** Engaged Void-Touched Ogre 1.
+        - **Ogres:** Ogre 1 hit Aegis. Ogre 2 charged Elara.
+        - **Status:** 1 Fanatic dead. 3 Fanatics, 2 Ogres remaining.
+    - **Combat Round 4:**
+        - **Action:** Kriv and Felix used **Misty Step** to flank the enemy.
+        - **Kriv:** Attacked Ogre 2 with Heavy Greatsword (19 Dmg).
+        - **Felix:** Killed Fanatic 2 with *Fire Bolt*.
+        - **Kael:** Killed Fanatic 3.
+        - **Scraps:** Killed Fanatic 4.
+        - **Aegis-7:** Held the line against Ogre 1.
+        - **Status:** All Fanatics dead. Ogres surrounded.
+    - **Combat Round 5 (Finale):**
+        - **Command:** Kriv ordered Aegis to use Siege Ram.
+        - **Aegis-7:** Hit Ogre 1 with Siege Ram (Heavy Dmg).
+        - **Kriv:** Attacked Ogre 2 (Standard).
+        - **Ogres:** Ogre 1 hit Aegis (13 Dmg). Ogre 2 hit Kriv (10 Dmg).
+        - **Event:** **Sir Gideon** and **Silver Flame** reinforcements arrived.
+        - **Result:** The remaining Ogres were overwhelmed by the army.
+        - **Victory:** The Siege of the Guildhall is broken.
+        - **Status:** Vault secured. Party Wounded.
+    - **Action:** Kriv collected a sample of **Void Jelly**.
+    - **Command:** Ordered perimeter secured against potential waves.
+    - **Action:** Kriv led the party into the **Guildhall Vault**.
+    - **Observation:** The **Void Star** is spinning and resonating (Waking Up).
+    - **Status:** The final confrontation is at hand.
+    - **Action:** Felix used the **Resonance Emitter** to stabilize the Void Star.
+    - **Interaction:** Kriv attempted to communicate with the Void Star.
+    - **Result:** Received a psychic vision. The Star is a "Seed of Unmaking" summoned by "The Architects".
+    - **Intel:** The vision implicated an ancient royal figure in a "Pact of Blood and Gold".
+    - **Status:** The Void Star is dormant but dangerous.
+    - **Interaction:** Kriv pushed for details on the Pact.
+    - **Vision:** **King Aethelgard I (The Founder)** used the Star to win the founding war.
+    - **Revelation:** The Kingdom exists on "borrowed time". The Eclipse is the Void collecting its debt (Repossession of Aethelgard).
+    - **Status:** The threat is existential and ancestral.
+    - **Action:** Kriv briefed the party on the vision.
+    - **Interaction:** Kriv questioned Aegis-7 about the Founding Era.
+    - **Lore:** Aegis-7 recovered a deep memory ("Directive Omega").
+    - **Revelation:** Juggernauts were built as "Warden-Class Containment Units" to destroy the Void Star if the Pact failed.
+    - **Status:** Aegis-7 is the failsafe.
+    - **Action:** Kriv sealed the **Void Star** in its container (Lot 42) and took it.
+    - **Travel:** Party returned to the **Citadel** to confront the leadership.
+    - **Interaction:** Kriv revealed the **Founder's Pact** to King Alaric and Duke Aethelred.
+    - **Dialogue:** "The Founder doomed us."
+    - **Reaction:** The King and Duke are horrified by the truth of their ancestry.
+    - **Status:** The political and historical foundation of Aethelgard is shattered.
+    - **Action:** Kriv requested "Holy Weapons and Armor" for Aegis-7 to survive the Void Star's destruction.
+    - **Command:** King Alaric ordered the **Founder's Vault** opened.
+    - **Upgrade:** Aegis-7 received **Sanctified Plating** (AC +2, Necrotic Resist) and **Core of the Morning Star** (Radiant Weapon).
+    - **Status:** Aegis-7 is fully upgraded for the final task.
+    - **Action:** Kriv removed the **Void Star** from containment and carried it to the **Royal Gardens**.
+    - **Action:** Kriv probed the artifact for final intel (Took 3 Psychic Dmg).
+    - **Intel:** The Star is the "Pin" holding the Void reality to the Material Plane.
+    - **Intel:** The Royal Bloodline acts as a battery for the Star.
+    - **Intel:** The "Architects" are Far Realm entities waiting to cross over.
+    - **Arrival:** Party reached the blast zone (Ruined Royal Gardens).
+    - **Status:** Ready for detonation.
+    - **Correction:** Kriv corrected his HP status (Healed prior to Guildhall). Current HP: 31/44.
+    - **Action:** Kriv placed the Void Star in the crater.
+    - **Action:** Kriv cast **Bless** on Aegis-7.
+    - **Dialogue:** "The debt will be paid... with the purge of your own followers."
+    - **Command:** Kriv ordered Aegis-7 to fire.
+    - **Reaction:** The Void Star attempted to lash out (*Disintegrate*).
+    - **Counter:** Felix cast **Counterspell** (Level 3). Attack negated.
+    - **Action:** Aegis-7 fired the **Morning Star Launcher**.
+    - **Result:** The Void Star was annihilated. The Eclipse ended.
+    - **Outcome:** The Founder's Debt is settled (or at least the foreclosure is stopped).
+    - **Status:** Victory. Aethelgard is saved.
+
+### Current Status
+ - **Location:** Aethelgard (Royal Gardens - Blast Zone).
+ - **State:** Campaign Arc Complete.
+ - **Objective:** Celebration / Epilogue.
