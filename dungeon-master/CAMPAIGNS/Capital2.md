@@ -532,8 +532,173 @@
     - **Result:** The Void Star was annihilated. The Eclipse ended.
     - **Outcome:** The Founder's Debt is settled (or at least the foreclosure is stopped).
     - **Status:** Victory. Aethelgard is saved.
-
+    - **Interaction:** Kriv checked on Aegis-7.
+    - **Dialogue:** Aegis confirmed survival and freedom from his "Jailer" directive.
+    - **Interaction:** Kriv addressed King Alaric ("The Kingdom is yours again").
+    - **Atmosphere:** Relief and celebration.
+    - **Interaction:** Kriv asked about the future of the Iron Legion.
+    - **Topic:** Mentioned war in the **Desert Kingdom** (West) between Sultan and Pharaoh.
+    - **Response:** King Alaric considers using the Legion as peacekeepers or mercenaries in the west, or as a standing deterrent.
+    - **Decision:** Future of the Legion to be decided by the Council.
+    - **Interaction:** Kriv requested a monetary reward ("Coffers are empty").
+    - **Reward:** King Alaric granted **5,000gp** to the party (1,250gp each).
+    - **Boon:** **Tax Exemption** for the Guildhall for 10 years.
+    - **Status:** Party funds replenished.
+    - **Conclusion:** The "Shadows of Aethelgard" campaign arc is officially concluded.
+    - **Action:** Party moved to **The Platinum Chalice** to celebrate.
+    - **Event:** A city-wide celebration of "The Peace of Iron" and the end of the Eclipse.
+    - **Atmosphere:** Joyous, raucous, and relieved.
+    - **Toast:** To the Wardens of the Forge.
+    - **Status:** End of Session.
+    - **Rest:** Long Rest taken.
+    - **Time:** Day 22 (Morning).
+    - **Status:** Downtime begins.
+    - **Travel:** Party moved to the **Arcaneum** (Magic District).
+    - **Action:** Felix registered for the **Master's Course** (Evocation/Teleportation).
+    - **Cost:** 500gp (Paid by Felix).
+    - **Status:** Felix is enrolled.
+    - **Travel:** Kriv, Elara, Aegis, Kael, and Scraps moved to the **Lower District**.
+    - **Location:** **Gromm's Forge**.
+    - **Interaction:** Presented **Purified Heartwood** and **Petrified Heartwood Logs** to Gromm.
+    - **Appraisal:** Gromm confirmed he can create the **Radiant Weapon Coating**.
+    - **Appraisal:** Gromm identified the Petrified Wood as suitable for shields, hafts, or reinforcement.
+    - **Offer:** Gromm presented crafting options for Petrified Heartwood:
+        1. **Ironwood Shield** (400gp, Necrotic Resist).
+        2. **Ironwood Haft** (300gp, +1 Weapon Upgrade).
+        3. **Spell-Dampening Inlay** (500gp, Adv vs Necromancy).
+    - **Offer:** Radiant Coating for Purified Heartwood (1,000gp).
+    - **Action:** Kriv provided **Refined Adamantine** and requested a custom Halberd.
+    - **Commission:**
+        1. **Radiant Coating** (Greatsword) - 1,000gp.
+        2. **Ironwood Shield** (Elara) - 400gp.
+        3. **Adamantine Ironwood Halberd +1** (Kael) - 700gp.
+    - **Action:** Kriv interrupted the payment to retrieve the **Sanctified Jelly** from the Academy.
+    - **Travel:** Kriv went to the Royal Academy, retrieved the jelly from Vanya, and returned.
+    - **Effect:** The Sanctified Jelly replaced expensive reagents for the coating.
+    - **Discount:** Price reduced by 500gp.
+    - **Transaction:** Paid **1,600gp** (160pp). Items ready Day 24.
+    - **Travel:** Party returned to the **Royal Academy**.
+    - **Interaction:** Kriv asked Vanya about the **Sanctified Ooze** and **Verdant Jelly**.
+    - **Intel:** Sanctified Ooze is hard to stabilize (evaporates into light).
+    - **Intel:** Verdant Jelly mutated a pumpkin into a carnivorous plant monster ("The Gourd of Doom").
+    - **Status:** The Greenhouse is barricaded.
+    - **Action:** Kriv offered to eliminate the "Gourd of Doom".
+    - **Combat:** Party vs. Mutated Pumpkin.
+    - **Result:** The Gourd was destroyed (Squashed).
+    - **Status:** Greenhouse secured. Vanya is grateful.
+    - **Interaction:** Kriv asked about other samples.
+    - **Intel:** **Thermal Jelly** is stable (Firebombs).
+    - **Intel:** **Charged Jelly** is volatile (Magnetized the wing), researching battery potential.
+    - **Inquiry:** Vanya asked if Kriv found any new samples.
+    - **Action:** Kriv performed alchemy experiments with Elara.
+    - **Experiment:** Created **Acidic Jelly** using *Fang of the Many*.
+    - **Experiment:** Created **Virulent Jelly** using *Dagger of Venom*.
+    - **Experiment:** Created **Sanctified Jelly** using a ceramic jar (Light containment).
+    - **Result:** Success. Ceramic prevents evaporation.
+    - **Loot:** Acquired Acidic, Virulent, and Sanctified Jelly samples.
+    - **Action:** Kriv left the new jelly samples (Acidic, Virulent, Sanctified) with Vanya for study.
+    - **Dialogue:** "Good luck... Don't get consumed."
+    - **Status:** Academy visit concluded.
+    - **Interaction:** Kriv asked about **Regenerating Ooze**.
+    - **Intel:** Regenerating Ooze is mutagenic (grows extra limbs). Currently contained.
+    - **Status:** Research halted due to budget/safety restrictions.
+    - **Action:** Kriv gave the **Void Jelly Sample** to Vanya.
+    - **Dialogue:** Explained its properties (Magic absorption, reality warping).
+    - **Suggestion:** Kriv suggested using Acid or more Virulent Jelly to counter the Regenerating Ooze.
+    - **Reaction:** Vanya accepted the sample for study (High Risk).
+    - **Status:** Void Jelly transferred.
+    - **Action:** Kriv performed alchemy experiments with Elara.
+    - **Experiment:** Created **Acidic Jelly**, **Virulent Jelly**, and **Sanctified Jelly** (Ceramic containment).
+    - **Action:** Kriv left the new jelly samples with Vanya for study.
+    - **Status:** Academy visit concluded.
+    - **Travel:** Party moved to **The Obsidian Eye - Noble Branch** (Noble District).
+    - **Interaction:** Met with the Warlock Attendant. Accessed the "Platinum Collection".
+    - **Shop Inventory:**
+        1. **Sun Blade** (3,000gp).
+        2. **Portable Hole** (1,000gp).
+        3. **Wand of the War Mage +2** (2,500gp).
+        4. **Belt of Hill Giant Strength** (2,500gp).
+        5. **Cloak of Displacement** (3,000gp).
+    - **Action:** Kriv confirmed the **Sun Blade** has the Finesse property.
+    - **Transaction:** Party pooled funds to buy the **Sun Blade** (3,000gp).
+    - **Payment:** 1,000gp each (Kriv, Elara, Aegis). Felix was absent.
+    - **Item Transfer:** **Sun Blade** given to **Elara**.
+    - **Interaction:** Kriv asked for an appraisal of Elara's **Blazing Rapier**.
+    - **Appraisal:** Attendant offered **300gp** for the Blazing Rapier.
+    - **Appraisal:** Attendant offered **60gp** for the Silvered Rapier.
+    - **Decision:** Elara declined dual-wielding (Lacks training).
+    - **Transaction:** Sold **Blazing Rapier** for **300gp**.
+    - **Status:** Elara's funds increased.
+    - **Meta:** Corrected XP gains and levels based on individual character participation.
+    - **XP Gained (Kriv/Elara):** 14156 XP (Total: 14156 XP). **Level 6**.
+    - **XP Gained (Felix):** 13906 XP (Total: 13906 XP). **Level 5**.
+    - **XP Gained (Aegis-7):** 9149 XP (Total: 9149 XP). **Level 5** (Includes 1000 XP bonus for personal arc).
+    - **XP Gained (Kael):** 9115 XP (Total: 9115 XP). **Level 5**.
+    - **XP Gained (Scraps):** 9349 XP (Total: 9349 XP). **Level 5**.
+    - **Kriv (L6):** Gained *Aura of Protection*.
+    - **Elara (L6):** Gained *Additional Magical Secrets* (*Revivify*, *Leomund's Tiny Hut*) and *Countercharm*.
+    - **Felix (L5):** No new L6 abilities yet.
+    - **Aegis-7 (L5):** No new L6 abilities yet.
+    - **Kael (L5):** No new L6 abilities yet.
+    - **Scraps (L5):** Gained Hit Dice.
+    - **Event:** King Alaric is hosting a dinner party tonight.
+    - **Dialogue:** "We never really got to make up for the Victory Masquerade."
+    - **Status:** Planning to attend the dinner party after errands.
+    - **Transaction:** Kriv bought **Wand of the War Mage +2** (2,500gp).
+    - **Payment:** Kriv paid 240pp (2,400gp) and 100gp.
+    - **Item:** Kriv holding the wand for Felix.
+    - **Decision:** Kriv declined the **Cloak of Displacement** (Preferring Cloak of the Manticore).
+    - **Travel:** Party (minus Felix) moved to the **Guildhall Construction Site**.
+    - **Progress:** Main Hall framing in progress. Vault lining (Adamantine) complete.
+    - **Interaction:** Thrain Hammerfall reported the Vault is ready for secure storage.
+    - **Interaction:** Lady Veria reported stable ley lines for the Library Tower.
+    - **Action:** Kriv retrieved a **Sack of Refined Adamantine Ingots** from the Guildhall Vault.
+    - **Travel:** Party moved to **Bolt's Bitz & Bobz** (Craftsman's District).
+    - **Interaction:** Met with Barnaby Bolt.
+    - **Shop Inventory:**
+        1. **Immovable Rod** (500gp).
+        2. **Sending Stones** (500gp).
+        3. **Goggles of Night** (400gp).
+        4. **Clockwork Amulet** (100gp).
+    - **Status:** Browsing gadgets.
+    - **Interaction:** Kriv asked if Barnaby can craft with Adamantine Ingots.
+    - **Response:** Barnaby offered **Adamantine Skeleton Key**, **Adamantine Bolts**, or **1,000gp Store Credit**.
+    - **Status:** Negotiating trade.
+    - **Action:** Kriv commissioned the **Adamantine Skeleton Key** for Elara.
+    - **Transaction:** Paid **200gp** and provided **1 Adamantine Ingot**.
+    - **Time:** Item will be ready on Day 23 (Morning).
+    - **Status:** Commission accepted.
+    - **Transaction:** Traded the remaining **Sack of Refined Adamantine** for the **Immovable Rod**.
+    - **Commission:** Ordered **10 Adamantine-Tipped Bolts**.
+    - **Payment:** Covered by the excess value of the Adamantine trade.
+    - **Time:** Bolts ready on Day 23 (Morning).
+    - **Travel:** Party visited **The Grand Coliseum** for the afternoon (Spectating).
+    - **Travel:** Party moved to **The Arcaneum** (Magic District).
+    - **Event:** Reunited with Felix.
+    - **Status:** Felix passed his exams (Master Rank in Evocation/Teleportation confirmed).
+    - **Status:** Party regrouped.
+    - **Action:** Kriv gave the **Wand of the War Mage +2** to Felix.
+    - **Dialogue:** "A graduation gift."
+    - **Training:** Kriv taught Felix the "Dual Wielding" casting technique (Stow/Cast/Draw).
+    - **Status:** Felix is equipped for maximum firepower.
+    - **Interaction:** Kriv asked Felix about new spells learned during the Master's Course.
+    - **Spells Learned:** Felix learned **Lightning Bolt** (Evocation) and **Thunder Step** (Teleportation).
+    - **Status:** Felix's spellbook is updated.
+    - **Travel:** Party moved to **The Platinum Chalice**.
+    - **Action:** Dinner and Rest.
+    - **Dialogue:** "Two days until our guildhall is complete."
+    - **Long Rest**
 ### Current Status
- - **Location:** Aethelgard (Royal Gardens - Blast Zone).
- - **State:** Campaign Arc Complete.
- - **Objective:** Celebration / Epilogue.
+ - **Location:** Aethelgard (The Silk & Satchel).
+ - **State:** Downtime (Day 2 - Evening).
+ - **Objective:** Spend downtime (Shopping, Training, Guildhall).
+ - **Events (Day 23):**
+    - **Pickup:** Retrieved **Adamantine Skeleton Key** (Elara) and **10 Adamantine Bolts** (Kriv) from Barnaby Bolt.
+    - **Pickup:** Retrieved **Radiant-Coated Greatsword** (Kriv), **Ironwood Shield** (Elara), and **Adamantine Ironwood Halberd +1** (Kael) from Gromm.
+    - **Action:** Kriv bought a **Commander's Formal Mantle** for Kael (100gp).
+    - **Status:** Party is fully equipped and dressed for the Royal Dinner.
+    - **Gear Update:** Kriv's Greatsword now deals bonus Radiant damage. Elara has Necrotic Resistance. Kael has a magical weapon.
+    - **Action:** Party traveled to the **Citadel** for the Royal Dinner.
+    - **Buff:** Aegis-7 gains Advantage on Charisma checks (Legendary Appearance).
+    - **Arrival:** **Royal Dining Hall**.
+    - **Status:** Social Encounter Start.

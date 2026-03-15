@@ -3,8 +3,8 @@
 - **Name:** Elara
 - **Race:** Half-Elf
 - **Class:** Bard
-- **Level:** 5 (XP: 13497)
-- **Status:** Alive (33/33)
+- **Level:** 6 (XP: 14156)
+- **Status:** Alive (40/40)
 - **Defense:** AC 19 (Glamoured Studded Leather +1 + Dex + Shield +1). **Resistances:** Poison.
 - **Stats:** High Charisma (+3), Moderate Dexterity (+3)
 - **Abilities:**
@@ -12,9 +12,11 @@
     - **Song of Rest:** Allies regain extra 1d8 HP during short rest.
     - **Expertise:** Persuasion, History.
     - **Feat:** War Caster (Adv on Con saves, OA Spells).
+    - **Additional Magical Secrets:** Learned *Revivify* and *Leomund's Tiny Hut*.
+    - **Countercharm:** Action to give Advantage on saves vs Frightened/Charmed.
      - **Cutting Words:** Reaction to reduce enemy rolls.
-    - **Spellcasting:** Vicious Mockery, Mage Hand, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter, Heat Metal, Hypnotic Pattern, Suggestion, Silence. (4/4 Lvl 1, 2/3 Lvl 2, 2/2 Lvl 3).
-    - **Darkvision:** Can see in dim light.
- - **Location:** Aethelgard (Citadel - Duke's Solar).
- - **Inventory:** Glamoured Studded Leather Armor (+1 AC) [Equipped], Wyvern Studded Leather Armor (Poison Resist) [Spare], Vindicator's Blade (+1 Longsword vs Undead) [Equipped], Vane's Bulwark (+1 Shield) [Equipped], Dagger of Venom, Blazing Rapier (+1d6 Fire Dmg), Bag of Tricks (Gray) [3/3 Charges], Rapier, Lute, Torches (8), Hempen Rope (50ft) [Used on Thul], 548 Gold Pieces, 190 Silver Pieces, Crude Map, Copy of Crypt Map, Potion of Healing (5), Shortbow, Quiver (19 Arrows), Rations (9), Waterskin, Healer's Kit, Throne Room Key, Scroll of Darkness, Small Iron Key, Potion of Heroism, Boots of Elvenkind (Equipped), Iron Cask (Empty), Holy Water, Fang of the Many (+1 Acid Dagger), Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Ornithopter (Equipped).
+    - **Spellcasting:** Vicious Mockery, Mage Hand, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter, Heat Metal, Hypnotic Pattern, Suggestion, Silence, Dispel Magic, Revivify, Leomund's Tiny Hut. (4/4 Lvl 1, 3/3 Lvl 2, 3/3 Lvl 3).
+        - **Darkvision:** Can see in dim light.
+ - **Location:** Aethelgard (Citadel - Royal Dining Hall).
+ - **Inventory:** Glamoured Studded Leather Armor (+1 AC) [Equipped], Wyvern Studded Leather Armor (Poison Resist) [Spare], Vindicator's Blade (+1 Longsword vs Undead) [Equipped], Vane's Bulwark (+1 Shield) [Equipped], Ironwood Shield (Necrotic Resist) [Spare], Dagger of Venom, Sun Blade (Attuned/Equipped), Adamantine Skeleton Key, Bag of Tricks (Gray) [3/3 Charges], Lute, Torches (8), Hempen Rope (50ft) [Used on Thul], 1098 Gold Pieces, 190 Silver Pieces, Crude Map, Copy of Crypt Map, Potion of Healing (5), Shortbow, Quiver (19 Arrows), Rations (9), Waterskin, Healer's Kit, Throne Room Key, Scroll of Darkness, Small Iron Key, Potion of Heroism, Boots of Elvenkind (Equipped), Iron Cask (Empty), Holy Water, Fang of the Many (+1 Acid Dagger), Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Ornithopter (Equipped).
 - **Notes:** Title: **Warden of the Forge**. Found Thul's letter.
