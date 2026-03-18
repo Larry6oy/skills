@@ -702,3 +702,386 @@
     - **Buff:** Aegis-7 gains Advantage on Charisma checks (Legendary Appearance).
     - **Arrival:** **Royal Dining Hall**.
     - **Status:** Social Encounter Start.
+    - **Action:** Kriv scanned the room for VIPs.
+    - **Observation:** King Alaric, Duke Aethelred, General Marcus, Sir Gideon present.
+    - **Event:** Party took their seats at the table (Places of Honor).
+    - **Interaction:** Kriv spotted **General Kravos** (Discussing tactics with Marcus) and **Captain Rask** (Mingling with Treasury officials).
+    - **Action:** Kriv proposed a toast: "To the Kingdom, and those who defend it!"
+    - **Result:** High Morale. The alliance is solidified socially.
+    - **Action:** Kriv eavesdropped on Kravos, Marcus, and Gideon.
+    - **Intel:** They are planning a campaign in the **Desert Kingdom** (West).
+    - **Details:** The Sultan is hiring mercenaries against a "Pharaoh" using Undead.
+    - **Terms:** Kravos wants loot rights (Tombs). Gideon wants to purge the Undead. Marcus wants the gold/adamantine.
+    - **Interaction:** Kriv questioned the narrative, citing the Pharaoh's history of Sun Worship and preserving the dead against evil.
+    - **Lore Reveal:** General Marcus confirmed the history but noted a shift 5 years ago ("The Pale Sun"). The Pharaoh is now raising the dead.
+    - **Lore Reveal:** The conflict is resources (Adamantine Mines) vs. Territory, veiled in Tech vs. Religion.
+    - **Hook:** Gideon is interested in purging the "Corrupted Sun" heresy.
+    - **Action:** Kriv toasted Aegis-7 as "The Crusher of the Void Star."
+    - **Action:** Elara gathered rumors from the nobles.
+    - **Rumor:** Merchants fear the "Pale Sun" in the West; caravans are vanishing into the sand.
+    - **Rumor:** A **Royal Tournament / Grand Melee** is being planned to celebrate the Guildhall completion.
+    - **Prize:** Title of **Champion of the Realm**.
+    - **Interaction:** Kriv asked King Alaric about the Tournament.
+    - **Confirmation:** King Alaric confirmed the **Royal Tournament**.
+    - **Purpose:** To solidify the alliance and test the strength of the factions.
+    - **Rewards:** Title of **Champion of the Realm**, Seat on the War Council, Royal Stipend.
+    - **Expectation:** The King expects the Wardens to participate.
+    - **Interaction:** Kriv asked General Marcus about the competition ("Who are your best fighters?").
+    - **Intel:** Marcus identified potential rivals:
+        - **Iron Legion:** General Kravos or Bargos the Breaker (Rematch).
+        - **Grey Watch:** A Goliath Barbarian from the North (Hired Champion).
+        - **Citadel:** Dame Valera (Silver Flame Blademaster).
+        - **Royal Entry:** A "Mystery Knight" (Sponsored by the King, full plate, unknown identity).
+    - **Interaction:** Kriv asked about the format ("Singles or Teams?").
+    - **Rules:** General Marcus confirmed two events:
+        - **The Grand Melee:** Squad vs. Squad (4-man teams).
+        - **The Duel of Sovereigns:** Single Combat. Winner takes the Title.
+    - **Decision:** Party will enter the **Grand Melee** as a team (Kriv, Elara, Felix, Aegis-7).
+    - **Decision:** **Commander Kael** will fight for **Ironhold** (General Kravos's team) in the Melee.
+    - **Decision:** All party members (including Kael) will enter the **Duel of Sovereigns** individually.
+    - **Status:** Tournament Registration locked in.
+    - **Interaction:** Kriv clarified the tournament structure with General Marcus.
+    - **Confirmation:** Melee is for the Purse/Glory (Team). Duel is for the Crown (Solo).
+    - **Rule:** Magic items are permitted in all events.
+    - **Status:** Dinner concluded. Party dismissed to rest.
+    - **Travel:** Party moved to the **Guildhall Construction Site**.
+    - **Event:** **The Guildhall is Complete.**
+    - **Description:** A blend of Dwarven stone and Elven wood. Named "The Hearth & Anvil" (Pending).
+    - **Action:** Kael departed to stay with the **Iron Legion** for the night (Team cohesion).
+    - **Rest:** Party took their first Long Rest in their own Guildhall.
+    - **Time:** Day 24 (Morning).
+    - **Event:** **The Royal Tournament** begins.
+    - **Travel:** Party traveled to **The Grand Coliseum**.
+    - **Registration:** "Wardens of the Forge" registered for the Grand Melee (Block A).
+    - **Correction:** The Grand Melee is a **Free-For-All** between all 4 major factions.
+    - **Matchup:** Wardens vs. Ironhold vs. Grey Watch vs. Silver Flame.
+    - **Tactics:** Kriv advised the party to study opponent moves for the Duels.
+    - **Action:** Kriv cast **Bless** (Level 1) on Kriv, Aegis-7, and Elara.
+    - **Combat Start:** The Grand Melee.
+    - **Enemy Movement:** Iron Legion (Defensive), Silver Flame (Defensive/Warded), Grey Watch (Aggressive Charge).
+    - **Engagement:** Grey Watch is charging the Wardens.
+    - **Combat Round 1:**
+        - **Action:** Kriv ordered *Leomund's Tiny Hut*.
+        - **Result:** Elara refused (Casting time 1 minute/Too slow).
+        - **Elara:** Cast *Hypnotic Pattern*. Assassin 1 Incapacitated. Goliath/Rask Saved.
+        - **Goliath:** Hit Aegis-7 (18 Bludgeoning Dmg).
+        - **Captain Rask:** Used Coin Bomb on Kriv (Dex Save Pending).
+        - **Assassin 2:** Attacked Felix. Felix used *Shield* (Reaction).
+        - **Iron Legion/Silver Flame:** Holding position (Watching).
+    - **Status:** Aegis-7 Wounded. Felix used spell slot.
+    - **Combat Round 2:**
+        - **Kriv:** Saved vs Coin Bomb (7 Fire Dmg). Cast **Command** (Level 2).
+        - **Result:** Goliath Failed (Groveling/Prone). Assassin 2 Saved.
+        - **Elara:** Dropped *Hypnotic Pattern*. Started casting *Leomund's Tiny Hut* (1/10 Rounds).
+        - **Captain Rask:** Attacked Elara (8 Dmg).
+        - **Assassin 1:** Woke up. Intercepted by Felix.
+        - **Iron Legion:** Entering the fray.
+    - **Status:** Elara Casting (Vulnerable). Kriv Wounded. Goliath Prone.
+    - **Combat Round 3:**
+        - **Aegis-7:** Used *Morning Star Launcher* on Grey Watch cluster (12 Radiant Dmg).
+        - **Kriv:** Shoved **Captain Rask** (Prone).
+        - **Felix:** Cast **Fireball** (Level 3) on Iron Legion.
+        - **Sculpt Spells:** Protected Commander Kael.
+        - **Result:** Iron Legion formation broken. 28 Fire Dmg to Kravos/Bargos/Legionnaires.
+        - **Elara:** Casting *Leomund's Tiny Hut* (Round 2/10).
+        - **Silver Flame:** Entering the fray. Targeting Grey Watch.
+    - **Status:** Grey Watch (Disarray), Iron Legion (Burned/Charging), Wardens (Holding).
+    - **Combat Round 4:**
+        - **Kriv:** Attacked Captain Rask (Prone). Used **Divine Smite** (Level 2).
+        - **Result:** Rask is Unconscious (Non-Lethal).
+        - **Grey Watch:** Morale broken. Remaining mercenaries fleeing/surrendering.
+        - **Iron Legion:** Engaged **Silver Flame**. Kravos/Bargos vs Battlemages.
+        - **Commander Kael:** Dueling Dame Valera.
+        - **Elara:** Casting *Leomund's Tiny Hut* (Round 3/10).
+    - **Status:** Wardens secured a temporary respite. Kriv out of L2 slots.
+    - **Combat Round 5:**
+        - **Command:** Kriv ordered the party to hold position in the fog.
+        - **Felix:** Cast **Fog Cloud** (Level 1) to obscure the party.
+        - **Elara:** Casting *Leomund's Tiny Hut* (Round 4/10).
+        - **Environment:** Wardens are Heavily Obscured.
+        - **Outside:** Iron Legion and Silver Flame are fully engaged.
+    - **Status:** Wardens Hunkered Down. Elara 40% complete.
+    - **Combat Round 6:**
+        - **Aegis-7:** Used **Second Wind**. Regained 13 HP.
+        - **Elara:** Casting *Leomund's Tiny Hut* (Round 5/10).
+        - **Audio Intel:** Iron Legion appears to be pushing back the Silver Flame.
+        - **Audio Intel:** Commander Kael is commanding the Legion front line.
+        - **Wardens:** Still hidden in Fog Cloud.
+    - **Status:** Aegis Repaired. Elara 50% complete.
+    - **Combat Round 7:**
+        - **Command:** Kriv ordered Felix to move the fog to the enemy and stop holding back against Kael.
+        - **Action:** Felix dropped *Fog Cloud* (Self) and re-cast **Fog Cloud** (Level 1) on the main battle.
+        - **Result:** Wardens revealed (Clear Line of Sight). Enemy factions blinded/confused.
+        - **Elara:** Casting *Leomund's Tiny Hut* (Round 6/10).
+        - **Tactics:** Wardens have visibility; Enemies do not.
+    - **Status:** Elara 60% complete. Felix 1/4 L1 Slots.
+    - **Combat Round 8:**
+        - **Action:** Aegis-7 boosted Kriv into the air.
+        - **Movement:** Kriv deployed Ornithopter (Flying/Scouting).
+        - **Intel:** Iron Legion/Silver Flame confused in Fog. Grey Watch neutral.
+        - **Intel:** Kael and Dame Valera dueling outside the fog.
+        - **Elara:** Casting *Leomund's Tiny Hut* (Round 7/10).
+    - **Status:** Kriv Airborne. Elara 70% complete.
+    - **Combat Round 8:**
+        - **Action:** Kriv maintained aerial hover (Overwatch).
+        - **Engagement:** Fired a warning shot at an escaping Silver Flame Battlemage.
+        - **Result:** Mage forced back into the Fog Cloud.
+        - **Elara:** Casting *Leomund's Tiny Hut* (Round 8/10).
+        - **Observation:** Commander Kael is winning the duel against Dame Valera.
+    - **Status:** Kriv Ammo -1. Elara 80% complete.
+    - **Combat Round 9:**
+        - **Action:** Kriv switched to **Returning Javelins** (Conserving Bolts).
+        - **Attack:** Threw Javelin at Dame Valera (Support Kael).
+        - **Result:** Hit (8 Dmg). Valera stumbled. Kael gained advantage.
+        - **Elara:** Casting *Leomund's Tiny Hut* (Round 9/10).
+        - **Status:** Elara 90% complete.
+    - **Combat Round 10:**
+        - **Action:** Kriv used **Breath Weapon** (Lightning) on the melee.
+        - **Damage:** 3d6 Lightning to Iron Legion/Silver Flame cluster.
+        - **Action:** Kriv landed and stowed Ornithopter.
+        - **Elara:** **Finished Casting** *Leomund's Tiny Hut*.
+        - **Effect:** Party (Kriv, Elara, Felix, Aegis, Scraps) is secured inside the dome.
+        - **Note:** Commander Kael remains outside (fighting for Ironhold).
+    - **Status:** Wardens are safe (Invulnerable Shelter).
+    - **Action:** Party took a **Short Rest** inside the Hut (1 Hour).
+    - **Mechanics:**
+        - **Healing:** All party members healed to full HP (Hit Dice + Song of Rest).
+        - **Kriv:** Regained Channel Divinity and Breath Weapon.
+        - **Elara:** Regained Bardic Inspiration.
+        - **Aegis-7:** Regained Second Wind and Action Surge.
+        - **Felix:** Used **Arcane Recovery** to restore 1 Level 3 Spell Slot.
+    - **Observation:** Outside, the Iron Legion defeated the Silver Flame.
+    - **Status:** Wardens (Fresh) vs. Iron Legion Remnants (Exhausted).
+    - **Action:** Kriv stepped out of the Hut, threw a **Returning Javelin** (Warning Shot), and issued an ultimatum.
+    - **Result:** Intimidation Success. Commander Kael and the Iron Legion surrendered.
+    - **Event:** **Victory in the Grand Melee**.
+    - **Reward:** 2,000gp Team Purse.
+    - **Distribution:** Kriv split the purse 5 ways (Wardens + Kael).
+    - **Gold Gained:** 400gp each (Kriv, Elara, Felix, Aegis, Kael).
+    - **Status:** Crowd is ecstatic. Arena is being cleared.
+    - **Intel:** General Marcus confirmed **32 Participants** for the Duel of Sovereigns.
+    - **Bracket:** Single Elimination. Party members are seeded apart initially.
+    - **Action:** Party split up to prepare for the Duels.
+    - **Travel:** Kriv went to **Thalor's Iron-Eye** (Artisan's Quarter).
+    - **Transaction:** Kriv paid **20gp** for Weapon Sharpening and Armor Polish.
+    - **Buff:** Kriv gained **Sharpened Blade** (+1 Dmg on next hit) and **Polished Armor** (Advantage on next Social Check).
+    - **Return:** Kriv returned to the Coliseum.
+    - **Location:** The Chamber of Champions (Waiting Room).
+    - **Event:** **Duel of Sovereigns** Bracket Reveal.
+    - **Matchup (Kriv):** vs **"Red" Rogar** (Mercenary Captain).
+    - **Matchup (Elara):** vs **Silent Koji** (Monk).
+    - **Matchup (Felix):** vs **Magister Solas** (Wizard Rival).
+    - **Matchup (Aegis):** vs **Asterion** (Minotaur).
+    - **Note:** Kriv and Kael are in the same block. Aegis and the Mystery Knight are in the same block.
+    - **Interaction:** Kriv intimidated **"Red" Rogar** in the waiting room.
+    - **Action:** Used **Polished Armor** (Advantage) and Rask's defeat as leverage.
+    - **Result:** Intimidation Success. Rogar forfeited.
+    - **Outcome:** Kriv advances to the **Round of 16** (Second Round) automatically.
+    - **Status:** Awaiting the winner of **Commander Kael vs Sir Balin**.
+    - **Action:** Kriv watched the match between **Commander Kael** and **Sir Balin**.
+    - **Observation:** Kael used reach and tactical prowess to disarm and defeat the Knight.
+    - **Result:** Commander Kael won.
+    - **Bracket Update:** **Kriv vs. Commander Kael** is confirmed for the next round.
+    - **Next Event:** **The Duel of Sovereigns** (Single Combat for the Title).
+- **Meta:** **XP Award for Grand Melee**.
+    - **Award:** 2,000 XP each.
+    - **Level Up:** **Felix** reached **Level 6** (Total 15,906 XP).
+    - **Event:** **Duel of Sovereigns - Round 1 Continues**.
+    - **Match (Elara vs Koji):** Elara won via *Suggestion*.
+    - **Match (Valera vs Bargos):** Valera won via Smite/Discipline.
+    - **Match (Felix vs Solas):** Felix won via *Counterspell* and *Lightning Bolt*.
+    - **Match (Goliath vs Ranger):** Goliath won via brute force.
+    - **Match (Aegis vs Asterion):** Aegis won via Siege Ram (Sumo contest).
+    - **Match (Mystery Knight vs Viper):** Mystery Knight won (Immune to Poison/Pain).
+    - **Bracket Update - Round of 16:**
+        - **Kriv vs Kael**
+        - **Elara vs Dame Valera**
+        - **Felix vs The Goliath**
+        - **Aegis-7 vs The Mystery Knight**
+    - **Next Event:** **The Duel of Sovereigns** (Single Combat for the Title).
+    - **Travel:** Kriv entered the **Arena Sands**.
+    - **Dialogue:** Kriv invoked the memory of the **Siege of Oakheart**.
+    - **Response:** Kael acknowledged the past defeat and signaled readiness.
+    - **Event:** **Duel of Sovereigns - Round 2 Begins**.
+    - **Matchup:** **Kriv** vs **Commander Kael**.
+    - **Combat Round 1 (Duel):**
+        - **Kriv:** Cast **Command** ("Throw").
+        - **Result:** Kael **Succeeded** on the Save (Mental Training).
+        - **Kael:** Counter-attacked with Halberd + Action Surge.
+        - **Damage:** Kriv took 2 hits + Martial Advantage (26 Total Dmg).
+    - **Status:** Kriv Bloodied (28/54 HP). Kael Unharmed.
+    - **Observation:** Kael is using Reach to zone Kriv.
+    - **Combat Round 2 (Duel):**
+        - **Kriv:** Cast **Ensnaring Strike** (Level 1). Attacked Kael.
+        - **Hit 1:** 22 Dmg. **Kael Failed Save** (Restrained).
+        - **Hit 2:** 19 Dmg (Advantage).
+        - **Kael:** Restrained by vines. Attempted to attack (Disadvantage/Miss).
+        - **Total Damage to Kael:** 41 Dmg.
+    - **Status:** Kael Critical (6/47 HP). Kriv Dominating.
+    - **Dialogue:** Kriv offered Kael the chance to yield.
+    - **Action:** Kriv used **Lay on Hands** (26 HP). Healed to Full.
+    - **Resolution:** Kriv released Kael. Kael conceded honorably.
+    - **Event:** **Duel of Sovereigns - Round 2 Continues**.
+    - **Match (Elara vs Valera):** Elara won using *Heat Metal* and *Misty Step*.
+    - **Match (Felix vs Goliath):** Felix won using *Thunder Step* and *Web*.
+    - **Match (Aegis vs Mystery Knight):** Aegis won. Mystery Knight revealed as Elite Animated Armor.
+    - **Bracket Update - Semi-Finals:**
+        - **Kriv** vs **Elara**
+        - **Felix** vs **Aegis-7**
+    - **Note:** The Wardens have secured the entire bracket.
+    - **Decision:** Kriv declared the end of the fighting day. "Tonight, we are allies."
+    - **Travel:** Party collected **Scraps** from the Stables.
+    - **Travel:** Party moved to **The Guildhall (The Hearth & Anvil)**.
+    - **Status:** Celebrating victory. Preparing for the Semi-Finals tomorrow.
+    - **Correction:** Elara wields a **Sun Blade**. Aegis wields a **Morning Star Launcher**.
+    - **Action:** Kriv carved a sign: **"The Everything Shop"**.
+    - **Event:** Established a shop counter in the Guildhall Tavern Wing to sell excess loot.
+    - **Goal:** Create a steady income stream.
+    - **Action:** Kriv gave **Scroll of Blindness/Deafness** to Felix.
+    - **Command:** Kriv ordered Elara to learn **Scroll of Darkness**.
+    - **Downtime:** Felix scribed *Blindness/Deafness* (100gp).
+    - **Downtime:** Elara learned *Darkness* (Scroll Consumed).
+    - **Rest:** Long Rest taken at the Guildhall.
+    - **Status:** Party fully rested. Spells updated.
+    - **Time:** Day 25 (Morning).
+    - **Event:** **Duel of Sovereigns - Semi-Finals**.
+    - **Matchups:** **Kriv vs Elara** / **Felix vs Aegis-7**.
+    - **Combat Start (Semi-Final 1):** Kriv vs Elara.
+    - **Elara:** Cast **Faerie Fire** (DC 15 Dex Save).
+    - **Status:** Kriv needs to roll Save.
+    - **Combat Round 1:**
+        - **Kriv:** Failed Dex Save (Faerie Fire Active).
+        - **Kriv:** Cast **Ensnaring Strike** (Lvl 1). Hit Elara (19 Dmg).
+        - **Elara:** Passed Str Save (Not Restrained).
+        - **Kriv:** Missed second attack.
+        - **Elara:** Cast **Misty Step** (Bonus) and **Heat Metal** (Action) on Kriv's Armor.
+        - **Kriv:** Took 9 Fire Dmg. Condition: Disadvantage (Heat Metal).
+    - **Status:** Elara (21/40 HP). Kriv (45/54 HP).
+    - **Conditions:** Kriv is Glowing (Adv to be hit) and Burning (Disadv to hit).
+    - **Combat Round 2:**
+        - **Kriv:** Used **Breath Weapon** (Lightning).
+        - **Elara:** Passed Dex Save (5 Dmg). Passed Concentration Check (War Caster).
+        - **Elara:** Used **Heat Metal** (Bonus) and Attacked with **Sun Blade**.
+        - **Kriv:** Took 8 Fire Dmg + 11 Radiant Dmg.
+    - **Status:** Kriv Bloodied (26/54 HP). Elara Wounded (16/40 HP).
+    - **Observation:** Elara's concentration is holding firm.
+    - **Combat Round 3 (Finale):**
+        - **Kriv:** Cast **Command** ("Grovel").
+        - **Result:** Elara Failed Save (Prone/Incapacitated).
+        - **Action:** Kriv held Elara at swordpoint.
+        - **Result:** Elara Yielded. Concentration on *Heat Metal* dropped.
+    - **Victory:** Kriv wins the Semi-Final.
+    - **Bracket Update:** Kriv advances to the **Finals**.
+    - **Next Match:** **Felix vs Aegis-7**.
+    - **Action:** Kriv used **Lay on Hands** (20 HP) and drank a **Potion of Healing**.
+    - **Action:** Kriv gave a **Potion of Healing** to Elara.
+    - **Status:** Kriv (53/54 HP). Elara (23/40 HP).
+    - **Event:** **Semi-Final Match 2: Felix vs Aegis-7**.
+    - **Combat:** Felix used *Fly* potion. Aegis used Anti-Air tactics.
+    - **Result:** Aegis-7 won via grapple/surrender.
+    - **Bracket Update:** **Finals Set: Kriv vs Aegis-7**.
+    - **Note:** The "Civil War" continues.
+    - **Travel:** Kriv entered the **Arena Sands** for the Final Match.
+    - **Dialogue:** Kriv challenged Aegis to prove his freedom.
+    - **Response:** Aegis confirmed freedom is choosing to fight the strongest (Kriv).
+    - **Combat Start (The Finals):** Kriv vs Aegis-7.
+    - **Round 1 (Aegis):**
+        - **Bonus:** Used *Circlet of Blasting* (14 Fire Dmg).
+        - **Action:** Used *Morning Star Launcher* (11 Radiant Dmg).
+    - **Status:** Kriv Bloodied (28/54 HP). Aegis-7 Full HP.
+    - **Round 1 (Kriv):**
+        - **Bonus:** Manticore Spike Volley (Missed).
+        - **Action:** Cast **Moonbeam** (Level 2).
+    - **Round 2 (Aegis):**
+        - **Start:** Took 6 Radiant Dmg from *Moonbeam* (Passed Save).
+        - **Movement:** Closed distance.
+        - **Action:** Iron Fist attack. Hit Kriv (6 Dmg after reduction).
+    - **Status:** Kriv (22/54 HP). Aegis-7 (46/52 HP).
+    - **Condition:** Kriv Concentrating on *Moonbeam*.
+    - **Round 3 (Kriv):**
+        - **Action:** Attack with Greatsword + **Divine Smite** (Lvl 1).
+        - **Damage:** 31 Dmg to Aegis. (Aegis Critical).
+        - **Movement:** Entered *Moonbeam*. Took 5 Radiant Dmg (Save).
+    - **Round 3 (Aegis-7):**
+        - **Bonus:** Used **Second Wind** (+14 HP).
+        - **Action:** Fired *Morning Star Launcher*. Hit Kriv (12 Dmg).
+        - **Action Surge:** Fired again. Missed.
+    - **Status:** Kriv Critical (5/54 HP). Aegis Bloodied (29/52 HP).
+    - **Tension:** Both combatants are near their limit.
+    - **Round 4 (Kriv):**
+        - **Start:** Took 3 Radiant Dmg from *Moonbeam*. (2 HP remaining).
+        - **Movement:** Retreated behind *Moonbeam* for cover.
+        - **Action:** Drank **Potion of Greater Healing** (+14 HP).
+    - **Round 4 (Aegis-7):**
+        - **Movement:** Flanked the cover.
+        - **Action:** Fired *Morning Star Launcher*. Missed (AC 19).
+    - **Status:** Kriv (16/54 HP). Aegis (29/52 HP).
+    - **Round 5 (Kriv - Finale):**
+        - **Action:** Closed distance. Attacked with **Dark-Steel Greatsword**.
+        - **Bonus:** **Divine Smite** (Level 2).
+        - **Damage:** 38 Total (Physical/Lightning/Radiant).
+        - **Result:** Aegis-7 Defeated (0 HP).
+    - **Event:** **Kriv wins the Duel of Sovereigns!**
+    - **Reward:** Title of **Champion of the Realm**. Seat on the War Council.
+    - **Action:** Kriv used **Lay on Hands** (10 HP) to revive Aegis-7.
+    - **Dialogue:** "There is no victory without the shield!"
+    - **Result:** Aegis-7 Rebooted. Crowd reaction: Ecstatic.
+    - **Event:** Victory Ceremony. Kriv crowned Champion.
+    - **Interaction:** Kriv asked King Alaric about the **War Council** responsibilities.
+    - **Privileges:** **Strategic Command** (Vote on army deployment), **Emergency Authority** (Mobilization), **Alliance Oversight** (Iron Legion/Grey Watch).
+    - **First Assignment:** Determine the Iron Legion's role in the Desert Kingdom War.
+    - **Status:** Kriv is now a high-ranking military official.
+    - **Travel:** Party returned to **The Guildhall**.
+    - **Event:** **Grand Opening of The Hearth & Anvil**.
+    - **Announcement:** Kriv declared "Free Drinks for Today Only!"
+    - **Atmosphere:** Raucous celebration. The Guildhall is packed.
+    - **Status:** Victory Celebration.
+    - **Action:** Kriv gave a welcome speech to the city.
+    - **Event:** Opened **"The Everything Shop"** for business.
+    - **Stocking:**
+        - **Kriv:** Listed **Potion of Climbing**, **Ring of Spell Storing**, **Ring of Protection**.
+        - **Elara:** Listed **Wyvern Studded Leather Armor**.
+        - **Felix:** Listed **2x Potion of Greater Healing**.
+    - **Sales:** Sold **Potion of Climbing** (50gp) and **Wyvern Armor** (500gp) and **2x Potion of Greater Healing** (300gp).
+    - **Profit:** 850gp added to the Guildhall Chest.
+    - **Status:** Rings remain unsold (High Value).
+    - **Command:** Kriv ordered Felix to load the **Ring of Spell Storing** before resting.
+    - **Reasoning:** To increase value and utility for potential buyers.
+    - **Action:** Felix cast **Shield** (x3) and **Misty Step** (x1) into the Ring.
+    - **Action:** Kriv retired early to avoid a hangover.
+    - **Rest:** Long Rest taken at the Guildhall.
+    - **Time:** Day 26 (Morning).
+    - **Status:** Party fully rested. Kriv is clear-headed.
+    - **Interaction:** Kriv checked on the party.
+    - **Status:** Elara is hungover. Felix confirmed the Ring is charged. Aegis reported minor tavern damage.
+    - **Command:** Kriv ordered Elara, Felix, and Aegis to rest at the Guildhall.
+    - **Travel:** Kriv and Commander Kael traveled to **The Citadel**.
+    - **Action:** Kriv donned Masquerade Costume over armor.
+    - **Event:** Arrival at the **War Council**.
+    - **Objective:** Attend the **War Council** meeting at the Citadel.
+    - **Interaction:** Kriv asked about **General Kravos's** absence.
+    - **Response:** Marcus explained Kravos is at the *Iron Eagle* avoiding politics/drilling troops.
+    - **Status:** Kravos is awaiting orders. The Iron Eagle is combat-ready.
+    - **Interaction:** Kriv asked about the "Mystery Knight" prototype vs. Legion Walkers.
+    - **Lore:** The "Mystery Knight" (Project Sentinel) is too expensive for mass production.
+    - **Decision:** Aethelgard will rely on the Iron Legion's "Iron Striders" (Walkers) for heavy infantry/warfare.
+    - **Status:** Tech disparity acknowledged.
+    - **Interaction:** Kriv asked about the **Sultan's Terms** and the **Northern Raiders**.
+    - **Terms:** Sultan offers **100,000gp** (Total) and **Sun-Glass** (Glass-Steel) trade rights.
+    - **Intel (North):** The **Storm Reavers** (Vikings) hate the Sun Empire/Pharaoh.
+    - **Risk:** The Reavers are indiscriminate; they might attack the Sultan too ("Burn the corrupted star").
+    - **Status:** Kriv must weigh the risk of inviting the Northern Raiders.
+    - **Proposal:** Kriv proposed a split strategy.
+        1. **Main Army:** Amass at the **Clockwork City** (Desert Front).
+        2. **Wardens:** Take *The Stormbreaker* North to recruit the **Storm Reavers**.
+    - **Decision:** The War Council approved.
+    - **Orders:** General Marcus/Kravos to mobilize for the West. Kriv to depart for the North.
+    - **Status:** The **Desert War Arc** begins.
+    - **Action:** Kriv requested an update to his **Writ of Negotiation**.
+    - **Result:** King Alaric added the **Storm Reavers** to the writ.
+    - **Item Update:** **Writ of Negotiation (Iron Legion & Storm Reavers)**.
+    - **Directive:** "Promise them blood and glory, not the kingdom."
+
+### Current Status
+ - **Location:** Aethelgard (The Citadel - War Room).
+ - **State:** War Council Meeting.
