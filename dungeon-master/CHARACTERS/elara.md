@@ -3,20 +3,20 @@
 - **Name:** Elara
 - **Race:** Half-Elf
 - **Class:** Bard
-- **Level:** 6 (XP: 16156)
-- **Status:** Alive (23/40)
+- **Level:** 6 (XP: 17756)
+- **Status:** Alive (40/40) (Fully Rested)
 - **Defense:** AC 19 (Glamoured Studded Leather +1 + Dex + Shield +1). **Resistances:** Poison.
 - **Stats:** High Charisma (+3), Moderate Dexterity (+3)
 - **Abilities:**
     - **Bardic Inspiration:** Grant a d8 to ally rolls (Recharges on Short/Long Rest) (3/3).
-    - **Song of Rest:** Allies regain extra 1d6 HP during short rest (Used).
+    - **Song of Rest:** Allies regain extra 1d6 HP during short rest.
     - **Expertise:** Persuasion, History.
     - **Feat:** War Caster (Adv on Con saves, OA Spells).
     - **Additional Magical Secrets:** Learned *Revivify* and *Leomund's Tiny Hut*.
     - **Countercharm:** Action to give Advantage on saves vs Frightened/Charmed.
      - **Cutting Words:** Reaction to reduce enemy rolls.
-    - **Spellcasting:** Vicious Mockery, Mage Hand, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter, Heat Metal, Hypnotic Pattern, Suggestion, Silence, Dispel Magic, Revivify, Leomund's Tiny Hut, Darkness. (4/4 Lvl 1, 3/3 Lvl 2, 3/3 Lvl 3).
+    - **Spellcasting:** Vicious Mockery, Mage Hand, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter, Heat Metal, Hypnotic Pattern, Suggestion, Silence, Dispel Magic, Revivify, Leomund's Tiny Hut, Darkness, Dissonant Whispers. (2/4 Lvl 1, 3/3 Lvl 2, 3/3 Lvl 3).
         - **Darkvision:** Can see in dim light.
- - **Location:** Aethelgard (The Hearth & Anvil).
- - **Inventory:** Glamoured Studded Leather Armor (+1 AC) [Equipped], Sun Blade (Attuned/Equipped), Vindicator's Blade (+1 Longsword vs Undead) [Carried], Vane's Bulwark (+1 Shield) [Equipped], Ironwood Shield (Necrotic Resist) [Spare], Dagger of Venom, Adamantine Skeleton Key, Bag of Tricks (Gray) [3/3 Charges], Lute, Torches (8), Hempen Rope (50ft) [Used on Thul], 1498 Gold Pieces, 190 Silver Pieces, Crude Map, Copy of Crypt Map, Potion of Healing (5), Shortbow, Quiver (19 Arrows), Rations (9), Waterskin, Healer's Kit, Throne Room Key, Small Iron Key, Potion of Heroism, Boots of Elvenkind (Equipped), Iron Cask (Empty), Holy Water, Fang of the Many (+1 Acid Dagger), Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Ornithopter (Equipped).
- - **Notes:** Title: **Warden of the Forge**. Found Thul's letter. **Status:** Resting at Guildhall (Hungover).
+ - **Location:** Airborne (Ornithopter Drop - Siege Engine Flank).
+  - **Inventory:** Glamoured Studded Leather Armor (+1 AC) [Equipped], Sun Blade (Attuned/Equipped), Vindicator's Blade (+1 Longsword vs Undead) [Carried], Vane's Bulwark (+1 Shield) [Equipped], Ironwood Shield (Necrotic Resist) [Spare], Dagger of Venom, Adamantine Skeleton Key, Bag of Tricks (Gray) [3/3 Charges], Lute, Torches (8), Hempen Rope (50ft), 1498 Gold Pieces, 190 Silver Pieces, Crude Map, Copy of Crypt Map, Potion of Healing (5), Shortbow, Quiver (19 Arrows), Rations (9), Waterskin, Healer's Kit, Throne Room Key, Small Iron Key, Potion of Heroism, Boots of Elvenkind (Equipped), Iron Cask (Empty), Holy Water, Fang of the Many (+1 Acid Dagger), Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Ornithopter (Equipped), Fang of the Frost +1 (Frost Dagger).
+ - **Notes:** Title: **Warden of the Forge**. Found Thul's letter. **Status:** In Combat (Airborne).

@@ -3,13 +3,13 @@
 - **Name:** Kriv
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
-- **Level:** 6 (XP: 16156)
+- **Level:** 6 (XP: 17756)
 - **Status:** Alive (HP: 54/54)
-- **Defense:** AC 19 (Splint +2). **Resistances:** Lightning, Necrotic, Force. **Immunities:** Critical Hits (Adamantine). **Reduction:** -3 damage from non-magical B/P/S (Heavy Armor Master).
+- **Defense:** AC 20 total (Plate +2). **Resistances:** Lightning, Necrotic, Force, Cold. **Reduction:** -3 damage from non-magical B/P/S (Heavy Armor Master).
 - **Stats:** Strength +4 (19), Charisma +1
 - **Abilities:**
-    - **Breath Weapon:** Lightning Line (0/1)
-    - **Divine Sense:** Detect Undead/Fiends (4/4 uses)
+    - **Breath Weapon:** Lightning Line (1/1)
+    - **Divine Sense:** Detect Undead/Fiends (3/4 uses)
     - **Divine Health:** Immune to disease.
     - **Feat:** Heavy Armor Master (+1 Str, -3 dmg from non-magical B/P/S).
     - **Sacred Oath:** Oath of the Ancients (Level 3)
@@ -20,7 +20,7 @@
     - **Lay on Hands:** 30/30 HP healing pool (Level 6)
     - **Inspiration:** 1 use
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (4/4 Slots Level 1, 2/2 Slots Level 2)
- - **Location:** Aethelgard (The Citadel - War Room)
-  - **Inventory:** Gem-Studded Adamantine Splint Armor +2 (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune, Heavy Charge, Radiant Coating) [Equipped], Returning Javelins (6) [Equipped], Holy Symbol, 0 Copper Pieces, 312 Silver Pieces, 1078 Gold Pieces, 0 Platinum Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Holy Water (4), Potion of Acid Resistance, Potion of Superior Healing, Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow +1, Case of Bolts (11), Adamantine-Tipped Bolts (10), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (5), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave, Potion of Greater Healing, Key Ring, War Chest Key, Black Card (Crimson Covenant), Covenant Signet Ring (5,000gp Credit), Rusty Iron Key, Letter from Thul, Duke's Warrant, Masterwork Masquerade Costume (Blue/Gold) & Mask, Writ of Negotiation (Iron Legion & Storm Reavers), Cloak of the Mountebank, Rations (9), Waterskin, Healer's Kit, Blueprint: Iron Eagle Skyship, Ornithopter, Bastion Vault Key, Zek's Journal, Void Focus, Adamantine Scrap, Manual of Iron Golems, Blackwood's Ledger, Unfinished Letter to King, Royal Mason's Key Ring, Crumpled Note, Petrified Heartwood (Remnants), Voidglass Shards (Sample), Immovable Rod.
-      - **Notes:** Title: **Warden of the Forge**. **Champion of the Realm**. **War Council Member**. **Radiant Coating:** Deals extra radiant damage (1d6 (2d6 to undead/feinds)). **Status:** Fully Rested. Wearing Masquerade Costume over Armor. **The Everything Shop:** Stocked with Ring of Spell Storing (Loaded: Shield x3, Misty Step), Ring of Protection.
+    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (3/4 Slots Level 1, 1/2 Slots Level 2)
+ - **Location:** Airborne (Ornithopter Drop - Siege Engine Flank)
+  - **Inventory:** Gem-Studded Glacial Plate Armor +2 (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune, Heavy Charge, Radiant Coating) [Equipped], Returning Javelins (6) [Equipped], Holy Symbol, 0 Copper Pieces, 312 Silver Pieces, 578 Gold Pieces, 0 Platinum Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Holy Water (4), Potion of Acid Resistance, Potion of Superior Healing, Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow +1, Case of Bolts (11), Adamantine-Tipped Bolts (10), Beast Balm, Iron Tongs, Custom Owlbear Saddle (Equipped on Scraps), Alchemical Firebomb (4), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave, Potion of Greater Healing, Key Ring, War Chest Key, Black Card (Crimson Covenant), Covenant Signet Ring (5,000gp Credit), Rusty Iron Key, Letter from Thul, Duke's Warrant, Masterwork Masquerade Costume (Blue/Gold) & Mask, Writ of Negotiation (Iron Legion & Storm Reavers), Cloak of the Mountebank, Rations (9), Waterskin, Healer's Kit, Blueprint: Iron Eagle Skyship, Ornithopter, Bastion Vault Key, Zek's Journal, Void Focus, Adamantine Splint Armor (Stripped), Manual of Iron Golems, Blackwood's Ledger, Unfinished Letter to King, Royal Mason's Key Ring, Crumpled Note, Petrified Heartwood (Remnants), Voidglass Shards (Sample), Immovable Rod, Ring of Warmth, Fang of the Frost +1 (Frost Dagger), Tunneling Claws.
+      - **Notes:** Title: **Warden of the Forge**. **Champion of the Realm**. **War Council Member**. **Radiant Coating:** Deals extra radiant damage (1d6 (2d6 to undead/feinds)). **Glacial Plate:** Cold Resist, 1d6 Cold Retribution (Melee). **Status:** Concentrating on Moonbeam.

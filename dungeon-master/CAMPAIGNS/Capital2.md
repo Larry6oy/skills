@@ -1081,7 +1081,25 @@
     - **Result:** King Alaric added the **Storm Reavers** to the writ.
     - **Item Update:** **Writ of Negotiation (Iron Legion & Storm Reavers)**.
     - **Directive:** "Promise them blood and glory, not the kingdom."
+    - **Travel:** Party regrouped at the **Citadel Docks**.
+    - **Action:** Kriv prepared *The Stormbreaker* for launch.
+    - **Orders:**
+        - **Kael:** Mainsail/Rigging.
+        - **Elara:** Pilot/Engine.
+        - **Aegis-7:** Cargo/Scraps.
+        - **Felix:** Gunnery.
+    - **Event:** **The Stormbreaker** launched.
+    - **Destination:** **The Frozen Coast** (North).
+    - **Status:** Airborne. The Desert War Arc begins (Northern Flank).
+    - **Travel:** Day 1 of 3 (Aerial).
+    - **Intel:** Felix and Elara briefed Kriv on the Northern factions.
+        - **Storm Reavers (Vikings):** Meritocracy, hate the Sun Empire, respect strength/bards (Skalds).
+        - **Ice Walkers (Inuit):** Reclusive, spiritual, shamanistic, neutral/defensive.
+    - **Strategy:** Use Elara (Skald) to negotiate with Reavers. Respect the land for the Ice Walkers.
+    - **Action:** Kriv took the first watch.
+    - **Command:** Ordered the party to rest and Elara to practice songs.
+    - **Event:** Night passed peacefully. High altitude avoided threats.
+    - **Transition:** Entering the Northern Region.
 
-### Current Status
- - **Location:** Aethelgard (The Citadel - War Room).
- - **State:** War Council Meeting.
+## End of Chapter
+- **Continued in:** `IceCliffs.md`

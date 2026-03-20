@@ -1,0 +1,163 @@
+# Campaign Log: The Frozen Coast
+
+## Session 1: Into the Storm
+- **Party:** Kriv (Lvl 6), Elara (Lvl 6), Felix (Lvl 6), Aegis-7 (Lvl 5).
+- **Location:** Airborne (Approaching the Frozen Coast).
+- **Time:** Day 13 (Morning).
+- **Objective:** Locate and negotiate with the **Storm Reavers**.
+
+### Major Events
+- **Travel:** Day 2 of Aerial Travel.
+- **Atmosphere:** The temperature has dropped significantly. The ocean below is dotted with icebergs.
+- **Status:** Party is rested.
+- **Activity:** Elara is composing "The Ballad of the Broken Sky".
+- **Action:** Kriv scanned the horizon.
+- **Observation:** Spotted the **Ice Cliffs** (Coastline).
+- **Observation:** Spotted an unnatural storm to the NW.
+- **Observation:** Spotted **Storm Reaver Longships** below, heading toward the storm.
+- **Status:** Approaching destination.
+- **Action:** Kriv ordered the ship to descend and follow the longships.
+- **Action:** Felix analyzed the storm.
+- **Intel:** The storm is a **Tempest Nexus** (Elemental Convergence), anchored to a location.
+- **Movement:** Following the Reavers into the storm.
+- **Deviation:** Arriving early (skipping travel time to the capital).
+- **Command:** Kriv aborted the pursuit ("They could mistake us for a raid").
+- **Action:** Elara resumed course for the **Reaver Capital**.
+- **Activity:** Elara working on "The Void that Split the Sky" ballad.
+- **Downtime:** Kriv prayed and polished his armor.
+- **Buff:** Kriv gained **Polished Armor** (Advantage on next Social Check).
+- **Time:** Day 3 Afternoon to Day 4 Morning.
+- **Event:** Arrival at **Frosthold** (Reaver Capital).
+- **Observation:** The city is carved into the glacier. Harbor is full of longships.
+- **Action:** Kriv signaled for permission to dock.
+- **Event:** Intercepted by **Giant Eagle Riders**. Permission granted.
+- **Location:** Docked at the **High Docks**.
+- **Encounter:** Met by a welcoming party/containment squad led by a **Shield-Maiden**.
+- **Status:** Social Encounter initiated.
+- **Interaction:** Kriv introduced himself and requested an audience.
+- **NPC:** **Astrid**, Shield-Captain. Granted access.
+- **Condition:** Scraps must remain on the ship. Aegis-7 must power down weapons.
+- **Travel:** Escorted to the **Hall of Storms**.
+- **Encounter:** **Jarl Borg** (Leader of the Storm Reavers).
+- **Atmosphere:** Hostile/Challenging.
+- **Action:** Kriv made a speech differentiating the "Good Sun" (Alaric) from the "Pale Sun" (Pharaoh).
+- **Action:** Elara performed "The Void that Split the Sky".
+- **Result:** **Natural 20** (Critical Success).
+- **Outcome:** Jarl Borg is swayed. He acknowledges the threat of the Pale Sun.
+- **Condition:** Borg demands a "Hunt" to prove endurance before committing to the alliance.
+- **Negotiation:** Kriv demanded the Reavers spare the **Clockwork Sultan's Cities**.
+- **Result:** Jarl Borg agreed (Grudgingly). Alliance targets **Pharaoh/Pale Sun** only.
+- **Event:** The Feast of Storms begins.
+- **Action:** Kriv joined the feast.
+- **Atmosphere:** Boisterous. Elara is entertaining; Felix is mingling.
+- **Observation:** Reavers respect strength and endurance.
+- **Action:** Kriv challenged **Olaf Iron-Grip** to an arm-wrestling match.
+- **Result:** Kriv won decisively (Strength 19).
+- **Outcome:** Earned the respect of the Reavers.
+- **Action:** Kriv asked Jarl Borg about the hunt.
+- **Intel:** The hunt is for the **Ice Wyrm of the Frozen Fangs**.
+- **Description:** A large, cunning creature of the deep ice, with obsidian scales and freezing breath. It has grown bolder, attacking longships and settlements.
+- **Interaction:** Kriv asked for weaknesses/strategy.
+- **Intel:** Weakness: Fire.
+- **Tactics:** The Wyrm burrows through ice (Ambush from below) and creates blinding whiteouts (Separation).
+- **Advice:** "Stand together. If the line breaks, you die."
+- **Event:** Feast concluded.
+- **Rest:** Long Rest taken in Frosthold.
+- **Time:** Day 15 (Morning).
+- **Travel:** Wolf-sleds to **The Glacial Wastes**.
+- **Conditions:** Extreme Cold, Low Visibility.
+- **Status:** The Hunt begins.
+- **Status:** Feast tonight. Hunt tomorrow.
+- **Action:** Kriv halted the convoy.
+- **Action:** Party (Kriv, Elara, Felix, Kael) used **Ornithopters** to fly above the drift. Aegis-7 assisted.
+- **Observation:** Spotted fracture lines and a massive shadow beneath the ice ahead.
+- **Intel:** The Wyrm has set a trap (collapsing ice shelf).
+- **Status:** Ambush foiled. Party is airborne. Jarl Borg warned.
+- **Combat Start:** The Glacial Ambush.
+- **Surprise Round:**
+    - **Command:** Kriv ordered preemptive strikes on the ice and the Wyrm.
+    - **Felix:** Cast *Fire Bolt* on the fracture lines.
+    - **Result:** Thermal shock shattered the ice shelf prematurely. The trap collapsed on the Wyrm.
+    - **Elara:** Cast *Faerie Fire*.
+    - **Result:** The **Ice Wyrm** failed the save. It is outlined in violet light (Advantage to hit).
+- **Status:** Initiative Rolled. Wyrm is exposed in the pit below.
+- **Dialogue:** Kriv questioned the taxonomy ("Wyrm vs Worm").
+- **Response:** Jarl Borg confirmed it flies *and* digs.
+- **Combat Round 1:**
+    - **Kriv:** Cast **Command** ("Grovel").
+    - **Wyrm:** Failed Save. Condition: **Prone/Groveling**.
+    - **Felix:** Cast **Scorching Ray** (Level 2).
+    - **Damage:** 48 Fire Damage (Vulnerable).
+    - **Elara:** Cast **Dissonant Whispers** (11 Psychic Dmg).
+    - **Aegis-7:** Used **Siege Ram** on the ice/ground.
+    - **Effect:** Collapsed the tunnels. Wyrm is **Restrained/Buried**.
+    - **Kael:** Hit with Crossbow (Crit). 18 Dmg.
+    - **Wyrm:** Turn skipped (Command).
+    - **Total Damage:** 77 Damage.
+    - **Status:** Wyrm is Critical, Prone, and Trapped.
+- **Combat Round 2:**
+    - **Dialogue:** Kriv taunted Borg. Borg accepted the challenge.
+    - **Kriv:** Dive-bombed with **Alchemical Firebomb**.
+    - **Damage:** 20 Fire Damage (Vulnerable).
+    - **Jarl Borg:** Leaped into the pit (Melee).
+    - **Reavers:** Fired harpoons.
+    - **Status:** Wyrm is near death.
+- **Combat Round 3 (Finale):**
+    - **Command:** Kriv ordered Felix to Web and Aegis to Burn.
+    - **Felix:** Cast **Web** (Level 2). Wyrm Restrained.
+    - **Aegis-7:** Used **Circlet of Blasting** (*Scorching Ray*). Ignited the Web.
+    - **Damage:** Massive Fire Damage (Vulnerable).
+    - **Result:** The Ice Wyrm melted/died.
+    - **Jarl Borg:** Survived (Singed).
+- **Victory:** The Hunt is successful.
+- **Outcome:** Jarl Borg is impressed ("The Southern Dragon has teeth").
+- **Alliance:** The **Storm Reavers** are fully committed to the war against the Pale Sun.
+- **Action:** Kriv ordered the corpse retrieved for harvesting.
+- **Harvest:** Kriv obtained **Black Diamond Mandibles** and **Obsidian Scales**.
+- **Action:** Kael explored the Wyrm's den.
+- **Loot Found:**
+    - **Frost-Rimed Greataxe +1** (Identified as Jarl Hrothgar's axe).
+    - **Ring of Warmth**.
+    - **500gp** (Gems/Coins).
+- **Reaction:** Jarl Borg recognized the axe. Diplomatic standing increased greatly.
+- **Diplomacy:** Kriv gifted **Frost-Rimed Greataxe** to Jarl Borg.
+- **Condition:** Leverage to ensure the Reavers do not raid the **Clockwork Cities**.
+- **Harvesting:**
+    - **Kriv:** Acquired **Ice Wyrm Fang**, **Tunneling Claws**, **Never-Melting Ice Blocks**.
+    - **Elara:** Acquired **Ice Wyrm Fang**.
+- **Status:** Alliance cemented. Reavers mobilized.
+- **Next Step:** Return to the Ship / Plan next move.
+- **Action:** Kriv stored **Never-Melting Ice Blocks** in Felix's Bag of Holding.
+- **Dialogue:** Kriv ceded the rest of the corpse to Jarl Borg.
+- **Reaction:** Borg accepted.
+- **Status:** Loot secured.
+- **Travel:** Return trip to **Frosthold** via sleds.
+- **Interaction:** Kriv asked Borg about the ships entering the storm.
+- **Lore:** Borg explained the **Rite of the Tempest** (Youth sailing into the Nexus for glory/blessing).
+- **Event:** Arrival at the High Docks. Reunion with Scraps.
+- **Departure:** Borg confirmed the Reaver Fleet will meet at the **Clockwork City** in 2 days.
+- **Interaction:** Kriv sought a master smith in Frosthold.
+- **NPC:** **Hjorvar Frost-Hammer** (Deep Forge).
+- **Commission:** **Glacial Plate Armor** (from Scales/Mandibles) and **2x Fang of the Frost** (from Fangs).
+- **Cost:** 1,000gp. Time: 2 Days.
+- **Status:** Crafting in progress. Items ready before departure.
+- **Downtime:** Party spent 2 days in Frosthold cementing the alliance.
+- **Time:** Day 18 (Morning).
+- **Item Upgrade:** Kriv exchanged **Gem-Studded Adamantine Splint +2** for **Glacial Plate Armor +2**.
+- **Item Acquired:** **Fang of the Frost +1** (Kriv) and **Fang of the Frost +1** (Elara).
+- **Event:** The Reaver Fleet is assembled (50 Longships).
+- **Status:** Ready to depart for the Clockwork City.
+- **Meta:** **XP Award for Ice Wyrm Hunt**.
+- **Award:** 1,600 XP each.
+- **Inventory Management:** Kriv salvaged the **Adamantine Splint Armor (Stripped)** from the scrap pile.
+- **Intent:** To sell at "The Everything Shop" later.
+- **Status:** Boarded *The Stormbreaker*. Course set for the **Clockwork City**.
+- **Command:** Kriv clarified destination: **The Golden Gear** (Sultan's Capital).
+- **Action:** Felix deployed **Never-Melting Ice Blocks** into the ship's ventilation.
+- **Effect:** Ship is air-conditioned for the desert.
+- **Travel:** 3 Days travel South to the Desert Kingdom.
+- **Arrival:** Reached the **Dune Sea**.
+- **Observation:** The Clockwork City is under siege. **Iron Legion** air fleet is engaged.
+
+## End of Chapter
+- **Continued in:** `DesertWar.md`
