@@ -3,23 +3,29 @@
 - **Name:** Aegis-7
 - **Race:** Warforged Juggernaut
 - **Class:** Fighter (Champion/Siege Breaker NPC)
-- **Level:** 5 (XP: 12749)
-- **Status:** Active (HP: 52/52)
+- **Level:** 6 (XP: 15749)
+- **Status:** Active (HP: 70/70 + 15 Temp HP)
 - **Defense:** AC 21 (Natural Armor + Plate armor +3). **Resistances:** Poison, nerotic. **Immunities:** Disease.
-- **Stats:** Strength +4 (19), Constitution +4 (18)
+- **Stats:** Strength +5 (21), Constitution +5 (20)
 - **Abilities:**
-    - **Constructed Resilience:** Advantage on saving throws against being poisoned; resistance to poison damage. Immune to disease. Don't need to sleep, eat, or breathe.
+    - **Constructed Resilience:** Advantage on saving throws against being poisoned; resistance to poison damage Immune to disease. Don't need to sleep, eat, or breathe.
+    - **Iron Core** +2 Strength, Seige Titan. 
     - **Second Wind:** Regain 1d10+5 HP (Once per short rest).
     - **Action Surge:** Take one additional action on your turn (Once per short rest).
     - **Extra Attack:** Attack twice when taking the Attack action.
     - **Immutable Form:** Immune to any spell or effect that would alter its form.
-    - **Siege Monster:** Deals double damage to objects and structures.
+    - **Siege Titan:** Deals triple damage to objects and structures (Iron Core Upgrade).
     - **Integrated Protection:** AC 21 (Natural Armor).
-    - **Silvered Siege Ram:** Unarmed strikes deal double damage to objects/structures (Stacked with Siege Monster). +1 to hit with unarmed strikes.
+    - **Silvered Siege Ram:** Unarmed strikes deal double damage to objects/structures (Stacked with Siege Titan). +1 to hit with unarmed strikes.
     - **Iron Fists:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 1d10 + 4 bludgeoning damage.
+    - **Seismic Breacher:** 2d8 Piercing damage. Burrow Speed 20ft.
     - **Morning Star Launcher:** Ranged Weapon Attack: +7 to hit, range 60/120 ft., one target. Hit: 3d6 radient damage, AOE 13 feet in a sphere where it hits. (Integrated Shoulder Mount).
     - **Sentry's Rest** When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
+    - **Divine Boon (Prophet of the Gear):**
+        - **Mind of the Machine God:** Resistance to Psychic Damage.
+        - **Voice of the Machine:** Telepathy (120ft) with Constructs. Advantage on Charisma checks vs Constructs.
+        - **Override Protocol:** 1/Long Rest, cast a specific *Command* on a Construct (DC 16 Wis Save).
  - **Spellcasting:** None.
- - **Location:** The Desert Sands (Central Necrotic Catapult).
- - **Inventory:** Sanctified Plating (+3 integrated), Silvered Siege Ram Attachment, Heavy Crossbow, Case of Bolts (19), Morning Star Launcher (Integrated), Circlet of Blasting (Integrated), 1734 Gold Pieces, Masterwork Masquerade Costume (Crimson Cape) & Mask, Leviathan Maintenance Oil, Rations (10), Waterskin.
- - **Notes:** Title: **Warden of the Forge**. Witnessed Oren's unmasking. **Recovered Memory:** Originally built as a "Warden-Class Containment Unit" to destroy the Void Star. **Status:** In Combat (Ground).
+ - **Location:** Aethelgard (The Obsidian Eye).
+ - **Inventory:** Sanctified Plating (+3 integrated), Silvered Siege Ram Attachment, Heavy Crossbow, Case of Bolts (19), Morning Star Launcher (Integrated), Circlet of Blasting (Integrated), Seismic Breacher (Integrated), Rapid-Repair Kits (5), 3334 Gold Pieces, Masterwork Masquerade Costume (Crimson Cape) & Mask, Leviathan Maintenance Oil, Rations (10), Waterskin.
+ - **Notes:** Title: **Warden of the Forge**. Title: **Prophet of the Gear** (Clockwork City). Witnessed Oren's unmasking. **Recovered Memory:** Originally built as a "Warden-Class Containment Unit" to destroy the Void Star. **Status:** Home.

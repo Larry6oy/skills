@@ -55,11 +55,369 @@
     - **Damage:** 14 Radiant to Necromancer. Engine taking DOT.
     - **Aegis Status:** Grounded on the engine (Requesting extraction).
     - **Enemy Status:** Disarray. Siege bombardment halted on 2/3 engines.
+    - **Elara:** Cast **Shatter** (Level 2) on Western Catapult.
+    - **Result:** Mechanism destroyed. Necromancer thrown off.
+    - **Status:** All 3 Siege Engines disabled/compromised.
+    - **Extraction:** Kriv ordered a "Skyhook" maneuver.
+    - **Action:** Kriv, Elara, Felix, and Kael used Ornithopters to lift Aegis-7.
+    - **Result:** Successful extraction to the *Iron Eagle*.
+    - **Outcome:** Mission Complete. Siege Engines destroyed.
 - **Status:** Siege Engines compromised. Wights engaging party.
+- **Strategic Shift:** Kriv advised deploying **Iron Walkers** to replace failing Clockwork defenses.
+- **Action:** General Kravos initiated **Protocol: Avalanche**.
+- **Event:** **Iron Striders** (Heavy Mechs) deployed via orbital drop.
+- **Observation:** The Iron Striders stabilized the front line, crushing the undead wave with superior durability/firepower.
+- **Status:** The Siege of the Golden Gear is broken. The City is secure.
+- **Action:** Kriv ordered *The Stormbreaker* to detach and proceed to the **Sultan's Palace**.
+- **Objective:** Manage the diplomatic situation regarding the **Storm Reavers**.
+- **Travel:** Short flight to the Inner City.
+- **Arrival:** The **Palace of Gears**.
+- **Encounter:** Met by **Grand Vizier Zolok** and Elite Gear-Guards at the landing pad.
+- **Atmosphere:** Tense. The Sultan is alarmed by the Reavers' presence.
+- **Action:** Kriv assured Vizier Zolok of the Storm Reavers' intentions and presented the **Writ of Negotiation**.
+- **Result:** Vizier Zolok accepted the assurance, prioritizing the immediate threat.
+- **Action:** Kriv requested immediate audience regarding **Necrotic Catapults** and enemy strategy.
+- **Travel:** Escorted to the **Throne Room of the Eternal Mechanism**.
+- **NPC:** Met **Sultan Midas** (Human/Clockwork Hybrid).
+- **Atmosphere:** The Sultan is aging/failing ("Time is winding down").
+- **Dialogue:** Sultan Midas demanded an explanation for the "Wolves" (Reavers) and the strategic situation.
+- **Interaction:** Kriv explained the Reavers' utility against Supernatural threats.
+- **Intel:** The Pharaoh is located in the **Black Pyramid** (Necropolis of the Pale Sun).
+- **Lore:** Sultan Midas is turning himself into a machine to survive a **Necrotic Curse** inflicted by the Pharaoh.
+- **Stakes:** If the Sultan succumbs/dies, the city falls.
+- **Status:** Strategic Council with the Sultan.
+- **Action:** Kriv used **Lay on Hands** (5 pts) to slow the Sultan's necrotic rot.
+- **Effect:** Sultan Midas temporarily relieved of pain/symptoms.
+- **Intel:** Identified **The Copper Keep** (Border Fortress) as the best staging ground.
+- **Status:** The Copper Keep went silent 3 days ago.
+- **Objective:** Investigate/Secure the Copper Keep as a Forward Operating Base (FOB).
+- **Downtime:** Party visited the **Gilded Bazaar** in the Clockwork City.
+- **NPC:** Met **Unit-88** (Warforged Artificer).
+- **Activity:** Assessing materials for crafting (Ice Wyrm Claws, Adamantine Scrap, Voidglass).
+- **Inquiry:** Kriv presented the **Manual of Iron Golems**, **Tunneling Claws**, **Wyvern Wings**, and **Hydra Skin**.
+- **Offer:** Unit-88 proposed:
+    - **Aegis Upgrade (Iron Core):** Using the Manual.
+    - **Seismic Breacher:** Using the Claws.
+    - **Storm-Grade Ornithopters:** Using Wings/Skin.
+- **Quote:** 2,000gp for the entire package (Previous + New items). Time: 8 Hours.
+- **Negotiation:** Kriv rejected the Armor, Scanner, and Tokens. Accepted the "Rest".
+- **Transaction:** Paid **1,600gp** (Pooled).
+- **Downtime:** Party explored the city (Steam Gardens, Cog-Market) while waiting.
+- **Completion:**
+    - **Aegis-7:** Upgraded with **Iron Core** (Str 21, Triple Siege Dmg).
+    - **Aegis-7:** Acquired **Seismic Breacher** (Drill Gauntlet) from Kriv.
+    - **Elara:** Equipped **Grips of the Glacier**.
+    - **Party:** All Ornithopters upgraded to **Storm-Grade**.
+    - **Action:** Kriv ordered General Kravos to mobilize Reavers and Clockwork units to the Copper Keep for a counter-offensive.
+    - **Reaction:** Kravos accepted eagerly ("Defense is delaying. Attack is winning.").
+    - **Departure:** Party boarded *The Stormbreaker* and departed the Golden Gear.
+    - **Destination:** **The Copper Keep**.
+    - **Observation:** Terrain shifting to necrotic sand. Atmosphere cooling.
+    - **Action:** Kriv ordered a stealth approach (Gliding/Dune Cover).
+    - **Action:** Felix used the **Resonance Emitter** to scan the Keep.
+    - **Intel:** The Keep is silent but occupied.
+    - **Scan:** Detected a "Necrotic Broadcast" from the Central Spire.
+    - **Visual:** The garrison has been turned into **Copper-Plated Zombies** (Fused with the fortress).
+    - **Status:** Holding position outside detection range.
+    - **Action:** Kriv ordered Felix to Jam the Signal using the **Resonance Emitter**.
+    - **Analysis:** Felix identified the signal as a corrupted Legion frequency.
+    - **Result:** Jamming successful. The "Network" is down.
+    - **Effect:** Copper-Plated Zombies and Turrets are disoriented/disabled.
+    - **Status:** Tactical Window open for insertion.
+    - **Action:** Kriv identified the **Electrum Orb** on the Central Spire as the Beacon.
+    - **Movement:** *The Stormbreaker* moved to the Central Spire.
+    - **Analysis:** Felix confirmed the Orb can be **Destroyed** (Deactivate Army) or **Restored** (Hijack Army).
+    - **Encounter:** 4 Elite Copper-Guardians guarding the Orb (Disoriented).
+    - **Status:** Party dropping onto the Spire. Combat Imminent.
+    - **Combat Round 1:**
+    - **Action:** Kriv fired *The Stormbreaker's* prow harpoon.
+    - **Result:** Hit Elite Copper-Guardian 1. Pulled it from the Spire onto the Ship's deck.
+    - **Engagement:** Scraps and Kriv engaging Guardian 1 on the ship.
+    - **Tactics:** Remaining 3 Guardians are on the Spire, exposed to the drop team.
+    - **Combat Round 2:**
+    - **Scraps:** Multiattack on Guardian 1. **Destroyed**.
+    - **Kriv:** Reloaded and fired Harpoon at Guardian 2.
+    - **Result:** Hit. Guardian 2 pulled onto the deck.
+    - **Status:** 2 Guardians remaining on Spire. 1 Destroyed. 1 on Deck (Prone).
+    - **Combat Round 3:**
+    - **Felix:** Cast **Web** (Level 2) on Guardian 2. **Restrained/Captured**.
+    - **Kael:** Dropped to Spire. Destroyed Guardian 3 (Halberd).
+    - **Elara:** Dropped to Spire (Dual Wielding Daggers). Destroyed Guardian 4.
+    - **Victory:** Spire Secured.
+    - **Objective:** The **Electrum Orb** is accessible.
+    - **Action:** Kriv ordered the restoration of the **Electrum Orb** to Sultan's control.
+    - **Mechanics:** Felix (Arcana) + Kael (Athletics) synchronized the Beacon.
+    - **Result:** Necrotic Corruption purged. Clockwork Network restored.
+    - **Effect:** The Copper-Plated Zombies (Garrison) entered "Standby Mode" (Neutral/Defensive).
+    - **Interrogation:** Released **Unit-Copper-4** (Guardian 2).
+    - **Intel:** Unit-44 confirms the "Pale One" used a sonic/magical signal to corrupt the metal and fuse the garrison.
+    - **Intel (Detailed):** The "Pale Signal" is an Entropic command that rusts/fuses metal. The Pharaoh controls entropy.
+    - **Objective:** The Pharaoh moved to the **Black Pyramid** to find the "**Core**" (Heart of the Machine God).
+    - **Intel (The Core):** The Core is a **Perpetual Engine**.
+    - **Threat:** If the Pharaoh "inverts" the Core, it will unleash an **Entropic Wave** that instantly rusts/destroys all metal and constructs in the region.
+    - **Action:** Kriv used the Keep's comms to signal the Golden Gear.
+    - **Result:** General Kravos confirmed receipt. Main Army (Iron Legion + Reavers) ETA 1 Hour.
+    - **Interaction:** Kriv asked about the fate of the living inhabitants.
+    - **Revelation:** The "Copper-Plated Zombies" *are* the garrison (fused to their armor). Civilians were disintegrated or harvested.
+    - **Inquiry:** Kriv asked about secret entrances to the Black Pyramid.
+    - **Intel:** Unit-Copper-4 revealed the **Adamantine Line** (Subterranean Rail Tunnel).
+    - **Obstacle:** The tunnel is collapsed (Fused Sand).
+    - **Solution:** Aegis-7's **Seismic Breacher** can drill through the blockage.
+    - **Inquiry:** Kriv asked about usable assets and the "Copper-Plated" garrison.
+    - **Asset:** The **Copper-Plated Garrison** is now active as a static defense force (linked to Orb).
+    - **Loot/Facilities:**
+        - **Deep Armory:** Contains **Explosive Alchemical Shells** and **Repair Kits**.
+        - **Maintenance Bay:** High-output repair station for Aegis-7.
+    - **Status:** The Copper Keep is secured. Forward Operating Base established.
+    - **Action:** Party looted the **Deep Armory** and used the **Maintenance Bay**.
+    - **Loot:**
+        - **Ship Ammo:** Restocked *The Stormbreaker* with Alchemical Shells.
+        - **Explosive Bolts (20):** Acquired by Kriv.
+        - **Rapid-Repair Kits (5):** Acquired by Aegis-7.
+        - **Rotary Saw-Launcher:** Acquired by Kriv.
+    - **Upgrade:** Aegis-7 received a "System Tune-Up" (Overcharged Hydraulics - 15 Temp HP).
+    - **Analysis:** Felix confirmed the **Rotary Saw-Launcher** is non-magical/mechanical.
+    - **Action:** Party moved to the **Adamantine Line** entrance.
+    - **Event:** Aegis-7 began drilling through the fused tunnel blockage.
+    - **Status:** Breaching in progress.
+    - **Event:** **The Main Army Arrives**.
+    - **Visual:** The *Iron Eagle* and Reaver Fleet arrived at the Copper Keep.
+    - **Comms:** General Kravos confirmed the "Front Door" distraction is active.
+    - **Action:** Kriv distributed supplies (Ammo to Kravos, Encouragement to Borg).
+    - **Action:** Kriv gave the **Rotary Saw-Launcher** to Commander Kael.
+    - **Action:** Kriv used **Divine Sense** at the breach site.
+    - **Result:** No immediate threats detected (Area is Desecrated but empty).
+    - **Event:** Aegis-7 breached the tunnel.
+    - **Status:** The **Adamantine Line** is open.
+    - **Action:** Elara activated the **Sun Blade** (Max Radiance).
+    - **Effect:** Bright Sunlight (30ft radius).
+    - **Visual:** The tunnel reveals the **Adamantine Line** (Rail tracks made of heavy metal).
+    - **Formation:** Aegis (Point), Elara/Felix (Center), Kriv (Rear).
+    - **Command:** Kriv ordered Elara to scout ahead using *Invisibility*.
+    - **Action:** Elara deactivated the **Sun Blade** (Stealth Mode).
+    - **Action:** Felix cast **Light** to maintain visibility for the main group.
+    - **Action:** Elara cast **Invisibility** (Level 2).
+    - **Scouting Report:**
+        - **Enemies:** **Void-Constructs** (Black Glass Scorpions) ahead.
+        - **Obstacle:** A **Purple Barrier** (Force Field) blocking the tracks.
+        - **Distance:** 300ft down the tunnel.
+    - **Status:** Elara returning to report. Party holding position.
+    - **Action:** Kriv identified the barrier as **Void-Energy** (similar to Voidglass).
+    - **Plan:** Distract Scorpions -> Solidify Barrier (Emitter) -> Smash Barrier (Aegis).
+    - **Action:** Elara (Invisible) knocked a sickle/pot onto a Scorpion (Distraction).
+    - **Result:** Scorpions investigated the noise (Lured away).
+    - **Action:** Felix used the **Resonance Emitter** to calcify the barrier.
+    - **Action:** Aegis-7 smashed the brittle barrier.
+    - **Result:** Breach successful.
+    - **Combat Start:** Ambush at the Barrier.
+    - **Condition:** **Surprise Round** (Party has advantage).
+    - **Command:** Kriv ordered Elara to hold stealth. Ordered Aegis to attack.
+    - **Action:** Aegis-7 crushed Scorpion 1 (Iron Fists). **Destroyed**.
+    - **Action:** Kriv mounted Scraps.
+    - **Action:** Kriv & Scraps attacked Scorpion 2 (Greatsword/Multiattack). **Destroyed**.
+    - **Result:** Sentry squad eliminated silently.
+    - **Observation:** Felix noted the constructs are linked; the Pyramid likely sensed their destruction.
+    - **Action:** Kriv ordered the signal connection severed.
+    - **Action:** Felix cast **Blindness/Deafness** (Level 2) on the shards.
+    - **Result:** The signal/vibration ceased. The local link to the Pyramid is broken.
+    - **Travel:** Party followed Elara to the end of the tunnel.
+    - **Arrival:** **The Foundry District** (Base of the Black Pyramid).
+    - **Environment:** Extreme Heat, Industrial Noise, Molten Metal rivers.
+    - **Scan:** Felix used Emitter. Detected high interference but pinpointed a **Massive Energy Spike** at the Central Smelter.
+    - **Observation:** Area heavily patrolled by **Void-Constructs**.
+    - **Status:** Infiltration of the Black Pyramid established.
+    - **Action:** Elara (Invisible) scouted for a way up.
+    - **Obstacle:** Locked Service Elevator (Adamantine Gate).
+    - **Action:** Elara used **Adamantine Skeleton Key** to unlock the gate.
+    - **Result:** Path to **Observation Deck** secured.
+    - **Problem:** Elevator is glass (High Visibility). Distraction required for safe ascent.
+    - **Plan:** **Split Party**.
+        - **Team Infiltration:** Elara, Felix, Kael (Taking the elevator).
+        - **Team Distraction:** Kriv, Aegis-7, Scraps (Sabotaging the Foundry).
+    - **Action:** Kriv mounted Scraps and initiated the assault on the Central Smelter.
+    - **Status:** **Team Infiltration** moving to Observation Deck.
+    - **Status:** **Team Distraction** engaging Foundry defenses.
+    - **Combat Round 1 (Foundry):**
+    - **Action:** Kriv shoved Void Construct 1 into the magma. **Destroyed**.
+    - **Action:** Kriv looted a **Molten Void-Blade** (Improvised Weapon) from the anvil.
+    - **Attack:** Hit Void Construct 2 with the Molten Blade.
+    - **Result:** Construct 2 crushed and disabled (Void/Heat damage).
+    - **Action:** Kriv threw the **Molten Void-Blade** at Construct 3.
+    - **Result:** Blade detonated. Construct 3 destroyed.
+    - **Loot:** Kriv acquired **Serrated Void-Chain** (Improvised Reach Weapon).
+    - **Threat:** A **Void-Steel Golem** has entered the Foundry.
+    - **Combat Round 2 (Foundry):**
+    - **Action:** Aegis-7 knocked the Void-Steel Golem **Prone** (Siege Ram).
+    - **Action:** Kriv used **Serrated Void-Chain** + **Immovable Rod** to pin the Golem.
+    - **Result:** The Void-Steel Golem is **Restrained/Pinned** to the floor.
+    - **Action:** Kriv looted the Golem (**Void-Heart**, **Void-Steel Scrap**).
+    - **Action:** Aegis-7 looted the Forge (**10 Void-Infused Bolts**).
+    - **Communication:** Kriv checked in with Team Infiltration.
+    - **Transition:** Perspective shift to **The Observation Deck**.
+    - **Encounter:** **Team Infiltration** vs **3 Void-Wrights** & **Shadow Guards**.
+    - **Combat Start:** The Observation Deck.
+    - **Action:** Kael engaged with **Rotary Saw-Launcher**.
+    - **Objective:** Secure the path to the Control Room.
+    - **Status:** Combat active on two fronts (Foundry & Observation Deck).
+    - **Combat Round 1 (Observation Deck):**
+    - **Action:** Kriv (Player) switched control to **Commander Kael**.
+    - **Action:** Kael used **Action Surge** to rapid-fire the **Rotary Saw-Launcher** (Full Auto).
+    - **Result:** "Swept the Room". 15 Blades fired.
+    - **Effect:** 4 Shadow Guards destroyed. 2 Void-Wrights damaged/suppressed.
+    - **Action:** Kael advanced and retrieved ammo (Scavenged 7 Blades).
+    - **Status:** Shadow Guards eliminated. Void-Wrights active. Kael ammo low.
+    - **Transition:** Perspective shift back to **The Foundry**.
+    - **Action:** Kriv delivered a coup de grâce to the pinned Void-Steel Golem.
+    - **Action:** Kriv retrieved the **Immovable Rod** and **Serrated Void-Chain**.
+    - **Status:** Void-Steel Golem destroyed. Foundry District secured.
+    - **Objective:** Rejoin Team Infiltration.
+    - **Communication:** Kriv checked status via comms.
+    - **Response:** Kael reported "All Clear" (Saw-Launcher effectiveness confirmed).
+    - **Action:** Elara sent the elevator down.
+    - **Travel:** Kriv, Aegis, and Scraps ascended to the **Observation Deck**.
+    - **Event:** **Party Reunited**.
+    - **Status:** Observation Deck secured.
+    - **Obstacle:** **Control Room Door** is sealed (Voidglass/Passcode).
+    - **Action:** Kriv examined the door (No keyhole).
+    - **Action:** Kriv used **Void-Heart** as a key card.
+    - **Result:** Door accepted the signal but requested a **Verbal Override**.
+    - **Hint:** Felix suggested checking **Zek's Journal** for the password.
+    - **Action:** Kriv read **Zek's Journal**. Found code: "**Silentium Aeternum**".
+    - **Dialogue:** Felix confirmed the threat is Entropic/Occult, not just Necromantic.
+    - **Result:** The Voidglass Seal dissolved.
+    - **Status:** The **Control Room** is open.
+    - **Action:** Party entered the **Control Room** (Sanctum of the Silent King).
+    - **Encounter:** **The Pharaoh** (The Pale King).
+    - **Objective:** Stop the Inversion of the **Core** (Perpetual Engine).
+    - **Threat:** The Pharaoh sealed the room. Combat is inevitable.
+    - **Dialogue:** Kriv challenged the Pharaoh's philosophy ("Innovation improves life").
+    - **Response:** The Pharaoh dismissed life/tech as "Noise" and "Interruptions".
+    - **Combat Start:** **The Sanctum of the Silent King**.
+    - **Boss Mechanics:** **Aura of Silence** (Dampens sound/magic). **Entropy Chains** (Binding the Core).
+    - **Objective:** Destroy the 3 Chains to free the Core.
+    - **Initiative:** Pharaoh (20), Elara (19), Kriv (14), Felix (12), Aegis (8), Kael (6).
+    - **Status:** Final Boss Encounter.
+    - **Combat Round 1:**
+        - **Elara:** Attacked **Left Chain**. (6 Dmg).
+        - **Kriv:** Attacked **Left Chain** with Greatsword. (18 Dmg).
+        - **Result:** **Left Chain Destroyed**. Core speed increased. Pharaoh damaged by backlash.
+        - **Felix:** Passed Con Save (Silence). Cast **Blindness/Deafness** (Deafness).
+        - **Pharaoh:** Failed Save. Condition: **Deafened**.
+        - **Status:** 2 Chains remaining. Pharaoh is deafened.
+        - **Aegis-7:** Used **Siege Ram** on **Middle Chain**. (Siege Titan: Triple Dmg).
+        - **Result:** **Middle Chain Destroyed**.
+        - **Kael:** Suppressed Pharaoh with **Rotary Saw-Launcher**.
+    - **Combat Round 2:**
+        - **Pharaoh:** Summoned **Sandstorm** (Heavily Obscured).
+        - **Kriv:** Flanked. Cast **Ensnaring Strike** (Level 1).
+        - **Result:** Hit. Pharaoh Failed Save. Condition: **Restrained**.
+        - **Felix:** Used **Resonance Emitter** to disrupt the Sandstorm.
+        - **Result:** The Sandstorm dissipated. Visibility restored.
+        - **Aegis-7:** Used **Siege Ram** on **Right Chain**.
+        - **Result:** **Right Chain Destroyed**. The Core is free.
+    - **Combat Round 3:**
+        - **Pharaoh:** Attempted to cast *Blight*. Failed due to Restrained condition.
+        - **Felix:** Cast **Vampiric Touch** (Level 3).
+        - **Attack:** Critical Hit on Pharaoh (Advantage).
+        - **Damage:** 22 Necrotic. Felix healed 11 HP.
+        - **Kriv:** Used **Channel Divinity: Nature's Wrath**.
+        - **Pharaoh:** Failed Save. **Double Restrained** (Immobilized).
+        - **Aegis-7:** Interfaced with the **Core**.
+        - **Result:** The Core stabilized. Inversion reversed.
+        - **Effect:** Pharaoh took massive Psychic damage from the rejection.
+        - **Status:** Pharaoh is Critical. Core is spinning freely (Inversion halted).
+    - **Interaction:** Kriv prayed to the Machine God (The Core) for judgment.
+    - **Response:** The Core/Aegis delivered the verdict: **"Scrap"** (Permanent Deletion).
+    - **Status:** The Pharaoh is awaiting execution.
+    - **Action:** Kriv executed the Pharaoh ("Goodbye. Enjoy your eternal silence.").
+    - **Effect:** The Pharaoh disintegrated into black dust.
+    - **Result:** The **Pale Sun** is extinguished. The Black Pyramid is decapitated.
+    - **Atmosphere:** The Core is stable. The necrotic influence is fading.
+    - **Victory:** **Mission Complete.**
+    - **XP Award:** **3,000 XP** each (Boss + Infiltration + Side Objectives).
+    - **Level Up:**
+        - **Aegis-7** reached **Level 6**.
+        - **Commander Kael** reached **Level 6**.
+        - **Scraps** reached **Level 6**.
+    - **Action:** Elara looted the Pharaoh's remains.
+    - **Loot:**
+        - **Staff of the Pale Sun** (Necrotic Staff).
+        - **Mask of the Silent King** (Stealth/Thunder Resist).
+        - **Vial of Void Sand** (Crafting).
+    - **Action:** Kriv asked Aegis about the next steps.
+    - **Action:** Aegis-7 broadcasted a "Cease Function" signal via the Core.
+    - **Result:** The Undead Army outside deactivated. The war is effectively over.
+    - **Dialogue:** Aegis-7 declared "I am done with gods."
+    - **Action:** Kriv ordered Elara to store the artifacts in the Bag of Holding.
+    - **Inventory:** **Staff of the Pale Sun** and **Mask of the Silent King** transferred to Felix (Bag).
+    - **Travel:** Party exited the Black Pyramid.
+    - **Encounter:** Met with **General Kravos** and **Jarl Borg** at the entrance.
+    - **Dialogue:** Kriv announced victory ("Order is restored").
+    - **Response:** Kravos and Borg acknowledged the victory and the alliance.
+    - **Action:** Kriv ordered the fleet to return to **The Golden Gear**.
+    - **Travel:** Aerial return journey. Weather is clear.
+    - **Arrival:** The **Royal Air-Dock** (Golden Gear).
+    - **Encounter:** **Sultan Midas** met the party on the landing pad.
+    - **Observation:** The Sultan's curse is healing. He is focused on Aegis-7.
+    - **Dialogue:** Midas requested an audience with "The Future" (Aegis).
+    - **Interaction:** Kriv inquired about the Sultan's curse.
+    - **Confirmation:** Sultan Midas confirmed the rot has stopped. He is healing.
+    - **Action:** Kriv presented Aegis-7 as the "Liberator of the Core".
+    - **Offer:** Kriv invited Midas to the Black Pyramid to commune with the Machine God.
+    - **Reaction:** Midas accepted the pilgrimage. He recognized Aegis-7 as the "Prophet of the Gear".
+    - **Status:** Diplomatic relations at peak.
+    - **Transition:** Grand Vizier Zolok initiated the reward phase.
+    - **Negotiation:** Kriv formalized the treaty terms (100,000gp to Aethelgard + Trade Rights).
+    - **Result:** Zolok accepted. Payment loaded onto *The Stormbreaker*.
+    - **Reward:** Party received a **10,000gp** personal bounty.
+    - **Distribution:** Split 5 ways (2,000gp each) to include Commander Kael.
+    - **Status:** The Desert War is concluded. The Alliance is secure.
+    - **Next Move:** Return to Aethelgard.
+    - **Action:** Kriv ordered a celebration before departure.
+    - **Event:** **The Festival of the Gear**.
+    - **Atmosphere:** Joyous. The city is alive with music and light.
+    - **Activity:** Feast at the Palace.
+    - **Interaction:** Jarl Borg vs Steam-Golem (Drinking Contest).
+    - **Rest:** Long Rest taken at the Palace of Gears.
+    - **Time:** Day 22 (Morning).
+    - **Status:** Party fully rested. Ready to depart for Aethelgard.
+    - **Action:** Felix retrieved the **Never-Melting Ice Block** from the ship's ventilation.
+    - **Inventory:** Ice Block stored in Bag of Holding.
+    - **Travel:** 3 Days aerial travel to Aethelgard.
+    - **Arrival:** **Aethelgard (Citadel Docks)**.
+    - **Status:** The Wardens have returned home.
+    - **Action:** Kriv contemplated keeping the 100,000gp (Temptation).
+    - **Action:** Party confirmed the split of the 10,000gp personal reward.
+    - **Travel:** Transported the 100,000gp to **The Citadel**.
+    - **Encounter:** Audience with **King Alaric** and **Duke Aethelred**.
+    - **Result:** The Gold was delivered. Aethelgard's treasury is restored.
+    - **Status:** Mission officially concluded. The Council adjourned.
+    - **Travel:** Party returned to **The Hearth & Anvil** (Guildhall).
+    - **Activity:** Guildhall Management.
+    - **Revenue (Bar):** **500gp** profit (30 Days).
+    - **Revenue (Shop):** **3,000gp** (Sold **Ring of Protection** to Lord Percival).
+    - **Inventory:** Felix emptied the Bag of Holding (Artifacts/Ice Block).
+    - **Display:** Kriv placed **Adamantine Splint Armor (Stripped)** on display in the shop.
+    - **Action:** Elara moved **Never-Melting Ice Block** to the Kitchen/Pantry.
+    - **Action:** Felix cast **Identify** on the Pharaoh's Loot.
+    - **Result:**
+        - **Staff of the Pale Sun:** +1 Staff, 1d6 Necrotic, Casts *Silence*/*Blindness*.
+        - **Mask of the Silent King:** Adv Stealth, Thunder Resist, Cannot Shout.
+    - **Dialogue:** Party discussed keeping vs selling. Leaning toward selling/storing.
+    - **Decision:** Kriv decided to sell the artifacts to a specialist (Varrick) rather than the public shop.
+    - **Travel:** Party moved to **The Obsidian Eye** (Magic District).
+    - **Interaction:** Met with **Varrick**.
+    - **Observation:** Varrick sensed the "Dead God" aura on the artifacts.
+    - **Status:** Trading session initiated.
+    - **Atmosphere:** Profitable and Efficient (Unseen Servants).
 
 ### Current Status
- - **Location:** Airborne (Ornithopter Drop - Siege Engine Flank).
- - **State:** Insertion / Combat Imminent.
+ - **Location:** Aethelgard (The Obsidian Eye).
+ - **State:** Shopping / Trading.
+
+### Current Status
+ - **Location:** The Black Pyramid (Foundry District).
+ - **State:** Infiltration.
  - **Weather:** Scorching Sun.
  - **Party Condition:** Fully Rested.
 
