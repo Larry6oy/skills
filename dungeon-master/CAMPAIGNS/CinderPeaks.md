@@ -132,11 +132,32 @@
 - **Action:** Kriv took the remaining munitions to the **Citadel**.
 - **Objective:** Present technology to the War Council.
 - **Status:** Debriefing.
+- **Communication:** Kriv messaged Sylas via Black Card.
+- **Report:** "Mission Complete. Dragon calmer. Border secured."
+- **Response:** Sylas approved. Covenant monitoring the East.
+- **Event:** **War Council Debrief**.
+- **Report:** Kriv confirmed the **Treaty of Cinder**. The Jade Empire is an **Ally/Trade Partner**.
+- **Action:** Kriv presented the **Thunder Lances** (Diplomatic Gift) to the Council.
+- **Outcome:** War averted. Trade route established.
+- **Reaction:** General Marcus intrigued by the tech. King Alaric relieved.
+- **Dialogue:** Kriv shared tactical intel: "Sakura Shogunate" uses a **Three-Rank Formation** to mitigate reload times.
+- **Reaction:** General Marcus recognized the value (Continuous Fire). Plans to adapt it for the Iron Legion drills.
+- **Travel:** Party returned to **The Hearth & Anvil**.
+- **Status:** Downtime / Rest.
+- **Planning:** Kriv proposed the next adventure: **The Kingdom Above** (Floating Islands/Air Plane).
+- **Intel:** Rumors of Air Genasi, Aarakocra, and "Lighter-than-Air Gas" technology.
+- **Consensus:** Party agreed to investigate.
+    - **Felix:** Interested in the magic/physics (Solid Clouds).
+    - **Aegis:** Interested in sustainable lift technology.
+    - **Elara:** Interested in new culture/music.
 
 ### Current Status
- - **Location:** Aethelgard (Citadel War Room).
- - **State:** Council Meeting.
+ - **Location:** Aethelgard (The Hearth & Anvil).
+ - **State:** Planning Next Adventure.
  - **Time:** Day 32 (Morning).
+
+## End of Chapter
+- **Next Adventure:** The Kingdom Above.
  - **Weather:** Volcanic Smog / Ashfall.
  - **Party Condition:** Fully Rested.
  - **Assets:**

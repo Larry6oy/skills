@@ -4,7 +4,7 @@
 - **Race:** Warforged Juggernaut
 - **Class:** Fighter (Champion/Siege Breaker NPC)
 - **Level:** 6 (XP: 15749)
-- **Status:** Active (HP: 70/70 + 15 Temp HP)
+- **Status:** Active (HP: 70/70)
 - **Defense:** AC 21 (Natural Armor + Plate armor +3). **Resistances:** Poison, Nerotic, Psychic. **Immunities:** Disease.
 - **Stats:** Strength +5 (21), Constitution +5 (20)
 - **Abilities:**
@@ -27,6 +27,6 @@
         - **Voice of the Machine:** Telepathy (120ft) with Constructs. Advantage on Charisma checks vs Constructs.
         - **Override Protocol:** 1/Long Rest, cast a specific *Command* on a Construct (DC 16 Wis Save).
  - **Spellcasting:** None.
- - **Location:** Aethelgard (Citadel Docks).
+ - **Location:** Aethelgard (The Hearth & Anvil).
  - **Inventory:** Sanctified Plating (+3 integrated), Silvered Siege Ram Attachment, Heavy Crossbow, Case of Bolts (19), Morning Star Launcher (Integrated), Circlet of Blasting (Integrated), Seismic Breacher (Integrated), Adamantine Grapple (Integrated), Rapid-Repair Kits (5), 2734 Gold Pieces, Masterwork Masquerade Costume (Crimson Cape) & Mask, Rations (10), Waterskin, Horn of the Pack.
- - **Notes:** Title: **Warden of the Forge**. Title: **Prophet of the Gear** (Clockwork City). Witnessed Oren's unmasking. **Recovered Memory:** Originally built as a "Warden-Class Containment Unit" to destroy the Void Star. **Status:** Mission Complete.
+ - **Notes:** Title: **Warden of the Forge**. Title: **Prophet of the Gear** (Clockwork City). Witnessed Oren's unmasking. **Recovered Memory:** Originally built as a "Warden-Class Containment Unit" to destroy the Void Star. **Status:** Shopping.
