@@ -13,7 +13,8 @@
     - **Action Surge:** Take one additional action on your turn (Once per short rest).
     - **Multiattack:** Makes two melee attacks.
     - **Adamantine Ironwood Halberd:** +8 to hit, reach 10 ft., 1d10+6 slashing damage. Deals double damage to objects.
- - **Location:** Aethelgard (The Obsidian Eye).
- - **Status:** Home.
- - **Inventory:** Splint Armor, Adamantine Ironwood Halberd +1 (Equipped), Starfall Greatsword (+1, Radiant), Rotary Saw-Launcher (Approx 5 Blades left), Commander's Formal Mantle (Equipped), Glass Dagger (Looted), Storm-Grade Ornithopter (Equipped), 400 Gold Pieces.
- - **Notes:** Defector from the Iron Legion. Joined the Wardens to stop the Cult. **Status:** Diplomacy.
+    - **Void-Plate Greatsword:** +8 to hit, 2d6+6 slashing + 1d4 force damage. Siege Weapon (Double damage to objects).
+ - **Location:** Aethelgard (Citadel Docks).
+ - **Status:** Mission Complete.
+ - **Inventory:** Splint Armor, Void-Plate Greatsword (Equipped), Adamantine Ironwood Halberd +1, Starfall Greatsword (+1, Radiant), Rotary Saw-Launcher (Approx 5 Blades left), Commander's Formal Mantle (Equipped), Glass Dagger (Looted), Storm-Grade Ornithopter (Equipped), 1850 Gold Pieces, Monster Bait.
+ - **Notes:** Defector from the Iron Legion. Joined the Wardens to stop the Cult.

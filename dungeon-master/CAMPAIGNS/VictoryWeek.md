@@ -1,0 +1,243 @@
+# Campaign Log: The Victory Week
+
+## Session 1: A Golden Age
+- **Party:** Kriv (Lvl 6), Elara (Lvl 6), Felix (Lvl 6), Aegis-7 (Lvl 6).
+- **Location:** Aethelgard (The Platinum Chalice).
+- **Time:** Day 22 (Evening).
+- **Context:** The Desert War is won. The Iron Legion is allied. The Void Star is contained. The party has entered a period of celebration and downtime.
+
+### Major Events
+- **Planning:** The party reviewed the "Social Ledger" and decided to attend all major upcoming events.
+- **Schedule:**
+    1.  **The Arcaneum Expo (Days 24-26):** Science and Magic.
+    2.  **The Duke's Grand Hunt (Day 27):** Sport and Politics.
+    3.  **Night of a Thousand Stars (Day 28):** Arts and Culture.
+- **Status:** Downtime allows for roleplay, crafting, and establishing the Guildhall's reputation.
+
+### Current Status
+ - **Location:** Aethelgard (The Hearth & Anvil).
+ - **State:** Downtime (Day 23 - Morning).
+ - **Objective:** Guildhall Management / Free Time.
+ - **Party Condition:** Fully Rested.
+ - **Action:** Kriv gave **Diamond Dust** to Elara for *Revivify*.
+ - **Action:** Party returned to the Guildhall for the night.
+ - **Event:** Long Rest taken.
+ - **Time:** Day 23.
+ - **Dialogue:** Kriv suggested Felix present his research at the Expo.
+ - **Action:** Felix agreed. Departed for the **Arcaneum** to register.
+ - **Transaction:** Felix paid **50gp** for a presentation stall.
+ - **Topic:** "Tactical Translocation: Combat Applications of Teleportation."
+ - **Dialogue:** Kriv suggested Felix present on Void Magic dangers.
+ - **Response:** Felix considered it as a "Safety Advisory" but stuck to Teleportation for the main event.
+ - **Action:** Kriv visited the Guildhall Vault.
+ - **Loot:** Retrieved **Refined Adamantine (2 Pouches)**.
+ - **Correction:** The Void Star is destroyed (Previous Arc). The Vault Safe is empty.
+ - **Action:** Kriv placed the **Void-Heart** (Looted from Pharaoh's Golem) into the safe.
+ - **Status:** Void artifact secured.
+ - **Interaction:** Kriv visited Vanya at the Expo to check on Ooze Research.
+ - **Intel:**
+    - **Virulent Jelly:** Creates toxic gas ("Widow's Breath"). Confiscated by Citadel.
+    - **Acidic Jelly:** Melts metal quickly (Breaching tool).
+    - **Void Jelly:** Eats magic (Anti-Magic). Dangerous/Unstable.
+ - **Shop:** Vanya offered prototypes:
+    - **Siege-In-A-Bottle (Heavy Ooze):** 50gp. Creates cover/blockade.
+    - **Locksmith's Friend (Acidic Gel):** 100gp. Melts locks silently.
+ - **Dialogue:** Vanya confirmed **Reanimating Jelly** is in Citadel custody.
+ - **Dialogue:** Vanya confirmed **Regenerating Jelly** is still mutating (unsafe).
+ - **Transaction:** Kriv bought **2x Siege-In-A-Bottle** and **1x Locksmith's Friend**.
+ - **Cost:** 200gp.
+ - **Dialogue:** Kriv advised Vanya to research "Ooze Transfer" (Weapon Coatings).
+ - **Reaction:** Vanya is inspired. Plans to develop "Ooze-Whetstones".
+ - **Travel:** Party moved to the **Main Stage**.
+ - **Event:** Felix's Presentation: "Tactical Translocation".
+ - **Situation:** Felix needs a volunteer to save the presentation.
+ - **Action:** Kriv volunteered ("Do your worst").
+ - **Spell:** Felix cast a modified **Thunder Step** (Inverted/Arrival Damage).
+ - **Result:** Target dummies destroyed. Crowd impressed. Presentation Success.
+ - **Dialogue:** Kriv complimented Felix's spell modification ("The Hammer Drop").
+ - **Result:** Guildhall reputation increased (Academic/Innovation).
+ - **Dialogue:** Kriv pitched a ballad idea to Elara for the **Night of a Thousand Stars**.
+ - **Time:** Day 24 (Evening).
+ - **Travel:** Party returned to **The Hearth & Anvil**.
+ - **Status:** Resting.
+ - **Interaction:** Kriv toasted Felix ("Student becomes Master").
+ - **Dialogue:** Felix accepted the praise but defended his "nervousness" as survival instinct.
+ - **Interaction:** Kriv checked on Elara's Ballad.
+ - **Progress:** Elara shared a draft verse of "The Iron Heart". Planning pyrotechnics with Aegis.
+ - **Input:** Kriv suggested rhyming "Juggernaut" with "Dreadnought".
+ - **Result:** Elara accepted the revision.
+ - **Rest:** Long Rest taken.
+ - **Time:** Day 25 (Morning).
+ - **Travel:** Party moved to **Thalor's Smithy**.
+ - **Action:** Picked up commissions.
+ - **Loot:**
+    - **Kriv:** Void-Gauntlet Flail.
+    - **Kael:** Void-Plate Greatsword.
+    - **Aegis-7:** Adamantine Grapple.
+ - **Party Split:** Elara/Felix stayed to work. Kriv/Aegis/Kael went shopping.
+ - **Travel:** Kriv, Aegis, Kael moved to **The Verdant Chase** (High District).
+ - **NPC:** Met **Lord Hawthorne** (Proprietor).
+ - **Context:** Preparing for **The Duke's Grand Hunt**.
+ - **Shop:** Viewed hunting gear (Boar Spears, Bait, Snares, Scent Mask).
+ - **Transaction:** Kriv bought **Heavy Boar Spear** and **3x Hunter's Snares** (130gp).
+ - **Transaction:** Kael bought **Monster Bait** (50gp).
+ - **Transaction:** Aegis-7 bought **Horn of the Pack** (100gp).
+ - **Correction:** Removed **Void-Heart** from Kriv's inventory (Stored in Vault).
+ - **Status:** Shopping complete. Ready for the Expo (Day 24).
+ - **Travel:** Party moved to **Thalor's Smithy** (Artisan's Quarter).
+ - **Action:** Kriv presented **Serrated Void-Chain** and **Refined Adamantine** for crafting.
+ - **Offer:** Thalor proposed 3 options (1,000gp cost, 2 Days time):
+    1. **Void-Meteor Flail** (Reach, Force Dmg, Pull/Prone).
+    2. **Abyssal Chain-Blade** (Transforming Greatsword/Whip).
+    3. **Entropy Lash** (Necrotic Whip, Grapple).
+ - **Request:** Kriv requested a "Wrist-Mounted" Flail (Bonus Action/No Swap).
+ - **Solution:** Thalor designed the **Void-Gauntlet Flail** (Integrated into Ogre Gauntlets).
+ - **Constraint:** The Chain can only make one item.
+ - **Workaround:** Used **Void-Steel Scrap** for Kael and **Adamantine** for Aegis.
+ - **Final Order:**
+    1. **Kriv:** **Void-Gauntlet Flail** (Chain). Cost: 1,000gp. **Stats:** 1d6 Bludg + 1d4 Force. Reach 10ft. Bonus Action. **Gravity Well** (Crit: Pull/Prone).
+    2. **Kael:** **Void-Plate Greatsword** (Scrap). Cost: 1,000gp. **Stats:** 2d6 Slash + 1d4 Force. **Siege Weapon**.
+    3. **Aegis-7:** **Adamantine Grapple** (Adamantine). Cost: 1,000gp. **Stats:** Range 60ft. Pull/Restrain.
+ - **Transactions:**
+    - **Kriv:** Paid 1,000gp.
+    - **Kael:** Paid 1,000gp.
+    - **Aegis-7:** Paid 1,000gp.
+ - **Materials Consumed:** Serrated Void-Chain, Void-Steel Scrap, Refined Adamantine.
+ - **Time:** Items ready Day 25 (Morning).
+ - **Status:** Commission finalized.
+ - **Rest:** Long Rest taken at the Guildhall.
+ - **Time:** Day 24 (The Arcaneum Expo).
+ - **Travel:** Party moved to the **Magic District**.
+ - **Activity:** Attending the Expo. Felix presenting. Vanya exhibiting.
+ - **Wealth:**
+    - **Kriv:** 48gp (approx).
+    - **Guildhall:** Fully Funded.
+ - **Travel:** Party returned to **The Hearth & Anvil**.
+ - **Action:** Kriv tested the **Void-Gauntlet Flail** on a dummy.
+ - **Observation:** **Gravity Well** effect confirmed (Implosion/Pull).
+ - **Action:** Kriv checked the **Everything Shop** ledger.
+ - **Sale:** **Adamantine Splint Armor (Stripped)** sold to Iron Legion (Centurion Drusus).
+ - **Profit:** **500gp** (Collected by Kriv).
+ - **Status:** Ring of Spell Storing remains unsold.
+ - **Travel:** Kriv moved to **The Arcaneum Expo** (Day 25).
+ - **Activity:** Browsing stalls.
+ - **Shops Found:**
+    1. **The Crystal Phial:** Potions (Speed, Water Breathing, Slipperiness).
+    2. **Scrolls & Scribes:** Scrolls (Fly, Dispel Magic, Protection from Energy).
+    3. **Glimmer & Glitz:** Wondrous Items (Driftglobe, Dust of Disappearance, Wind Fan).
+ - **Transaction:** Kriv bought **Scroll of Fly** and **Scroll of Dispel Magic**.
+ - **Cost:** 600gp -> Discounted to **540gp** (Reputation/Haggle).
+ - **Status:** Shopping Complete.
+ - **Next Event:** The Duke's Grand Hunt (Day 27).
+ - **Travel:** Party returned to the Guildhall.
+ - **Downtime:** Day 26 spent resting and preparing.
+ - **Inventory:** Kriv gave **Scroll of Fly** to Felix and **Scroll of Dispel Magic** to Elara.
+ - **Activity:** Kriv prepared his gear for the hunt.
+ - **Time:** Day 27 (Morning).
+ - **Travel:** Party moved to the **Royal Hunting Lodge** (King's Wood).
+ - **Event:** **The Duke's Grand Hunt** begins.
+ - **Participants (The Competition):**
+    - **Royal:** Duke Aethelred, Sir Gideon, General Marcus.
+    - **Rivals:** Dame Valera (Silver Flame), Lord Percival (Noble).
+    - **Mercenaries:** "Red" Rogar, The Goliath (Bodyguard).
+    - **Rabble:** Various lesser nobles.
+ - **Objective:** Hunt the **Dire Boar**. First Blood / Killing Blow prizes.
+ - **Action:** Kriv mounted Scraps and equipped the **Heavy Boar Spear**.
+ - **Strategy:** **Ambush (Tactical)**.
+ - **Action:** Kriv set a **Hunter's Snare** at a chokepoint near Old Creek.
+ - **Command:** Ordered Aegis-7 and Kael to flush the target ("Make some noise").
+ - **Event:** The Flush was successful. The Dire Boar is charging the chokepoint.
+ - **Combat Round 1 (Ambush):**
+    - **Kriv:** Triggered Readied Action (Heavy Boar Spear).
+    - **Result:** Hit (21 Dmg). **First Blood**.
+    - **Trap:** Dire Boar stepped into **Hunter's Snare**.
+    - **Result:** Trap triggered (9 Dmg). Boar is **Restrained**.
+    - **Status:** Dire Boar is prone/restrained and bloodied (30 Dmg total).
+    - **Kael/Aegis:** Arrived at rear (Flanking).
+    - **Action:** Kriv attacked with **Void-Gauntlet Flail**.
+    - **Damage:** 1d6+4 (Bludg) + 1d4 (Force). **Killing Blow**.
+    - **Effect:** **Gravity Well** crushed the skull.
+    - **Perception:** Kriv spotted Dame Valera (Rival) nearby.
+    - **Interaction:** Valera acknowledged the kill and withdrew.
+ - **Victory:** **The Grand Hunt Won.**
+ - **Status:** Securing the Trophy.
+ - **Action:** Kriv ordered Kael to skin the beast using the **Glass Dagger**.
+ - **Loot:** **Dire Boar Hide**, **Dire Boar Tusks**.
+ - **Travel:** Returned to the **Hunting Lodge**.
+ - **Event:** Prize Ceremony.
+ - **Reward:** **25,000 Silver Pieces** (2,500gp value).
+ - **Distribution:** Split 5 ways (500gp each).
+ - **Feast:** Party feasted with the Duke.
+ - **Travel:** Returned to **The Hearth & Anvil**.
+ - **Time:** Day 27 (Night).
+ - **Action:** Elara performed a "Dress Rehearsal" in the Guildhall Tavern.
+ - **Result:** Positive reception from patrons (Iron Legionnaires).
+ - **Rest:** Long Rest taken.
+ - **Time:** Day 28 (Evening).
+ - **Event:** **The Night of a Thousand Stars** (Bardic Competition).
+ - **Location:** The Grand Amphitheater.
+ - **Coordination:** Kriv set cues for Aegis ("Dreadnought/Step out") and Felix ("Star/Pyro").
+ - **Act 1:** Thalanil (Elf). Technical, boring.
+ - **Act 2:** Merry Muggers (Halflings). Fun, sloppy.
+ - **Act 3 (Finale):** Elara performed "The Ballad of the Iron Heart".
+    - **Visuals:** Aegis-7 stage entrance on cue.
+    - **Special Effects:** Felix's Pyrotechnics + Morning Star Launcher on climax.
+    - **Reception:** Standing Ovation.
+ - **Status:** The Finale. No acts follow.
+ - **Judging:**
+    - **Lady Veria:** 10/10 (Artistry).
+    - **General Marcus:** 10/10 (Power).
+    - **Caelum:** 9/10 (Technique).
+ - **Result:** **Elara Wins** the Night of a Thousand Stars.
+ - **Reward:** Title: **Royal Court Minstrel**. Prize: **1,000gp** (Platinum Lute Trophy).
+ - **Action:** Kriv joined the stage. Cheered for Aegis ("Prophet of the Gear").
+ - **Atmosphere:** Ecstatic. The Wardens are local legends.
+ - **Declaration:** Elara announced drinks at **The Hearth & Anvil**.
+ - **Travel:** Party returned to **The Hearth & Anvil**.
+ - **Activity:** Victory party at the Guildhall.
+ - **Dialogue:** Party discussed the next move (Sylas/Covenant, Void, Dragons).
+ - **Dialogue:** Kriv instructed Felix/Elara to learn the scrolls.
+ - **Action:** Felix scribed **Fly** (Cost: 150gp, Scroll Consumed).
+ - **Dialogue:** Elara kept **Scroll of Dispel Magic** as a backup (Already knows spell).
+ - **Rest:** Long Rest taken at the Guildhall.
+ - **Time:** Day 29 (Morning).
+ - **Status:** Party fully rested. Victory Week Concluded.
+ - **State:** Downtime / New Adventure.
+ - **Action:** Kriv checked the **Black Card** and **Covenant Signet Ring**.
+ - **Confirmation:** Ring credit is unused (0/5000gp spent). **No Debt** to Covenant.
+ - **Communication:** Kriv messaged Sylas ("We are listening").
+ - **Response:** Sylas invited the party to **The Velvet Masque** (Noble District) at dusk.
+ - **Context:** Meeting as "Equals".
+ - **Action:** Party equipped Masquerade Costumes/Formal Wear.
+ - **Action:** Aegis-7 used **Leviathan Maintenance Oil** (Polished/Shiny).
+ - **Party Split:** Scraps left to guard the Guildhall.
+ - **Travel:** Party moved to **The Velvet Masque** (Noble District).
+ - **Atmosphere:** Exclusive, secretive, high-society.
+ - **Encounter:** Meeting **Sylas** (Crimson Covenant).
+ - **Status:** Social Encounter (Diplomacy).
+ - **Dialogue:** Kriv asked about the "Rotten Architecture".
+ - **Response:** Sylas clarified the Kingdom is "Mortgaged" (Founder's Pact debt remains).
+ - **Warning:** Destroying the Star removed a deterrent. New threats are approaching.
+ - **Lead:** Sylas provided a **Black Envelope** regarding a threat in the **Cinder Peaks**.
+ - **Dialogue:** Kriv noted the East is the "Land of the Moon" (Jade Kingdoms/Black Powder).
+ - **Confirmation:** Sylas agreed. Identified the Cinder Peaks as the border.
+ - **Specific Threat:** **Ancient Red Dragon** has awoken in the Peaks.
+ - **Political Threat:** The **Jade Empire** is mobilizing an army (Black Powder Legion) to hunt it.
+ - **Objective:** Slay the Dragon before the Jade Empire establishes a foothold on the border.
+ - **Action:** Kriv opened the Black Envelope.
+ - **Intel:** Target identified as **Vermithrax the Eternal**. Location: **The Molten Spire**.
+ - **Intel:** The Jade Empire is 3 days out.
+ - **Mission:** "Race to the Dragon". Kill it to deter the invasion.
+ - **Dialogue:** Kriv asked about "Black Powder" and "Thunder Lances" (Jade Tech).
+ - **Response:** Sylas confirmed the threat: Non-magical, lethal, mass-producible weapons.
+ - **Side Objective:** Recover a **Thunder Lance** sample for study/reverse-engineering.
+ - **Departure:** Sylas left.
+ - **Status:** Mission Accepted. Meeting Adjourned.
+ - **Action:** Kriv ordered immediate departure for the **Cinder Peaks**.
+ - **Travel:** Party retrieved **Scraps** from the Guildhall.
+ - **Travel:** Boarded *The Stormbreaker* at Citadel Docks.
+ - **Launch:** The ship departed Aethelgard, heading East.
+ - **Time:** Day 29 (Evening).
+
+## End of Chapter
+- **Continued in:** `CinderPeaks.md`

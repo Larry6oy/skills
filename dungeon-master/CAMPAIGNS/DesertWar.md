@@ -408,18 +408,41 @@
     - **Travel:** Party moved to **The Obsidian Eye** (Magic District).
     - **Interaction:** Met with **Varrick**.
     - **Observation:** Varrick sensed the "Dead God" aura on the artifacts.
+    - **Dialogue:** Kriv explained the fall of the Pharaoh and the liberation of the Machine God.
+    - **Offer:** Varrick offered **4,000gp Cash** or **5,000gp Credit** for the Staff and Mask.
+    - **Stock:** Varrick revealed special items:
+        - **Cloak of Displacement** (4,000gp).
+        - **Ring of Evasion** (3,500gp).
+        - **Horn of Valhalla (Silver)** (5,000gp).
+    - **Inquiry:** Kriv asked about Scrolls and Components.
+    - **Stock:** Varrick revealed "Eastern" stock:
+        - **Scrolls (Lvl 4):** *Dimension Door*, *Polymorph*, *Greater Invisibility* (500gp each).
+        - **Components:** Diamond Dust (300gp), Pearls (100gp).
+    - **Dialogue:** Kriv noted Felix/Elara need XP for 4th-level spells. Asked for "boosters".
+    - **Offer:** Varrick offered **XP Tomes** (Consumables, 2,500 XP):
+        - **Codex of the Weave** (Wizard) - 1,500gp.
+        - **Libretto of Echoes** (Bard) - 1,500gp.
+        - **Manual of the Warlord** (Martial) - 1,500gp.
+    - **Decision:** Kriv rejected the XP Tomes.
+    - **Transaction:** Traded **Staff of the Pale Sun** and **Mask of the Silent King** for **5,000gp Credit**.
+    - **Purchase (Credit):** **Horn of Valhalla (Silver)**.
+    - **Purchase (Cash):** **Diamond Dust** (300gp) and **Scroll of Dimension Door** (500gp).
+    - **Cost:** Kriv paid **800gp**.
+    - **Loot:**
+        - **Kriv:** Horn of Valhalla (Silver), Diamond Dust.
+        - **Felix:** Scroll of Dimension Door (To be vaulted).
     - **Status:** Trading session initiated.
     - **Atmosphere:** Profitable and Efficient (Unseen Servants).
+    - **Travel:** Party moved to **The Platinum Chalice** (High District).
+    - **Activity:** Checked the Social Ledger for upcoming events (1 Week Downtime).
+    - **Events Found:**
+        1.  **The Arcaneum Expo (Days 24-26):** Magic/Artifice exhibition.
+        2.  **The Duke's Grand Hunt (Day 27):** Hunt for a Dire Boar. Prize: Silver + Favor.
+        3.  **Night of a Thousand Stars (Day 28):** Bardic Competition.
+    - **Status:** Planning downtime schedule.
+    - **Time:** Day 22 (Afternoon).
+    - **Decision:** Party decided to participate in all major events (Expo, Hunt, Competition).
+    - **Status:** Schedule set.
 
-### Current Status
- - **Location:** Aethelgard (The Obsidian Eye).
- - **State:** Shopping / Trading.
-
-### Current Status
- - **Location:** The Black Pyramid (Foundry District).
- - **State:** Infiltration.
- - **Weather:** Scorching Sun.
- - **Party Condition:** Fully Rested.
-
-### Notes
-- **Alliance:** Iron Legion (Present), Storm Reavers (Present), Wardens (Present).
+## End of Chapter
+- **Continued in:** `VictoryWeek.md`

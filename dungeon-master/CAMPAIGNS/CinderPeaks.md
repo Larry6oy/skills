@@ -1,0 +1,144 @@
+# Campaign Log: The Cinder Peaks
+
+## Session 1: Race to the Fire
+- **Party:** Kriv (Lvl 6), Elara (Lvl 6), Felix (Lvl 6), Aegis-7 (Lvl 6).
+- **Location:** Airborne (En route to the Cinder Peaks).
+- **Time:** Day 29 (Night).
+- **Context:** The party is racing against the **Jade Empire's Black Powder Legion** to slay **Vermithrax the Eternal** (Ancient Red Dragon).
+
+### Objectives
+1.  **Primary:** Slay Vermithrax the Eternal at **The Molten Spire**.
+2.  **Secondary:** Prevent the Jade Empire from establishing a foothold.
+3.  **Bonus:** Recover a sample of **Black Powder / Thunder Lance** technology.
+
+### Log
+- **Rest:** Long Rest taken on *The Stormbreaker*.
+- **Event:** Entered **The Ashlands** (Volcanic Region).
+- **Observation:** Magnetic interference detected. Sulfur smell.
+- **Action:** Kriv scanned the horizon with a spyglass.
+- **Visual:** Sighted **The Molten Spire** (Active Volcano).
+- **Visual:** Sighted **The Black Powder Legion** (Jade Empire) at the base.
+- **Intel:** Enemy has established a **Siege Camp** with Cannons and Thunder Lances.
+- **Visual:** **Vermithrax** (Dragon) spotted flying above the peak.
+- **Decision:** Kriv chose **Diplomacy**.
+- **Action:** Kael piloted *The Stormbreaker* for a controlled descent.
+- **Action:** Elara waved the **Yellow Flag of Truce**.
+- **Reaction:** The Legion held fire. Cannons tracked the ship.
+- **Landing:** Ship grounded at the edge of the camp.
+- **Encounter:** **General Meng** (Jade Empire).
+- **Dialogue:** Kriv introduced the party (Wardens of the Forge) and their titles.
+- **Proposal:** Kriv proposed a temporary alliance to kill **Vermithrax**.
+- **Reasoning:** Common goal (Stop the Dragon/Volcano).
+- **Reaction:** General Meng acknowledged the Wardens' reputation.
+- **Situation:** The Legion is pinned down by the Dragon's high ground advantage.
+- **Alliance Terms:** Meng accepted. The Legion will provide ground distraction; Wardens will strike the summit.
+- **Status:** Negotiating Strategy.
+- **Strategy:** Kriv proposed a **Pincer Attack**.
+    - **Legion:** Bombard the base to draw aggro/flush the dragon.
+    - **Wardens:** Aerial drop from *The Stormbreaker* into the Lair (Summit).
+- **Diplomacy:** Kriv hinted at interest in **Thunder Lances**.
+- **Agreement:** General Meng accepted the plan.
+- **Reward Promise:** Meng promised a crate of **Thunder Lances** (and Black Powder) if the dragon is slain.
+- **Status:** Plan locked. Battle stations.
+- **Action:** Party boarded *The Stormbreaker*. Kriv signaled the launch.
+- **Event:** The Legion commenced bombardment. Vermithrax distracted.
+- **Movement:** Ship ascending to the summit for the drop.
+- **Status:** Aerial Assault Initiated.
+- **Command:** Kriv ordered "FIRE THE HARPOONS!".
+- **Action:** Prow Harpoons fired at Vermithrax.
+- **Result:** Hits. Vermithrax is **Tethered/Grappled** by the ship.
+- **Effect:** Ship is jolted/restrained.
+- **Combat Start:** The Battle of the Molten Spire.
+- **Initiative:** Vermithrax (1), Kriv (2), Elara (3), Felix (4), Aegis (5), Kael (6).
+- **Threat:** Vermithrax is preparing Breath Weapon.
+- **Round 1:**
+    - **Command:** Kriv ordered "Drag him down" (Into artillery range).
+    - **Action:** Elara dived the ship. Vermithrax pulled into cannon range.
+    - **Vermithrax:** **Fire Breath** hit the ship's hull (Underside). Ship taking Heat Damage.
+    - **Legion:** Artillery Barrage. Vermithrax took massive damage.
+    - **Felix:** Readied *Counterspell*/*Shield*.
+    - **Status:** Vermithrax is climbing the harpoon chains toward the deck.
+- **Round 2:**
+    - **Action:** Kriv equipped **Storm-Grade Ornithopter** and launched.
+    - **Attack:** Kriv used **Breath Weapon** (Lightning) on Vermithrax's neck.
+    - **Result:** 14 Lightning Dmg. Vermithrax distracted (Released one claw).
+    - **Status:** Kriv is Airborne. Vermithrax is focused on Kriv/Ship.
+    - **Aegis-7:** Fired **Adamantine Grapple**. Hit Vermithrax's neck. **Grappled**.
+    - **Elara:** Tightened Harpoon winch. Vermithrax is **Restrained**.
+    - **Legion:** Full Volley. Vermithrax took **200+ Siege Damage**. **Bloodied**.
+    - **Vermithrax:** Panic Breath (Fire) directed at the Ship.
+    - **Damage:** 56 Fire Damage to Hull and Deck.
+    - **Crisis:** *The Stormbreaker* is burning. Party on deck must Save.
+    - **Kriv:** Safe in the air (Ornithopter).
+    - **Status:** Round 3.
+- **Round 3:**
+    - **Command:** Kriv ordered Felix to Shield (Ineffective vs Breath) and Kael to toss Scraps's Saddle.
+    - **Felix:** Took **56 Fire Damage**. **Unconscious/Dying**.
+    - **Kael:** Threw **Custom Saddle** to Kriv.
+    - **Kriv:** Caught saddle, landed on Vermithrax, and **Saddled the Dragon**.
+    - **Result:** Kriv is mounted on Vermithrax (Grappled/Restrained).
+    - **Threat:** Vermithrax is rolling to crush Kriv against the ship hull.
+    - **Status:** Crisis. Ship burning. Wizard down. Kriv riding a dragon.
+- **Round 4:**
+    - **Action:** Kriv pried the Harpoons and Grapple loose.
+    - **Command:** Ordered ship to retreat/fire and heal Felix.
+    - **Elara:** Cast **Healing Word**. Felix stabilized (+7 HP).
+    - **Ship:** Separated and ascended. Fired Thunder Cannons (45 Dmg).
+    - **Aegis-7:** Fired Morning Star Launcher (14 Dmg).
+    - **Vermithrax:** Vertical Climb (High-G Maneuver) to dislodge Kriv.
+    - **Kriv:** Passed Athletics Check. Maintained mount.
+    - **Status:** Kriv is solo on the Dragon. Ship is providing air support.
+- **Round 5:**
+    - **Action:** Kriv stabbed **Immovable Rod** into the dragon's neck wound and activated it.
+    - **Dialogue:** "Stay" (Ancient Draconic).
+    - **Physics:** Dragon ascended; Rod stayed still. Massive trauma to neck/skull.
+    - **Damage:** 45 Force/Piercing Damage.
+    - **Effect:** Vermithrax is **Stunned** and **Falling**.
+    - **Status:** The dragon is crashing into the Molten Spire crater.
+    - **Kriv:** Riding the crash.
+- **Round 6:**
+    - **Action:** Kriv deactivated and retrieved the **Immovable Rod**.
+    - **Action:** Kriv used **Lay on Hands** (5 HP) to repair the dragon's wing joints.
+    - **Result:** Vermithrax regained flight control.
+    - **Event:** Controlled crash-landing on the crater rim.
+    - **Status:** Vermithrax is Alive, Prone, and Subdued (exhausted). Kriv is mounted.
+- **Diplomacy:** Kriv proposed a **Three-Way Negotiation** (Aethelgard, Jade Empire, Vermithrax).
+- **Language:** Draconic.
+- **Vermithrax:** Agreed to the parley (Grudgingly).
+- **Action:** Vermithrax flew Kriv down to the Siege Camp under a **Yellow Flag** (Signaled by ship).
+- **Landing:** Dragon landed in the camp. Hostilities paused.
+- **Encounter:** **The Summit of Cinder**. (Kriv, Vermithrax, General Meng).
+- **Status:** High-Stakes Diplomacy.
+- **Action:** Kriv signaled *The Stormbreaker* to land.
+- **Dialogue:** Kriv deferred to Elara ("You are better at politics... I am here as a translator").
+- **Action:** Kriv retrieved the **Custom Owlbear Saddle** from Vermithrax and re-equipped it on **Scraps**.
+- **Status:** Elara takes the lead in negotiations.
+
+- **Negotiation:** Kriv acted as translator. Elara negotiated terms.
+- **Outcome:** **Treaty of Cinder**.
+    - **Jade Empire:** Withdraws to the East. Establishes trade potential.
+    - **Vermithrax:** Retains the Molten Spire. Guards the border.
+    - **Aethelgard:** Secures the Western flank.
+- **Loot:** General Meng gifted a **Crate of Thunder Lances (10)** and **Keg of Black Powder** as a "sample".
+- **Departure:** Party boarded *The Stormbreaker* and departed.
+- **Travel:** 2 Days aerial travel back to Aethelgard.
+- **Event:** Safe journey.
+- **Arrival:** **Aethelgard (Citadel Docks)**.
+- **Travel:** Party moved to **The Hearth & Anvil**.
+- **Loot Distribution:**
+    - **Guildhall:** 2 Thunder Lances mounted for decoration (Main Hall).
+    - **Elara:** Received 1 Thunder Lance + 10 Shots (Powder/Ammo).
+    - **War Council:** Kriv reserved 7 Thunder Lances + Bulk Powder.
+- **Action:** Kriv took the remaining munitions to the **Citadel**.
+- **Objective:** Present technology to the War Council.
+- **Status:** Debriefing.
+
+### Current Status
+ - **Location:** Aethelgard (Citadel War Room).
+ - **State:** Council Meeting.
+ - **Time:** Day 32 (Morning).
+ - **Weather:** Volcanic Smog / Ashfall.
+ - **Party Condition:** Fully Rested.
+ - **Assets:**
+    - **The Stormbreaker:** Armed and Air-Conditioned (Ice Blocks).
+    - **Black Envelope:** Dossier on the target.

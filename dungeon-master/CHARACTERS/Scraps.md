@@ -12,5 +12,5 @@
     - **Multiattack:** Makes two attacks: one with beak and one with claws.
     - **Beak:** +9 to hit, 1d10+6 piercing damage.
     - **Claws:** +9 to hit, 2d8+6 slashing damage.
- - **Location:** Aethelgard (The Obsidian Eye).
- - **Notes:** Tamed by Kriv. Loyal to the "Pack". Equipped with Custom Saddle. **Status:** Home.
+ - **Location:** Aethelgard (Citadel Docks).
+ - **Notes:** Tamed by Kriv. Loyal to the "Pack". Equipped with Custom Saddle. **Status:** Mission Complete.
