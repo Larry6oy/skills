@@ -20,13 +20,15 @@
     - **Iron Fists:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 1d10 + 4 bludgeoning damage.
     - **Seismic Breacher:** 2d8 Piercing damage. Burrow Speed 20ft.
     - **Morning Star Launcher:** Ranged Weapon Attack: +7 to hit, range 60/120 ft., one target. Hit: 3d6 radient damage, AOE 13 feet in a sphere where it hits. (Integrated Shoulder Mount).
-    - **Adamantine Grapple:** Range 60ft. Action to fire. Target (Large or smaller) must succeed DC 16 Str save or be pulled up to 30ft toward you. If they end adjacent, they are Grappled (Escape DC 16).
+    - **Adamantine Grapple (High-Torque):** Range 60ft. Action to fire. Target (Large or smaller) must succeed DC 16 Str save or be pulled up to 30ft toward you. **Can lift Aegis vertically.**
+    - **Pulse Thrusters:** Bonus Action. Jump distance tripled or Fly 30ft (land at end of turn). 3 Charges/Day.
+    - **Aetheric Slingshot (Synergy):** While airborne (Thrusters), can use Grapple to anchor and 'swing' an additional 30ft, or reel into an enemy for a **Meteor Strike** (+1d8 dmg per 10ft fallen).
     - **Sentry's Rest** When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
     - **Divine Boon (Prophet of the Gear):**
         - **Mind of the Machine God:** Resistance to Psychic Damage.
         - **Voice of the Machine:** Telepathy (120ft) with Constructs. Advantage on Charisma checks vs Constructs.
         - **Override Protocol:** 1/Long Rest, cast a specific *Command* on a Construct (DC 16 Wis Save).
  - **Spellcasting:** None.
- - **Location:** Aethelgard (The Hearth & Anvil).
- - **Inventory:** Sanctified Plating (+3 integrated), Silvered Siege Ram Attachment, Heavy Crossbow, Case of Bolts (19), Morning Star Launcher (Integrated), Circlet of Blasting (Integrated), Seismic Breacher (Integrated), Adamantine Grapple (Integrated), Rapid-Repair Kits (5), 2734 Gold Pieces, Masterwork Masquerade Costume (Crimson Cape) & Mask, Rations (10), Waterskin, Horn of the Pack.
- - **Notes:** Title: **Warden of the Forge**. Title: **Prophet of the Gear** (Clockwork City). Witnessed Oren's unmasking. **Recovered Memory:** Originally built as a "Warden-Class Containment Unit" to destroy the Void Star. **Status:** Shopping.
+ - **Location:** Aetheria (The Vapor-Den).
+ - **Inventory:** Sanctified Plating (+3 integrated), Silvered Siege Ram Attachment, Heavy Crossbow, Case of Bolts (19), Morning Star Launcher (Integrated), Circlet of Blasting (Integrated), Seismic Breacher (Integrated), **Adamantine Grapple (High-Torque)** (Integrated), **Pulse Thrusters** (Integrated), Rapid-Repair Kits (5), 2359 Gold Pieces, Masterwork Masquerade Costume (Crimson Cape) & Mask, Rations (10), Waterskin, Horn of the Pack.
+ - **Notes:** Title: **Warden of the Forge**. Title: **Prophet of the Gear** (Clockwork City). Witnessed Oren's unmasking. **Recovered Memory:** Originally built as a "Warden-Class Containment Unit" to destroy the Void Star. **Status:** Guarding Kriv in the Vapor-Den.

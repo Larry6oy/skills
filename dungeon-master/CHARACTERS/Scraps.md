@@ -12,5 +12,5 @@
     - **Multiattack:** Makes two attacks: one with beak and one with claws.
     - **Beak:** +9 to hit, 1d10+6 piercing damage.
     - **Claws:** +9 to hit, 2d8+6 slashing damage.
- - **Location:** Aethelgard (The Hearth & Anvil).
- - **Notes:** Tamed by Kriv. Loyal to the "Pack". Equipped with Custom Saddle. **Status:** Waiting.
+ - **Location:** Aetheria (The Vapor-Den).
+ - **Notes:** Tamed by Kriv. Loyal to the "Pack". Equipped with Custom Saddle. **Status:** Alert in the Vapor-Den.

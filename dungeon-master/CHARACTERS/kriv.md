@@ -8,7 +8,7 @@
 - **Defense:** AC 20 total (Plate +2). **Resistances:** Lightning, Necrotic, Force, Cold. **Reduction:** -3 damage from non-magical B/P/S (Heavy Armor Master).
 - **Stats:** Strength +4 (19), Charisma +1
 - **Abilities:**
-    - **Breath Weapon:** Lightning Line (1/1)
+    - **Breath Weapon:** Lightning Line (0/1)
     - **Divine Sense:** Detect Undead/Fiends (4/4 uses)
     - **Divine Health:** Immune to disease.
     - **Feat:** Heavy Armor Master (+1 Str, -3 dmg from non-magical B/P/S).
@@ -21,6 +21,14 @@
     - **Inspiration:** 1 use
     - **Divine Smite:** Unlock at Level 2
     - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (4/4 Slots Level 1, 2/2 Slots Level 2)
- - **Location:** Aethelgard (The Hearth & Anvil)
- - **Inventory:** Gem-Studded Glacial Plate Armor +2 (Equipped), Gauntlets of Ogre Power (Attuned/Equipped), Cloak of the Manticore (Equipped), Dark-Steel Greatsword (+1 dmg, Lightning Rune, Heavy Charge, Radiant Coating), Void-Gauntlet Flail (Integrated), Returning Javelins (6) [Equipped], Heavy Boar Spear, Holy Symbol, 0 Copper Pieces, 312 Silver Pieces, 508 Gold Pieces, 0 Platinum Pieces, Ring of Necrotic Resistance (Attuned), Periapt of Wound Closure (Attuned), Brooch of Shielding (Attuned), Silver Locket, Holy Water (4), Potion of Acid Resistance, Potion of Superior Healing, Iron Key, Loaded Dice (6s), Fair Iron Dice, Heavy Crossbow +1, Case of Bolts (11), Adamantine-Tipped Bolts (10), Explosive Bolts (20), Void-Infused Bolts (10), Beast Balm, Iron Tongs, Alchemical Firebomb (4), Scroll of Protection from Evil and Good, Heavy Iron Key, Map to Wave Echo Cave, Potion of Greater Healing, Key Ring, War Chest Key, Black Card (Crimson Covenant), Covenant Signet Ring (5,000gp Credit), Rusty Iron Key, Letter from Thul, Duke's Warrant, Masterwork Masquerade Costume (Blue/Gold) & Mask, Writ of Negotiation (Iron Legion & Storm Reavers), Cloak of the Mountebank, Rations (9), Waterskin, Healer's Kit, Blueprint: Iron Eagle Skyship, Storm-Grade Ornithopter, Bastion Vault Key, Zek's Journal, Void Focus, Blackwood's Ledger, Unfinished Letter to King, Royal Mason's Key Ring, Crumpled Note, Petrified Heartwood (Remnants), Voidglass Shards (Sample), Ring of Warmth, Fang of the Frost +1 (Frost Dagger), Immovable Rod, Horn of Valhalla (Silver), Hunter's Snare (2), Siege-In-A-Bottle (2), Locksmith's Friend, Dire Boar Hide, Dire Boar Tusks, Black Envelope (Opened), Custom Owlbear Saddle (Equipped on Scraps).
-      - **Notes:** Title: **Warden of the Forge**. **Champion of the Realm**. **War Council Member**. **Covenant Status:** Neutral/No Debt. **Radiant Coating:** Deals extra radiant damage (1d6 (2d6 to undead/feinds)). **Glacial Plate:** Cold Resist, 1d6 Cold Retribution (Melee). **Void-Gauntlet Flail:** Bonus Action Attack. 1d6 Bludg + 1d4 Force. Reach 10ft. Gravity Well (Crit: Pull/Prone). **Status:** Shopping.
+ - **Location:** Aetheria (The Vapor-Den)
+ - **Inventory:**
+    - **Equipped:** Gem-Studded Glacial Plate Armor +2, Gauntlets of Ogre Power (Attuned), Cloak of the Manticore, Dark-Steel Greatsword (+1 dmg, Lightning Rune, Heavy Charge, Radiant Coating), Void-Gauntlet Flail (Integrated), Returning Javelins (6), Holy Symbol, Cloak of the Mountebank.
+    - **Currency:** 8 GP, 312 SP, 0 CP, 0 PP. **[Covenant Credit: 5,000 GP]**
+    - **Consumables:** Holy Water (4), Potion of Acid Resistance, Potion of Superior Healing, Potion of Greater Healing, Beast Balm, Alchemical Firebomb (4), Case of Bolts (11), Adamantine-Tipped Bolts (10), Explosive Bolts (20), Void-Infused Bolts (10), Rations (9), Waterskin, Healer's Kit.
+    - **Tools/Misc:** Iron Tongs, Loaded Dice (6s), Fair Iron Dice, Immovable Rod, Horn of Valhalla (Silver), Hunter's Snare (2), Siege-In-A-Bottle (2), Locksmith's Friend, Custom Owlbear Saddle (on Scraps), Resonance Emitter.
+    - **Quest/Lore:** Map to Wave Echo Cave, Black Card (Covenant), Writ of Negotiation, Blueprint: Iron Eagle Skyship, Storm-Grade Ornithopter, Bastion Vault Key, Zek's Journal, Void Focus, Blackwood's Ledger, Unfinished Letter to King, Royal Mason's Key Ring, Crumpled Note, Voidglass Shards (Sample), Dire Boar Hide, Black Envelope (Opened), **Iron-Oak Sapling (Stasis-Bound - For Guildhall)**, **Vizier's Seal (Aether-Tech Access)**.
+    - **Gifts:** Bottled Djinn-Dance, Censer of Memory.
+    - **Ship Cargo:** Iron-Root Anchor (Installed), **The Silver Arrow (Zephyr Skiff)** [Moored at Zenith Terrace].
+      - **Notes:** Title: **Warden of the Forge**. **Champion of the Realm**. **War Council Member**. **Covenant Status:** Neutral/No Debt. **Radiant Coating:** Deals extra radiant damage (1d6 (2d6 to undead/feinds)). **Glacial Plate:** Cold Resist, 1d6 Cold Retribution (Melee). **Void-Gauntlet Flail:** Bonus Action Attack. 1d6 Bludg + 1d4 Force. Reach 10ft. Gravity Well (Crit: Pull/Prone). **Status:** Fully Rested.
+      - **Status:** Learning about the Star-Iron Battery.

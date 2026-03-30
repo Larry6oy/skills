@@ -17,6 +17,11 @@
      - **Cutting Words:** Reaction to reduce enemy rolls.
     - **Spellcasting:** Vicious Mockery, Mage Hand, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter, Heat Metal, Hypnotic Pattern, Suggestion, Silence, Dispel Magic, Revivify, Leomund's Tiny Hut, Darkness, Dissonant Whispers. (4/4 Lvl 1, 3/3 Lvl 2, 3/3 Lvl 3).
         - **Darkvision:** Can see in dim light.
- - **Location:** Aethelgard (The Hearth & Anvil).
-  - **Inventory:** Glamoured Studded Leather Armor (+1 AC) [Equipped], Sun Blade (Inactive/Attuned), Vindicator's Blade (+1 Longsword vs Undead) [Carried], Vane's Bulwark (+1 Shield) [Equipped], Ironwood Shield (Necrotic Resist) [Spare], Dagger of Venom (Equipped), Adamantine Skeleton Key, Bag of Tricks (Gray) [3/3 Charges], Lute, Torches (8), Hempen Rope (50ft), 4598 Gold Pieces, 190 Silver Pieces, Crude Map, Copy of Crypt Map, Potion of Healing (5), Shortbow, Quiver (19 Arrows), Rations (9), Waterskin, Healer's Kit, Throne Room Key, Small Iron Key, Potion of Heroism, Boots of Elvenkind (Equipped), Iron Cask (Empty), Holy Water, Fang of the Many (+1 Acid Dagger) [Equipped], Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Storm-Grade Ornithopter (Equipped), Fang of the Frost +1 (Frost Dagger), Grips of the Glacier (Equipped), Vial of Void Sand, Diamond Dust (300gp value), Scroll of Dispel Magic, Platinum Lute Trophy, Thunder Lance (Musket), Black Powder Shot (10).
- - **Notes:** Title: **Warden of the Forge**. Title: **Royal Court Minstrel**. Found Thul's letter. **Status:** Shopping.
+ - **Location:** Aetheria (Vapor District - Aether-Smithies).
+ - **Inventory:**
+    - **Equipped:** Glamoured Studded Leather Armor +1, Sun Blade (Inactive), Vane's Bulwark +1, Dagger of Venom, Fang of the Many (+1 Acid), Grips of the Glacier, Boots of Elvenkind, Storm-Grade Ornithopter.
+    - **Currency:** 923 Gold Pieces, 190 Silver Pieces. **[1,800gp Paid for Aether-Silver Armor]**
+    - **Consumables:** Potion of Healing (5), Potion of Heroism, Holy Water, Rations (9), Waterskin, Healer's Kit, Black Powder Shot (10).
+    - **Tools/Misc:** Lute, Platinum Lute Trophy, Thunder Lance (Musket), Adamantine Skeleton Key, Bag of Tricks (Gray) [3/3], Torches (8), Hempen Rope (50ft), Iron Cask (Empty), Winter Wolf Cloaks (Party Set), Snow Goggles. **[Pending: Aether-Silver Half-Plate]**
+    - **Quest/Lore:** Crude Map, Copy of Crypt Map, Throne Room Key, Small Iron Key, Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Fang of the Frost +1 (Spare), Vial of Void Sand, Diamond Dust (300gp), Scroll of Dispel Magic.
+ - **Notes:** Title: **Warden of the Forge**. Title: **Royal Court Minstrel**. Found Thul's letter. **Status:** Meeting the Aether-Smiths.

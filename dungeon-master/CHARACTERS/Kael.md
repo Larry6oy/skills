@@ -14,7 +14,12 @@
     - **Multiattack:** Makes two melee attacks.
     - **Adamantine Ironwood Halberd:** +8 to hit, reach 10 ft., 1d10+6 slashing damage. Deals double damage to objects.
     - **Void-Plate Greatsword:** +8 to hit, 2d6+6 slashing + 1d4 force damage. Siege Weapon (Double damage to objects).
- - **Location:** Aethelgard (The Hearth & Anvil).
- - **Status:** Shopping.
- - **Inventory:** Splint Armor, Void-Plate Greatsword (Equipped), Adamantine Ironwood Halberd +1, Starfall Greatsword (+1, Radiant), Rotary Saw-Launcher (Approx 5 Blades left), Commander's Formal Mantle (Equipped), Glass Dagger (Looted), Storm-Grade Ornithopter (Equipped), 1850 Gold Pieces, Monster Bait.
+ - **Location:** Aetheria (Vapor District - Aether-Smithies).
+ - **Status:** Apprenticing with Aether-Smiths (Tech Transfer).
+ - **Inventory:**
+    - **Equipped:** Splint Armor, Void-Plate Greatsword, Commander's Formal Mantle, Storm-Grade Ornithopter.
+    - **Weapons (Spare):** Adamantine Ironwood Halberd +1, Starfall Greatsword (+1, Radiant), Rotary Saw-Launcher (5 Blades), Glass Dagger.
+    - **Currency:** 1475 GP. **[375gp Contribution Paid]**
+    - **Consumables:** Monster Bait, Owlbear Treats.
+    - **Tools/Misc:** Sharpening Stone.
  - **Notes:** Defector from the Iron Legion. Joined the Wardens to stop the Cult.
