@@ -3,7 +3,7 @@
 - **Name:** Kael
 - **Race:** Hobgoblin
 - **Class:** Fighter (Battle Master NPC)
-- **Level:** 6 (XP: 15715)
+- **Level:** 6 (XP: 16465)
 - **Status:** Alive (HP: 58/58) (Fully Rested)
 - **Defense:** AC 17 (Splint Armor).
 - **Stats:** High Strength (+4), High Constitution (+3)
@@ -14,12 +14,13 @@
     - **Multiattack:** Makes two melee attacks.
     - **Adamantine Ironwood Halberd:** +8 to hit, reach 10 ft., 1d10+6 slashing damage. Deals double damage to objects.
     - **Void-Plate Greatsword:** +8 to hit, 2d6+6 slashing + 1d4 force damage. Siege Weapon (Double damage to objects).
- - **Location:** Aetheria (Vapor District - Aether-Smithies).
- - **Status:** Apprenticing with Aether-Smiths (Tech Transfer).
+ - **Location:** Aetheria (The Vapor-Den).
+ - **Status:** Guarding the Battery.
  - **Inventory:**
     - **Equipped:** Splint Armor, Void-Plate Greatsword, Commander's Formal Mantle, Storm-Grade Ornithopter.
     - **Weapons (Spare):** Adamantine Ironwood Halberd +1, Starfall Greatsword (+1, Radiant), Rotary Saw-Launcher (5 Blades), Glass Dagger.
-    - **Currency:** 1475 GP. **[375gp Contribution Paid]**
-    - **Consumables:** Monster Bait, Owlbear Treats.
+    - **Currency:** 1475 GP.
+    - **Consumables:** Monster Bait, Owlbear Treats, Sump-Crawler Meat.
     - **Tools/Misc:** Sharpening Stone.
+    - **Harvest:** Iridescent Chitin Plates, Corrosive Mandibles.
  - **Notes:** Defector from the Iron Legion. Joined the Wardens to stop the Cult.

@@ -3,7 +3,7 @@
 - **Name:** Scraps
 - **Race:** Owlbear
 - **Class:** Companion
-- **Level:** 6 (XP: 15714) 
+- **Level:** 6 (XP: 16464) 
 - **Status:** Alive (HP: 59/59)
 - **Defense:** AC 13 (Natural Armor).
 - **Stats:** Strength +6 (22), Constitution +3 (17)
@@ -13,4 +13,4 @@
     - **Beak:** +9 to hit, 1d10+6 piercing damage.
     - **Claws:** +9 to hit, 2d8+6 slashing damage.
  - **Location:** Aetheria (The Vapor-Den).
- - **Notes:** Tamed by Kriv. Loyal to the "Pack". Equipped with Custom Saddle. **Status:** Alert in the Vapor-Den.
+ - **Notes:** Tamed by Kriv. Loyal to the "Pack". Equipped with Custom Saddle. **Status:** Shaking off silt.

@@ -3,7 +3,7 @@
 - **Name:** Kriv
 - **Race:** Blue Dragonborn
 - **Class:** Paladin
-- **Level:** 6 (XP: 20756)
+- **Level:** 6 (XP: 21506)
 - **Status:** Alive (HP: 54/54)
 - **Defense:** AC 20 total (Plate +2). **Resistances:** Lightning, Necrotic, Force, Cold. **Reduction:** -3 damage from non-magical B/P/S (Heavy Armor Master).
 - **Stats:** Strength +4 (19), Charisma +1
@@ -20,15 +20,15 @@
     - **Lay on Hands:** 30/30 HP healing pool (Level 6)
     - **Inspiration:** 1 use
     - **Divine Smite:** Unlock at Level 2
-    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (4/4 Slots Level 1, 2/2 Slots Level 2)
+    - **Spellcasting:** Ensnaring Strike, Speak with Animals, Bless, Command, Thunderous Smite. (4/4 Slots Level 1, 1/2 Slots Level 2)
  - **Location:** Aetheria (The Vapor-Den)
  - **Inventory:**
-    - **Equipped:** Gem-Studded Glacial Plate Armor +2, Gauntlets of Ogre Power (Attuned), Cloak of the Manticore, Dark-Steel Greatsword (+1 dmg, Lightning Rune, Heavy Charge, Radiant Coating), Void-Gauntlet Flail (Integrated), Returning Javelins (6), Holy Symbol, Cloak of the Mountebank.
+    - **Equipped:** Gem-Studded Glacial Plate Armor +2, Gauntlets of Ogre Power (Attuned), Cloak of the Manticore, Dark-Steel Greatsword (+1 dmg, Lightning Rune, Radiant Coating), Void-Gauntlet Flail (Integrated), Returning Javelins (6), Holy Symbol.
     - **Currency:** 8 GP, 312 SP, 0 CP, 0 PP. **[Covenant Credit: 5,000 GP]**
     - **Consumables:** Holy Water (4), Potion of Acid Resistance, Potion of Superior Healing, Potion of Greater Healing, Beast Balm, Alchemical Firebomb (4), Case of Bolts (11), Adamantine-Tipped Bolts (10), Explosive Bolts (20), Void-Infused Bolts (10), Rations (9), Waterskin, Healer's Kit.
-    - **Tools/Misc:** Iron Tongs, Loaded Dice (6s), Fair Iron Dice, Immovable Rod, Horn of Valhalla (Silver), Hunter's Snare (2), Siege-In-A-Bottle (2), Locksmith's Friend, Custom Owlbear Saddle (on Scraps), Resonance Emitter.
-    - **Quest/Lore:** Map to Wave Echo Cave, Black Card (Covenant), Writ of Negotiation, Blueprint: Iron Eagle Skyship, Storm-Grade Ornithopter, Bastion Vault Key, Zek's Journal, Void Focus, Blackwood's Ledger, Unfinished Letter to King, Royal Mason's Key Ring, Crumpled Note, Voidglass Shards (Sample), Dire Boar Hide, Black Envelope (Opened), **Iron-Oak Sapling (Stasis-Bound - For Guildhall)**, **Vizier's Seal (Aether-Tech Access)**.
+    - **Tools/Misc:** Iron Tongs, Loaded Dice (6s), Fair Iron Dice, Immovable Rod, Horn of Valhalla (Silver), Hunter's Snare (2), Siege-In-A-Bottle (2), Locksmith's Friend, Custom Owlbear Saddle (on Scraps).
+    - **Quest/Lore:** Map to Wave Echo Cave, Black Card (Covenant), Writ of Negotiation, Blueprint: Iron Eagle Skyship, Storm-Grade Ornithopter, Bastion Vault Key, Zek's Journal, Void Focus, Blackwood's Ledger, Unfinished Letter to King, Royal Mason's Key Ring, Crumpled Note, Voidglass Shards (Sample), Dire Boar Hide, Black Envelope (Opened), **Iron-Oak Sapling (Stasis-Bound - For Guildhall)**, **Vizier's Seal (Aether-Tech Access)**, **Resonance Key**.
     - **Gifts:** Bottled Djinn-Dance, Censer of Memory.
     - **Ship Cargo:** Iron-Root Anchor (Installed), **The Silver Arrow (Zephyr Skiff)** [Moored at Zenith Terrace].
       - **Notes:** Title: **Warden of the Forge**. **Champion of the Realm**. **War Council Member**. **Covenant Status:** Neutral/No Debt. **Radiant Coating:** Deals extra radiant damage (1d6 (2d6 to undead/feinds)). **Glacial Plate:** Cold Resist, 1d6 Cold Retribution (Melee). **Void-Gauntlet Flail:** Bonus Action Attack. 1d6 Bludg + 1d4 Force. Reach 10ft. Gravity Well (Crit: Pull/Prone). **Status:** Fully Rested.
-      - **Status:** Learning about the Star-Iron Battery.
+      - **Status:** Received Resonance Key.

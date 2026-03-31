@@ -261,4 +261,82 @@
     - **Context:** Cargo was jettisoned during a chase; currently in the silt beds.
     - **Hazards:** Aether-Leeches and a **Sump-Crawler**.
     - **Reward:** The **Resonance Key**.
+- **Intel (Star-Iron):** Rare material from the "Great Black" (Space).
+    - **Properties:** "Fixed Essence" (Stable, infinite energy).
+    - **Utility:** Powers Phase-Shifting Arrays to detect hidden/phased objects.
+- **Intel (Vesper's Goal):** She intends to use the battery to map the Empty Islands and bypass Archon security.
 - **Status:** Negotiating with Cloud-Thieves.
+- **Intel (Metallurgy):** Kriv inquired about **Dark-steel**.
+    - **Composition:** Confirmed as an alloy of **Star-metal (Star-Iron)** and **Refined Adamantine**.
+    - **Property:** Star-metal component acts as a "Magical Sponge," allowing high energy retention.
+- **Action:** Kriv accepted Vesper's deal.
+- **Item Acquired:** **Vapor-Chute Pass** (Access to Chute 4).
+- **Intel:** The quickest route to the Sump is via **Chute 4** (Industrial Waste Vent).
+- **Warning:** The Star-Iron Battery is unstable if damaged; the Sump-Crawler is attracted to metal.
+- **Status:** Arrived at Chute 4.
+- **Movement:** Party moved to the entrance of **Vapor-Chute 4**.
+- **Observation:** The entrance is a tarnished silver hatch with a triangular coin-slot pedestal.
+- **Environment:** High-vibration, industrial noise, and extreme vertical drop into green-grey mist.
+- **Status:** Descending.
+- **Action:** Kriv used the **Vapor-Chute Pass** to trigger the descent.
+- **Event:** Party descended 4,000ft via air-brakes.
+- **Location:** Arrived in **The Aether-Sump**.
+- **Atmosphere:** Thick air, green phosphorescence, stagnant silt beds, industrial runoff.
+- **Hazard:** Detected subterranean vibrations (Sump-Crawler presence).
+- **Status:** Combat Initiated.
+- **Action:** Aegis-7 used the **Seismic Breacher** to burrow into the silt and intercept the beast.
+- **Action:** Aegis-7 used **Pulse Thrusters** (1 Charge) to heave the creature to the surface.
+- **Encounter:** **The Sump-Crawler**.
+    - **Description:** 30ft segmented crustacean-horror, iridescent black plates, corrosive mandibles.
+    - **Condition:** Surface-bound and pinned by Aegis-7.
+- **Tactical:** The creature has physical resistance and corrosive attacks.
+- **Initiative:**
+    - Kriv & Scraps (18), Elara (16), Sump-Crawler (14), Felix (12), Aegis-7 (8).
+- **Status:** Round 1 of Combat.
+- **Action:** Kriv charged and attacked with **Dark-Steel Greatsword** (Advantage via Aegis-7).
+- **Attack 1:** Hit. Used **Divine Smite** (Level 2 Slot) + **Heavy Charge**.
+- **Attack 2:** Hit. (Extra Attack).
+- **Damage:** Massive Slashing, Radiant, and Lightning damage dealt.
+- **Effect:** Sump-Crawler is heavily damaged/bloodied.
+- **Dialogue:** "You like Sky-Steel? Try this!"
+- **Action:** Kriv used **Bonus Action** attack with **Void-Gauntlet Flail**.
+- **Damage:** 10 Total (Bludgeoning/Force). Carapace further compromised.
+- **Action (Elara):** Cast **Shatter** (Level 2) on the creature's back.
+- **Effect:** Sump-Crawler failed save. Carapace shattered; creature is **Vulnerable** to physical damage for the next round.
+- **Action (Sump-Crawler):** Retaliated against the "pin" (Aegis-7).
+    - **Attack:** Snapped mandibles at Aegis-7. Hit.
+    - **Damage:** 19 Total (Piercing/Corrosive). Aegis-7 HP: 51/70.
+- **Action (Felix):** Cast **Magic Missile** (Level 1) at the exposed joints.
+    - **Damage:** 12 Force damage.
+- **Action (Aegis-7):** Executed **Extra Attack** with Iron Fists while pinning.
+    - **Damage:** 24 Bludgeoning (Vulnerable).
+- **Status:** End of Round 1. Sump-Crawler is in critical condition.
+- **Round 2 Begins:**
+- **Initiative:** Kriv (18).
+- **Action:** Kriv used **Bonus Action** to slam the **Void-Gauntlet Flail** into the silt.
+- **Intent:** Trigger **Gravity Well** to displace the creature.
+- **Result:** Success (Athletics 19). The silt imploded, dragging the Sump-Crawler 10ft away from Kriv and breaking the pin.
+- **Action:** Kriv used **Action** to **Dodge**.
+- **Status:** Kriv is defensive; Sump-Crawler is displaced.
+- **Observation (Kriv):** Spotted the **Star-Iron Battery** half-buried in the silt (exposed by the Gravity Well).
+- **Action (Scraps):** Attacked the wounded creature. (28 Dmg).
+- **Action (Elara):** Used **Sun Blade** to deliver the finishing blow. (19 Radiant Dmg).
+- **Outcome:** **Sump-Crawler Slain**.
+- **Status:** Combat Resolved.
+- **Objective Update:** Star-Iron Battery localized.
+- **Action:** Kriv used **Iron Tongs** to safely retrieve the **Star-Iron Battery**.
+- **Action:** Kael harvested the Sump-Crawler.
+- **Loot (Harvest):** **Iridescent Chitin Plates**, **Corrosive Mandibles**, **Sump-Crawler Meat**.
+- **Action:** Elara searched the immediate area (Nothing further found).
+- **Action:** Felix and Aegis-7 maintained a defensive perimeter.
+- **Status:** Objective Secured.
+- **Meta (XP):** Sump-Crawler Defeated. Total XP: 4,500.
+- **Award:** **750 XP** each (Kriv, Elara, Felix, Aegis-7, Kael, Scraps).
+- **Extraction Plan:** Aegis-7 to use **High-Torque Winch** and **Pulse Thrusters** to tow Scraps up Chute 4. Other party members to use Ornithopters.
+- **Status:** Extracting from the Aether-Sump.
+- **Action:** Party successfully extracted to the Vapor District.
+- **Movement:** Party returned to **The Vapor-Den**.
+- **Action:** Kriv delivered the **Star-Iron Battery** to Vesper.
+- **Reward:** Acquired the **Resonance Key** (Navigation tool for Phased Islands).
+- **Intel:** The Key must be struck against the ship's hull to detect the **Empty Islands** to the West.
+- **Status:** Quest "Reclamation in the Muck" Complete.
