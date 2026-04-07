@@ -4,8 +4,8 @@
 - **Race:** Half-Elf
 - **Class:** Bard (College of Lore)
 - **Level:** 6 (XP: 21506)
-- **Status:** Alive (40/40) (Fully Rested)
-- **Defense:** AC 19 (Glamoured Studded Leather +1 + Dex + Shield +1). **Resistances:** Poison.
+- **Status:** Alive (40/40)
+ - **Defense:** AC 21 (Aether-Silver Half-Plate + Dex + Shield +1). **Resistances:** Poison.
 - **Stats:** High Charisma (+3), Moderate Dexterity (+3)
 - **Abilities:**
     - **Bardic Inspiration:** Grant a d8 to ally rolls (Recharges on Short/Long Rest) (3/3).
@@ -17,11 +17,11 @@
      - **Cutting Words:** Reaction to reduce enemy rolls.
     - **Spellcasting:** Vicious Mockery, Mage Hand, Healing Word, Thunderwave, Faerie Fire, Invisibility, Shatter, Heat Metal, Hypnotic Pattern, Suggestion, Silence, Dispel Magic, Revivify, Leomund's Tiny Hut, Darkness, Dissonant Whispers. (4/4 Lvl 1, 2/3 Lvl 2, 3/3 Lvl 3).
         - **Darkvision:** Can see in dim light.
- - **Location:** Aetheria (The Vapor-Den).
+ - **Location:** Airborne (Western Reaches - *The Stormbreaker*).
  - **Inventory:**
-    - **Equipped:** Glamoured Studded Leather Armor +1, Sun Blade (Inactive), Vane's Bulwark +1, Dagger of Venom, Fang of the Many (+1 Acid), Grips of the Glacier, Boots of Elvenkind, Storm-Grade Ornithopter.
+    - **Equipped:** Aether-Silver Half-Plate (Glamoured), Sun Blade (Inactive), Vane's Bulwark +1, Dagger of Venom, Fang of the Many (+1 Acid), Grips of the Glacier, Boots of Elvenkind, Storm-Grade Ornithopter.
     - **Currency:** 923 Gold Pieces, 190 Silver Pieces. **[1,800gp Paid for Aether-Silver Armor]**
     - **Consumables:** Potion of Healing (5), Potion of Heroism, Holy Water, Rations (9), Waterskin, Healer's Kit, Black Powder Shot (10).
-    - **Tools/Misc:** Lute, Platinum Lute Trophy, Thunder Lance (Musket), Adamantine Skeleton Key, Bag of Tricks (Gray) [3/3], Torches (8), Hempen Rope (50ft), Iron Cask (Empty), Winter Wolf Cloaks (Party Set), Snow Goggles. **[Pending: Aether-Silver Half-Plate]**
-    - **Quest/Lore:** Crude Map, Copy of Crypt Map, Throne Room Key, Small Iron Key, Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Fang of the Frost +1 (Spare), Vial of Void Sand, Diamond Dust (300gp), Scroll of Dispel Magic.
- - **Notes:** Title: **Warden of the Forge**. Title: **Royal Court Minstrel**. Found Thul's letter. **Status:** Recovering from the Sump.
+    - **Tools/Misc:** Lute, Platinum Lute Trophy, Thunder Lance (Musket), Adamantine Skeleton Key, Bag of Tricks (Gray) [3/3], Torches (8), Hempen Rope (50ft), Iron Cask (Empty), Winter Wolf Cloaks (Party Set), Snow Goggles.
+    - **Quest/Lore:** Glamoured Studded Leather Armor +1 (Spare), Crude Map, Copy of Crypt Map, Throne Room Key, Small Iron Key, Pearl of Power, Masterwork Masquerade Costume (Silver) & Mask, Fang of the Frost +1 (Spare), Vial of Void Sand, Diamond Dust (300gp), Scroll of Dispel Magic.
+ - **Notes:** Title: **Warden of the Forge**. Title: **Royal Court Minstrel**. Found Thul's letter. **Status:** Docking at the Palace.

@@ -14,8 +14,8 @@
     - **Multiattack:** Makes two melee attacks.
     - **Adamantine Ironwood Halberd:** +8 to hit, reach 10 ft., 1d10+6 slashing damage. Deals double damage to objects.
     - **Void-Plate Greatsword:** +8 to hit, 2d6+6 slashing + 1d4 force damage. Siege Weapon (Double damage to objects).
- - **Location:** Aetheria (The Vapor-Den).
- - **Status:** Guarding the Battery.
+ - **Location:** The Palace of the Unbound (The Stormbreaker).
+ - **Status:** Securing Ship.
  - **Inventory:**
     - **Equipped:** Splint Armor, Void-Plate Greatsword, Commander's Formal Mantle, Storm-Grade Ornithopter.
     - **Weapons (Spare):** Adamantine Ironwood Halberd +1, Starfall Greatsword (+1, Radiant), Rotary Saw-Launcher (5 Blades), Glass Dagger.

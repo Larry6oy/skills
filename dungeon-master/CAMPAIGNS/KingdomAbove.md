@@ -340,3 +340,131 @@
 - **Reward:** Acquired the **Resonance Key** (Navigation tool for Phased Islands).
 - **Intel:** The Key must be struck against the ship's hull to detect the **Empty Islands** to the West.
 - **Status:** Quest "Reclamation in the Muck" Complete.
+- **Travel:** Party returned to the **Aether-Smithies**.
+- **Event:** **Retrofit Complete**.
+    - ***The Stormbreaker***: Now features **Aether-Gas Envelope** (Silent Running/Emergency Lift), **Wind-Bolt Cannons** (Infinite Ammo/Push-back), **The Arrow-Cradle**, and **Aetheric Veil** (1/Day Invisibility).
+- **Event:** **Armor Delivery**.
+    - **Elara:** Received **Aether-Silver Half-Plate** (AC 15 + Full Dex, Light Armor weight, Glamoured).
+- **Outcome:** Commander Kael completed his apprenticeship in Aether-tech.
+- **Status:** All ship and gear upgrades finalized. Ready for departure to the Empty Islands.
+- **Action:** Kriv handed the **Resonance Key** to Felix.
+- **Dialogue:** Kriv noted its secondary use as a "high-quality tuning fork."
+- **Action:** The Wardens boarded ***The Stormbreaker***.
+- **Movement:** Launched from the Aether-Smithies.
+- **Technique:** Engaged **Silent Running** via the new Aether-Gas envelope.
+- **Course:** West, toward the **Empty Islands**.
+- **Status:** Mission: Hunt for the Phased Islands.
+- **Time:** Day 35 (Evening).
+- **Event:** Entered the **Western Reaches**.
+- **Observation (Kriv):** Spotted an **Unmarked Stealth-Skiff** shadowing *The Stormbreaker* from the rear slipstream.
+- **Intel:** Identified as likely **Cloud-Thieves** (Vesper's crew) tracking the party.
+- **Environment:** Indigo/Gold skies, pack of migrating **Aether-Rays** spotted below.
+- **Status:** Executing Ruse.
+- **Action:** Kael set **Elder Storm Cores** to Max Output (Feigned Failure).
+- **Action:** Elara initiated a controlled, "stuttering" descent and vented gas for visual effect.
+- **Effect:** **Silent Running** disabled; ship is now loud and visible.
+- **Reaction:** The **Stealth-Skiff** has accelerated and is closing the distance.
+- **Status:** Ambush prepared.
+- **Action:** Felix activated the **Resonance Emitter** at Max Setting.
+- **Effect (Emitter):** Destabilized the Stealth-Skiff's aether-fins; enemy is vibrating/losing control.
+- **Action:** Elara activated the **Aetheric Veil** (1/Day).
+- ***The Stormbreaker***: Now **Invisible** (Cloud-Mist camouflage).
+- **Outcome:** The party has achieved total tactical surprise.
+- **Status:** Ambush Sprung. Surprise Round Initiated.
+- **Action:** Kael and Aegis-7 manned the **Wind-Bolt Cannons** (Holding fire).
+- **Observation:** Inspected the enemy flag.
+- **Intel (Faction):** Identified as the **Carrion-Wings** (High-altitude scavengers/pirates).
+- **Insignia:** A skeletal hand clutching a cloud on a crimson field.
+- **Tactical:** The enemy is destabilized but attempting to aim harpoons at the party's last known location.
+- **Status:** Holding the Initiative.
+- **Action:** Kael and Aegis-7 fired the **Wind-Bolt Cannons** while invisible.
+- **Target:** The Carrion-Wings' sails and masts.
+- **Result (Ambush):** Critical Hit. The invisible projectiles shredded the sails and snapped a secondary boom.
+- **Effect:** The enemy skiff is **Immobilized** and drifting. 
+- **Advantage:** The party remains invisible under the **Aetheric Veil** while the enemy is exposed.
+- **Action:** Kael fired harpoons and tethered the ships. Lowered boarding planks.
+- **Event:** **Aetheric Veil** ended as the party boarded the enemy vessel.
+- **Action:** Kriv, Aegis-7, Felix, and Scraps boarded the Carrion-Wings skiff.
+- **Action:** Elara initiated **Intimidation** (Diplomacy) to demand surrender.
+- **Reaction:** The pirate crew is cowering; the Captain has dropped his weapon.
+- **Status:** Boarding Action / Social Standoff.
+- **Action:** Kriv interrogated the Pirate Captain.
+- **Intel (Motivation):** Pirates were scavenging; they mistook the party's ruse for a genuine engine failure and intended to salvage the "wreck."
+- **Intel (Empty Islands):** Identified the **Shattered Spire** as a landmark within the phase-drift.
+- **Hazard:** Warned of "**Ghost Winds**" that drain Aether-Gas lift.
+- **Action:** Felix and Aegis-7 searched the skiff.
+- **Loot Found:** **Crate of Wind-Glass** (500gp value), **Phase-Current Map** (Advantage on Phase-Drift navigation).
+- **Intel (Armaments):** Interrogated Captain regarding skiff weaponry:
+    - **2x Heavy Harpoon Ballistae:** For grappling and scavenging.
+    - **1x Light Aether-Net Launcher:** For disabling engine propulsion.
+    - **1x Rotary Bolt-Thrower:** Anti-personnel/defense.
+    - **Ammo:** Crate of **Jagged Scavenger-Bolts**.
+- **Intel (Stealth):** Interrogated Captain regarding cloaking:
+    - **Shadow-Glass Coating:** Pulverized obsidian/abyssal-silt hull that absorbs light.
+    - **Slipstream Venting:** Vents spent aether-gas into low-pressure pockets to mask thermal signature.
+- **Status:** Interrogation Complete.
+- **Action:** Kriv ordered the systematic de-arming of the pirate skiff.
+- **Seized Items:** 2x Heavy Harpoon Ballistae, 1x Light Aether-Net Launcher, 1x Rotary Bolt-Thrower, Crate of Jagged Scavenger-Bolts.
+- **Outcome:** The Carrion-Wings ship was left adrift but functional (Lift cells intact).
+- **Departure:** ***The Stormbreaker*** resumed its course toward the **Shattered Spire**.
+- **Status:** Mission: Hunt for the Phased Islands.
+- **Action:** Kriv examined the **Phase-Current Map** with the party.
+- **Intel (Detailed):** 
+    - **The Phase-Drift:** Confirmed as a vortex of overlapping realities centered on the **Shattered Spire**.
+    - **Ghost Winds:** Mapped as low-pressure "Drain Zones"; the map provides safe amber channels to navigate them.
+    - **The Unbound Reef:** The true location of the phased islands, hidden in the eye of the vortex.
+    - **Threat:** **Static Phantoms** (Guardian entities) are marked guarding the approach to the Spire.
+- **Strategic Advantage:** The party now has the coordinates to navigate the phase-drift safely.
+- **Action:** Entered the **Phase-Drift**. 
+- **Tactical:** Ghost Winds partially drained Aether-Gas lift; Kael engaged the **Elder Storm Cores** and **Energy Oars** as backup systems.
+- **Observation:** Sighted the **Shattered Spire** (Reality-tear landmark).
+- **Encounter:** **Static Phantoms** (Echo-guardians) detected and converging on the ship.
+- **Atmosphere:** Fractured visuals, "Static" noise, high-altitude turbulence.
+- **Action:** Felix used the **Resonance Emitter** + **Resonance Key** to harmonize frequencies.
+- **Effect:** **Static Phantoms** "solidified." They have lost their phased displacement and are now vulnerable to all damage types.
+- **Outcome:** Several phantoms were warded off or fell due to sudden material weight. The remaining guardians are physically present on the material plane.
+- **Action:** Kael fired the **Wind-Bolt Cannons** at the solidified targets.
+- **Result:** 3 Phantoms shattered (Vulnerable damage).
+- **Observation (Kriv):** Detailed inspection revealed the phantoms are high-fidelity replicas of ancient Aeran soldiers from the "Great Unbinding" era.
+- **Intel:** The Shattered Spire appears to be projecting "historical snapshots" as defensive echoes.
+- **Status:** Combat: Round 2.
+- **Action:** Kriv ordered a **Broadside**.
+- **Action (Kael):** Fired all 4 Port-side Wind-Bolt Cannons.
+- **Result:** The solidified vanguard phantoms were obliterated (Vulnerable damage).
+- **Discovery (Kriv):** Spotted a specific "Leader" phantom—a High Archon holding the **Engine of the Unbound**.
+- **Intel (Felix):** Identified the Spire as a **Chronal Anchor**. The "Great Unbinding" is repeating in a loop.
+- **Objective Update:** Retrieve the **Engine of the Unbound** from the Archon's echo to stabilize the Phased Islands.
+- **Hazard:** Remaining phantoms are converging on the Archon's position.
+- **Action:** Aegis-7 used **Pulse Thrusters** (1 Charge) and **High-Torque Grapple** to execute the **Aetheric Slingshot**.
+- **Success:** Aegis-7 successfully retrieved the **Engine of the Unbound** from the Archon phantom.
+- **Action:** Aegis-7 tossed the Engine to *The Stormbreaker*; Kriv secured it.
+- **Action:** Kael maneuvered the ship upward and fired a second **Wind-Bolt Broadside**.
+- **Result:** Remaining pursuer phantoms destroyed.
+- **Effect:** The Engine and the **Resonance Key** are harmonizing.
+- **Status:** Engine Secured. Combat effectively over.
+- **Action:** Kriv and Felix inspected the **Engine of the Unbound**.
+- **Intel (Engine Properties):** Identified as a **Planar Harmonizer** (Gravity/Physics manipulation).
+- **Upgrade Potential (*The Stormbreaker*):**
+    - **Ghost-Phase Drive:** Invisibility and phasing through matter.
+    - **Infinite Lift:** Removes dependency on fuel/gas.
+    - **Chronal Wake:** Instantaneous movement/speed.
+- **Consequence:** Removing the Engine from the Spire stabilizes the islands but leaves them vulnerable to the Ghost Winds.
+- **Decision:** Kriv chose **Island Stability** over ship upgrades.
+- **Action:** Kriv returned the **Engine of the Unbound** to the High Altar at the Spire's peak.
+- **Event:** The **Chronal Anchor** reset. The Phase-Drift resolved.
+- **Outcome:** **The Unbound Reef** is fully solidified and re-synced with the Material Plane.
+- **Effect:** The "Ghost Winds" have ceased; navigation in the Western Reaches is now safe.
+- **Reward:** Earned the gratitude of the "Lost Stratocracy."
+- **Status:** Resting.
+- **Time:** Day 35 (Night).
+- **Action:** Aegis-7 secured ***The Stormbreaker*** to the Spire.
+- **Action:** Elara cast **Leomund's Tiny Hut** over the sleeping quarters.
+- **Action:** Kriv performed a prayer of thanksgiving at the Spire peak.
+- **Event:** **Long Rest** taken. Party fully recovered.
+- **Status:** Day 36 (Morning). Ready to explore the Reef.
+- **Action:** Felix struck the **Resonance Key** against the Spire to find the path.
+- **Event:** The Key produced a guiding violet light-thread.
+- **Arrival:** ***The Stormbreaker*** docked at the **Grand Balcony of the Winds** at the **Palace of the Unbound**.
+- **Encounter:** **High Priestess Zephyrine** and the Aeran Sky-Guards.
+- **Dialogue:** Zephyrine revealed the Reef had been trapped in a time-loop for 300 years.
+- **Status:** First Contact with the Lost Stratocracy.

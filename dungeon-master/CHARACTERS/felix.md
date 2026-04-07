@@ -13,9 +13,9 @@
     - **Potent Cantrip:** Creatures take half damage from cantrips on a successful save.
  - **Spellcasting:** 3/4 Slots (Level 1), 3/3 Slots (Level 2), 3/3 Slots (Level 3).
     - **Spells Known:** Fire Bolt, Light, Magic Missile, Shield, Identify, Detect Magic, Mage Armor, Fog Cloud, Ray of Sickness, False Life, Scorching Ray, Misty Step, Mage Hand, Shatter, Hold Person, Flaming Sphere, Magic Weapon, Fireball, Counterspell, Vampiric Touch, Animate Dead, Lightning Bolt, Thunder Step, Blindness/Deafness, Web, Fly, Feather Fall.
- - **Location:** Aetheria (The Vapor-Den).
-    - **Inventory:** Felix's Spellbook (Refurbished Manticore Leather), Necromancer's Spellbook, Component Pouch, Collapsable Cauldron (lent by Mother Hemlock), Scimitar (Equipped), Shortbow (Ready), Quiver (15 Poisoned Arrows), Potion of Greater Healing, Spider Staff (Attuned), Circlet of the Watcher (Attuned), 3197 Gold Pieces, 165 Silver Pieces, Cloak of Protection (equipped), Holy Water, Masterwork Masquerade Costume (Midnight Blue) & Mask, Rations (9), Waterskin, Storm-Grade Ornithopter (Equipped), Cloak of the Mountebank, Resonance Emitter, Wand of the War Mage +2 (Attuned), Scroll of Dimension Door, **Scribing Supplies**, **Gem of Elemental Air**.
-   - **Status:** Negotiating with Vesper.
+ - **Location:** Airborne (Western Reaches - *The Stormbreaker*).
+   - **Inventory:** Felix's Spellbook (Refurbished Manticore Leather), Necromancer's Spellbook, Component pouch, Collapsable Cauldron (lent by Mother Hemlock), Scimitar (Equipped), Shortbow (Ready), Quiver (15 Poisoned Arrows), Potion of Greater Healing, Spider Staff (Attuned), Circlet of the Watcher (Attuned), 3197 Gold Pieces, 165 Silver Pieces, Cloak of Protection (equipped), Holy Water, Masterwork Masquerade Costume (Midnight Blue) & Mask, Rations (9), Waterskin, Storm-Grade Ornithopter (Equipped), Cloak of the Mountebank, Resonance Emitter, Wand of the War Mage +2 (Attuned), Scroll of Dimension Door, Scribing Supplies, Gem of Elemental Air, Resonance Key.
+   - **Status:** Observing Aeran architecture.
  - **Notes:** Title: **Warden of the Forge**. Witnessed Oren's unmasking. **Rank:** Master of Evocation & Theory of Teleportation.
 ### Bag of Holding Contents
 - **Wyvern Parts:** Meat.
